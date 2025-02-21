@@ -1,0 +1,78 @@
+{
+  "user_data": {
+    "codice": "O8W5",
+    "sesso": "M",
+    "eta": "61-100",
+    "timestamp": "2025-02-21 10:30:45"
+  },
+  "selections": {
+    "infanzia": [
+      "maestra",
+      "coccole",
+      "cavalieri"
+    ],
+    "maturita": [
+      "investimenti",
+      "mutuo",
+      "salute"
+    ],
+    "vecchiaia": [
+      "preghiera",
+      "limiti",
+      "apprezzamento"
+    ]
+  },
+  "prompts": {
+    "infanzia": [
+      {
+        "word": "maestra",
+        "prompt": "Create an evocative image in which the teacher becomes a gentle guide in a world of knowledge and fantasy: a classroom transforms into an enchanted realm, filled with flying books, animated blackboards, and smiles that light the path of learning.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "coccole",
+        "prompt": "Visualize a scene where cuddles materialize in a soft, tender atmosphere: plush textures, warm glows, and tiny sparks of affection create an environment that conveys the comfort and reassurance of physical closeness during early years.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "cavalieri",
+        "prompt": "Design a chivalric scene set in an enchanted kingdom: shimmering armors, gleaming swords, and magical castles merge into a visual narrative evoking courage, honor, and the heroic fantasy typical of children’s fairy tales.",
+        "live_clip": "childhood_magic"
+      }
+    ],
+    "maturita": [
+      {
+        "word": "investimenti",
+        "prompt": "Design a scene symbolizing investments as seeds that sprout in a fertile ground of opportunity: financial elements, growing graphs, and modern settings merge into an image that conveys foresight, commitment, and vision in building the future.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "mutuo",
+        "prompt": "Create a symbolic scene where the concept of a mortgage transforms into a bridge between dreams and reality: contracts, numbers, and elegant architectures combine to evoke the journey of investment and security typical of maturity, with details suggesting commitment and hope.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "salute",
+        "prompt": "Create a scene evoking physical and mental well-being: minimalist settings, touches of green, and details that recall mindfulness practices blend into an image that communicates care, balance, and the importance of health in adult life.",
+        "live_clip": "adult_refinement"
+      }
+    ],
+    "vecchiaia": [
+      {
+        "word": "preghiera",
+        "prompt": "Design a scene where prayer becomes a moment of deep connection: soft lights, spiritual settings, and symbolic details create an atmosphere of peace and reflection, typical of the inner devotion in old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "limiti",
+        "prompt": "Create a scene that captures the essence of limiti",
+        "live_clip": "default"
+      },
+      {
+        "word": "apprezzamento",
+        "prompt": "Create a scene that captures the essence of apprezzamento",
+        "live_clip": "default"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "user_data": {
+    "codice": "RNFA",
+    "sesso": "M",
+    "eta": "0-18"
+  },
+  "infanzia": [
+    {
+      "word": "parco",
+      "prompt": "Illustrate an enchanted park where green merges with the sky in a burst of colors and lights: trees whisper secrets, paths invite discoveries, and outdoor games come alive in a dance of shadows and reflections, conveying the joy and carefreeness of youth.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "nave",
+      "prompt": "Create a scene where a ship transforms into an enchanted vessel: colorful sails, shimmering water reflections, and surreal details combine to narrate a story of adventures and discoveries, symbolizing the infinite horizon and the magic of childhood dreams.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "danza",
+      "prompt": "Create a scene where dance becomes a universal language: fluid movements, interplay of light and shadow, and dreamlike settings come together to convey the joy, grace, and spontaneity of movement art in the early years.",
+      "live_clip": "childhood_magic"
+    }
+  ],
+  "maturita": [
+    {
+      "word": "fallimenti",
+      "prompt": "Visualize a scene where failures transform into valuable lessons: fading details, subtle contrasts, and settings that narrate resilience and the ability to rise again after each fall, expressing the wisdom and maturity gained with experience.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "mutuo",
+      "prompt": "Create a symbolic scene where the concept of a mortgage transforms into a bridge between dreams and reality: contracts, numbers, and elegant architectures combine to evoke the journey of investment and security typical of maturity, with details suggesting commitment and hope.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "miglioramento",
+      "prompt": "Design a scene where improvement manifests as an upward journey: steps of light, progressively refined details, and evolving settings express the constant commitment to personal and professional evolution characteristic of adult life.",
+      "live_clip": "adult_refinement"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "gratitudine",
+      "prompt": "Create a scene that captures the essence of gratitudine",
+      "live_clip": "default"
+    },
+    {
+      "word": "riflessione",
+      "prompt": "Visualize an environment where reflection becomes a mirror of the soul: glossy surfaces, gentle shadows, and details that tell past stories blend into an image expressing the profound awareness typical of advanced years.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "comodità",
+      "prompt": "Create a scene that captures the essence of comodità",
+      "live_clip": "default"
+    }
+  ]
+}

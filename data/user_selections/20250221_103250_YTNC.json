@@ -1,0 +1,78 @@
+{
+  "user_data": {
+    "codice": "YTNC",
+    "sesso": "M",
+    "eta": "19-60",
+    "timestamp": "2025-02-21 10:32:50"
+  },
+  "selections": {
+    "infanzia": [
+      "sport",
+      "conchiglie",
+      "merenda"
+    ],
+    "maturita": [
+      "sfide",
+      "salute",
+      "crescita"
+    ],
+    "vecchiaia": [
+      "dignità",
+      "futuro",
+      "pace"
+    ]
+  },
+  "prompts": {
+    "infanzia": [
+      {
+        "word": "sport",
+        "prompt": "Design a scene bursting with movement where sports become a festival of energy and vitality: vividly colored fields, athletic gestures, and dynamic motion capture the essence of play, friendly competition, and the sheer joy of physical activity in childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "conchiglie",
+        "prompt": "Visualize seashells emerging from the sand like tiny marine treasures: delicate textures, luminous reflections, and an atmosphere of discovery transform each shell into a symbol of natural beauty and the secret charm of the sea, in perfect harmony with childhood play.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "merenda",
+        "prompt": "Visualize a childhood snack transformed into an enchanted banquet: fruits, treats, and drinks glow with vivid colors, while small details—like edible flowers and playful decorations—turn this moment into a celebration of joy and sharing.",
+        "live_clip": "childhood_magic"
+      }
+    ],
+    "maturita": [
+      {
+        "word": "sfide",
+        "prompt": "Visualize an environment where challenges transform into opportunities for growth: obstacles, winding paths, and resilient details merge into an image that expresses the determination and courage required to turn every difficulty into a chance, essential in mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "salute",
+        "prompt": "Create a scene evoking physical and mental well-being: minimalist settings, touches of green, and details that recall mindfulness practices blend into an image that communicates care, balance, and the importance of health in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "crescita",
+        "prompt": "Visualize growth as a dynamic process in an ever-evolving environment: digital trees, roots of light, and expanding branches tell the story of constant transformation and maturation that defines adult life.",
+        "live_clip": "adult_refinement"
+      }
+    ],
+    "vecchiaia": [
+      {
+        "word": "dignità",
+        "prompt": "Create a scene that captures the essence of dignità",
+        "live_clip": "default"
+      },
+      {
+        "word": "futuro",
+        "prompt": "Visualize an environment where the future appears as a distant, serene horizon: subtle light gradients, open paths, and details that speak of hope and continuity create a tableau that, even in the quiet of advanced years, keeps the flame of anticipation alive.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "pace",
+        "prompt": "Design an image that embodies peace as an all-encompassing state of mind: soft environments, luminous details, and soothing textures blend to create an atmosphere of serenity and welcome, a symbol of the calm and wisdom of later years.",
+        "live_clip": "elderly_reflection"
+      }
+    ]
+  }
+}

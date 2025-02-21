@@ -175,7 +175,7 @@ input:focus, select:focus {
     padding: 12px;
     text-align: center;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
     font-size: 16px;
     border: 1px dashed #e0e0ff;
     border-radius: 10px;
@@ -264,7 +264,7 @@ input:focus, select:focus {
     border: 1px dashed #e0e0ff;
     padding: 8px 16px;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
     border-radius: 10px;
 }
 
@@ -281,7 +281,7 @@ input:focus, select:focus {
     width: 100%;
     padding: 20px;
     text-align: center;
-    transition: all 0.5s ease;
+    transition: background-color 0.5s ease, box-shadow 0.5s ease;
     margin-bottom: 20px;
     font-family: 'Press Start 2P', cursive;
     font-size: 18px;
@@ -324,40 +324,6 @@ input:focus, select:focus {
     font-weight: bold;
 }
 
-/* Animazioni */
-@keyframes glow {
-    0% { text-shadow: 0 0 5px rgba(224, 224, 255, 0.5); }
-    50% { text-shadow: 0 0 15px rgba(224, 224, 255, 0.8); }
-    100% { text-shadow: 0 0 5px rgba(224, 224, 255, 0.5); }
-}
-
-.glow-text {
-    animation: glow 2s infinite;
-}
-
-/* Success overlay */
-.success-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-color: #00ff00;
-    display: none;
-    justify-content: center;
-    align-items: center;
-    z-index: 1000;
-}
-
-.success-overlay.show {
-    display: flex;
-}
-
-.success-message {
-    text-align: center;
-    font-family: 'Share Tech Mono', monospace;
-}
-
 .code-display {
     font-size: 4em;
     font-weight: bold;
@@ -379,6 +345,52 @@ input:focus, select:focus {
     text-shadow: 0 0 10px rgba(0, 255, 0, 0.8),
                  0 0 20px rgba(0, 255, 0, 0.8),
                  0 0 30px rgba(0, 255, 0, 0.6);
+}
+
+/* Success overlay */
+.success-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #00ff00;
+    opacity: 0;
+    visibility: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    transition: all 0.5s ease;
+}
+
+.success-overlay.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+.success-message {
+    transform: translateY(20px);
+    opacity: 0;
+    transition: transform 0.5s ease, opacity 0.5s ease;
+    text-align: center;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.success-overlay.show .success-message {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+/* Animazioni */
+@keyframes glow {
+    0% { text-shadow: 0 0 5px rgba(224, 224, 255, 0.5); }
+    50% { text-shadow: 0 0 15px rgba(224, 224, 255, 0.8); }
+    100% { text-shadow: 0 0 5px rgba(224, 224, 255, 0.5); }
+}
+
+.glow-text {
+    animation: glow 2s infinite;
 }
 
 /* Media Queries */

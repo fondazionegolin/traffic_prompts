@@ -1,0 +1,78 @@
+{
+  "user_data": {
+    "codice": "HWDC",
+    "sesso": "M",
+    "eta": "19-60",
+    "timestamp": "2025-02-21 10:32:44"
+  },
+  "selections": {
+    "infanzia": [
+      "cartella",
+      "giocattoli",
+      "nonna"
+    ],
+    "maturita": [
+      "equilibrio",
+      "salute",
+      "crisi"
+    ],
+    "vecchiaia": [
+      "tradizione",
+      "serenità",
+      "pensione"
+    ]
+  },
+  "prompts": {
+    "infanzia": [
+      {
+        "word": "cartella",
+        "prompt": "Imagine a school folder that opens like a magical book: documents, drawings, and secrets animate in a dance of colors and lights, transporting the viewer into a world where the ordinary becomes extraordinary and every detail tells a story of youthful adventures.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "giocattoli",
+        "prompt": "Design a scene where every toy becomes the protagonist of a magical adventure: intricate details, realistic textures, and an atmosphere suspended between reality and fantasy revive the charm and exploratory energy of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "nonna",
+        "prompt": "Draw an intimate scene in which the figure of a grandmother epitomizes wisdom and sweetness: her embrace is wrapped in soft light, and the surroundings glow with memories, old photographs, and little secrets that speak of an ancient, comforting love.",
+        "live_clip": "childhood_magic"
+      }
+    ],
+    "maturita": [
+      {
+        "word": "equilibrio",
+        "prompt": "Visualize a scene where balance transforms into a dance of light and shadow: natural elements and architectural details harmonize in a tableau that expresses the constant quest for stability and harmony typical of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "salute",
+        "prompt": "Create a scene evoking physical and mental well-being: minimalist settings, touches of green, and details that recall mindfulness practices blend into an image that communicates care, balance, and the importance of health in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "crisi",
+        "prompt": "Visualize a scene where crisis becomes a moment of transformation: elements disintegrating and then reassembling, interplay of light and shadow, and settings that suggest rebirth represent the ability to overcome and learn from life’s difficulties.",
+        "live_clip": "adult_refinement"
+      }
+    ],
+    "vecchiaia": [
+      {
+        "word": "tradizione",
+        "prompt": "Create an image where tradition manifests through iconic elements: period costumes, familiar domestic settings, and cultural symbols blend to evoke a sense of continuity and belonging that characterizes old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "serenità",
+        "prompt": "Visualize a scene where serenity transforms into a landscape of gentle light and harmony: natural details, soft shadows, and settings that invite calm narrate the inner quiet and the wisdom that only time can bestow.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "pensione",
+        "prompt": "Imagine a serene scene where retirement becomes a moment of rest and reflection: warm lights, tranquil settings, and symbolic details suggesting slowed time evoke the serenity and calm that characterize the golden years.",
+        "live_clip": "elderly_reflection"
+      }
+    ]
+  }
+}
