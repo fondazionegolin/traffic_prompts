@@ -1,0 +1,3 @@
+.idea
+data/prompts/*.json
+data/user_selections/*.json
