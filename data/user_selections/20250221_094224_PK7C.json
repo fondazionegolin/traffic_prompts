@@ -1,0 +1,78 @@
+{
+  "user_data": {
+    "codice": "PK7C",
+    "sesso": "F",
+    "eta": "0-18",
+    "timestamp": "2025-02-21 09:42:24"
+  },
+  "selections": {
+    "infanzia": [
+      "peluche",
+      "macchinine",
+      "amici"
+    ],
+    "maturita": [
+      "scelte",
+      "riunioni",
+      "tecnologia"
+    ],
+    "vecchiaia": [
+      "accettazione",
+      "casa",
+      "resilienza"
+    ]
+  },
+  "prompts": {
+    "infanzia": [
+      {
+        "word": "peluche",
+        "prompt": "Create a tender vision where stuffed animals spring to life in a soft, welcoming world: velvety textures, pastel colors, and a cocoon of warmth evoke the comfort and companionship that only fabric friends can provide during childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "macchinine",
+        "prompt": "Visualize a wild race of toy cars on an imaginary circuit: vivid colors, glossy surfaces, and dynamic motion effects capture the speed and enthusiasm of play, transporting the viewer into a world of inventive and carefree childhood fun.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "amici",
+        "prompt": "Depict a spontaneous scene of friends enjoying a celebration where bonds and complicity manifest in laughter, games, and small adventures: vivid colors, affectionate gestures, and transforming environments swirl together in a whirlwind of emotions and discoveries.",
+        "live_clip": "childhood_magic"
+      }
+    ],
+    "maturita": [
+      {
+        "word": "scelte",
+        "prompt": "Create an illustration representing choices as infinite paths: luminous ways, symbolic intersections, and narrative details blend to express the uniqueness of each personal and professional journey typical of mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "riunioni",
+        "prompt": "Create a scene that captures the atmosphere of strategic meetings: modern boardrooms, glass tables, and digital screens integrate into a context of collaboration and decision-making, with details that express the importance of communication and synergy in the adult workplace.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "tecnologia",
+        "prompt": "Imagine a futuristic landscape where technology shapes reality: circuits, floating screens, and digital details merge in an environment rich with energy and innovation, symbolizing the connection between progress and daily adult life.",
+        "live_clip": "adult_refinement"
+      }
+    ],
+    "vecchiaia": [
+      {
+        "word": "accettazione",
+        "prompt": "Create a scene that captures the essence of accettazione",
+        "live_clip": "default"
+      },
+      {
+        "word": "casa",
+        "prompt": "Create a scene that captures the essence of casa",
+        "live_clip": "default"
+      },
+      {
+        "word": "resilienza",
+        "prompt": "Create a scene that captures the essence of resilienza",
+        "live_clip": "default"
+      }
+    ]
+  }
+}

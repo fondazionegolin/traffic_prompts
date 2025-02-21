@@ -1,0 +1,53 @@
+{
+  "infanzia": [
+    {
+      "word": "storie",
+      "prompt": "Create a visual landscape where stories materialize as luminous threads connecting characters, settings, and memories: every tale intertwines into a richly detailed narrative tapestry that conveys the ineffable magic of storytelling in childhood.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "dolci",
+      "prompt": "Imagine a banquet of sweets that transforms into a kaleidoscope of flavors and colors: every candy, cookie, and cake becomes a small masterpiece, rich in delightful details and bathed in soft light that expresses the sweetness and innocence of childhood memories.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "biscotti",
+      "prompt": "Visualize an image where freshly baked cookies become little masterpieces of taste and imagination: inviting aromas, golden textures, and intricate details reminiscent of secret recipes create a warm and nostalgic atmosphere, symbolizing the simple pleasures of childhood.",
+      "live_clip": "childhood_magic"
+    }
+  ],
+  "maturita": [
+    {
+      "word": "presente",
+      "prompt": "Design an image that celebrates the present as the only tangible moment: contrasts of light, details of everyday life, and contemporary settings merge to convey the awareness and beauty of the lived instant, a key element of mature life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "finanze",
+      "prompt": "Create an image that transforms the world of finance into a landscape of precision and beauty: numbers, graphs, and modern environments blend to represent order, transparency, and the complexity of the economic system managed responsibly in adulthood.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "crescita",
+      "prompt": "Visualize growth as a dynamic process in an ever-evolving environment: digital trees, roots of light, and expanding branches tell the story of constant transformation and maturation that defines adult life.",
+      "live_clip": "adult_refinement"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "spiritualità",
+      "prompt": "Visualize a scene where spirituality manifests through ancient symbols and celestial light: ethereal environments, prayerful details, and delicate textures tell the story of the search for meaning and the connection with the infinite, an expression of wisdom in old age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "eternità",
+      "prompt": "Create a scene that captures the essence of eternità",
+      "live_clip": "default"
+    },
+    {
+      "word": "esperienza",
+      "prompt": "Design a scene where experience becomes a living archive: symbolic objects, richly historic settings, and delicate lighting tell the story of a life lived, transforming every detail into a message of resilience and teaching, typical of mature years.",
+      "live_clip": "elderly_reflection"
+    }
+  ]
+}

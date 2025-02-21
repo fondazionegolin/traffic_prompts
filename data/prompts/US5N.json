@@ -1,0 +1,58 @@
+{
+  "user_data": {
+    "codice": "US5N",
+    "sesso": "M",
+    "eta": "19-60"
+  },
+  "infanzia": [
+    {
+      "word": "supereroi",
+      "prompt": "Design an epic scene where childhood superheroes come to life: dazzling costumes, dynamic powers, and vibrant settings create an atmosphere of heroism and fantasy, where every detail conveys strength and protection typical of a child's dream.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "compleanno",
+      "prompt": "Imagine a dreamlike birthday celebration where every candle, balloon, and cake transforms into a symbol of happiness and growth: the scene is enriched by playful lighting, festive details, and a warm atmosphere embodying the love and joy of this special childhood moment.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "sole",
+      "prompt": "Imagine a sunrise exploding with light and warmth, where the sun transforms everything into gold: luminous rays, vibrant reflections, and an atmosphere of rebirth capture the joy and vitality of the very first moments of life.",
+      "live_clip": "childhood_magic"
+    }
+  ],
+  "maturita": [
+    {
+      "word": "tecnologia",
+      "prompt": "Imagine a futuristic landscape where technology shapes reality: circuits, floating screens, and digital details merge in an environment rich with energy and innovation, symbolizing the connection between progress and daily adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "network",
+      "prompt": "Create an image where the network transforms into an intertwined web of luminous connections: fluid lines, digital nodes, and stylized environments illustrate the power of relationships and integration within the modern professional landscape.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "lavoro",
+      "prompt": "Create a multi-layered scene symbolizing the complex world of work: a contemporary office transforms into an environment where digital elements, productivity symbols, and luminous reflections tell the ongoing quest for success and achievement, blending modern details with touches of emotional symbolism.",
+      "live_clip": "adult_refinement"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "benessere",
+      "prompt": "Design an image that expresses well-being as a harmony between body and spirit: natural settings, warm light, and details that evoke practices of meditation and personal care create an atmosphere of peace and satisfaction typical of the golden years.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "umiltà",
+      "prompt": "Create a scene that captures the essence of umiltà",
+      "live_clip": "default"
+    },
+    {
+      "word": "eredità",
+      "prompt": "Create a scene where legacy manifests as a gift of wisdom and transmitted values: precious objects, familiar symbols, and historically infused settings blend to tell the story of a life lived fully, an expression of love and continuity in old age.",
+      "live_clip": "elderly_reflection"
+    }
+  ]
+}

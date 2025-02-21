@@ -1,0 +1,78 @@
+{
+  "user_data": {
+    "codice": "ICNQ",
+    "sesso": "F",
+    "eta": "19-60",
+    "timestamp": "2025-02-21 10:15:40"
+  },
+  "selections": {
+    "infanzia": [
+      "nonno",
+      "fantasia",
+      "dolci"
+    ],
+    "maturita": [
+      "performance",
+      "sfide",
+      "organizzazione"
+    ],
+    "vecchiaia": [
+      "apprezzamento",
+      "sicurezza",
+      "aiuto"
+    ]
+  },
+  "prompts": {
+    "infanzia": [
+      {
+        "word": "nonno",
+        "prompt": "Depict a grandfather in a setting filled with nostalgic and welcoming details: every wrinkle and gesture tells stories of times gone by, all immersed in warm, enveloping light that conveys the wisdom and love typical of paternal figures in childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "fantasia",
+        "prompt": "Imagine a universe with no limits where fantasy reigns: fluid shapes, iridescent colors, and surreal settings combine to create a world where the possible and impossible blend, embodying the free and creative spirit of childhood dreams.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "dolci",
+        "prompt": "Imagine a banquet of sweets that transforms into a kaleidoscope of flavors and colors: every candy, cookie, and cake becomes a small masterpiece, rich in delightful details and bathed in soft light that expresses the sweetness and innocence of childhood memories.",
+        "live_clip": "childhood_magic"
+      }
+    ],
+    "maturita": [
+      {
+        "word": "performance",
+        "prompt": "Visualize a dynamic scene where performance transforms into an exhibition of talent and precision: dramatic lights, fluid movements, and high-tech details blend into an image that expresses success, challenge, and recognition of daily effort in the professional adult realm.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "sfide",
+        "prompt": "Visualize an environment where challenges transform into opportunities for growth: obstacles, winding paths, and resilient details merge into an image that expresses the determination and courage required to turn every difficulty into a chance, essential in mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "organizzazione",
+        "prompt": "Design a scene where organization translates into perfect geometries and ordered flows of light: structural elements, minimalist details, and sophisticated settings communicate the precision and harmony necessary to manage daily challenges in adult life.",
+        "live_clip": "adult_refinement"
+      }
+    ],
+    "vecchiaia": [
+      {
+        "word": "apprezzamento",
+        "prompt": "Create a scene that captures the essence of apprezzamento",
+        "live_clip": "default"
+      },
+      {
+        "word": "sicurezza",
+        "prompt": "Create a scene that captures the essence of sicurezza",
+        "live_clip": "default"
+      },
+      {
+        "word": "aiuto",
+        "prompt": "Design an image where mutual help becomes a unifying thread of humanity: gentle gestures, reassuring settings, and symbolic details represent the emotional and practical support that narrates the strength of solidarity in old age.",
+        "live_clip": "elderly_reflection"
+      }
+    ]
+  }
+}

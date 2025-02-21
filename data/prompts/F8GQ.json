@@ -1,0 +1,53 @@
+{
+  "infanzia": [
+    {
+      "word": "colori",
+      "prompt": "Imagine an explosion of colors transforming every surface into a living artwork: pastel hues and brilliant accents dance in harmony, evoking the dynamism, joy, and endless variety of emotions typical of early childhood.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "scuola",
+      "prompt": "Design a scene where school becomes a portal to worlds of knowledge and fantasy: classrooms that expand into imaginative landscapes, desks that tell stories, and blackboards that transform into windows on universes full of adventures, capturing the wonder and curiosity of early years.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "zii",
+      "prompt": "Imagine a lively scene where uncles and aunts become co-adventurers in extraordinary escapades: playful details, familiar settings, and touches of surrealism transform a simple family gathering into a world full of surprises and affection typical of extended family bonds in childhood.",
+      "live_clip": "childhood_magic"
+    }
+  ],
+  "maturita": [
+    {
+      "word": "eccellenza",
+      "prompt": "Create a symbolic scene where excellence manifests through perfect forms and sublime touches of light: design elements, sophisticated environments, and precious details narrate the continuous pursuit of perfection and the satisfaction of achieved goals in adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "esperienza",
+      "prompt": "Design an image that transforms experience into a rich visual narrative: layers of details, luminous pathways, and evolving settings illustrate the complexity and depth of lived moments, symbolizing maturity and personal growth.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "crescita",
+      "prompt": "Visualize growth as a dynamic process in an ever-evolving environment: digital trees, roots of light, and expanding branches tell the story of constant transformation and maturation that defines adult life.",
+      "live_clip": "adult_refinement"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "famiglia",
+      "prompt": "Design an intimate scene where family gathers in a warm embrace of memories and love: homey settings, details of affectionate gestures, and soft lighting celebrate the continuity of bonds, transmitting the warmth and security typical of old age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "alimentazione",
+      "prompt": "Visualize a scene where nutrition becomes a celebration of health and tradition: well-set tables, warm hues, and rustic details merge to represent the nurturing of the body and the connection with one’s roots, a symbol of the wisdom accumulated over the years.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "tolleranza",
+      "prompt": "Create a scene that captures the essence of tolleranza",
+      "live_clip": "default"
+    }
+  ]
+}

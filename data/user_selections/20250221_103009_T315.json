@@ -1,0 +1,78 @@
+{
+  "user_data": {
+    "codice": "T315",
+    "sesso": "M",
+    "eta": "0-18",
+    "timestamp": "2025-02-21 10:30:09"
+  },
+  "selections": {
+    "infanzia": [
+      "peluche",
+      "cinema",
+      "lego"
+    ],
+    "maturita": [
+      "partnership",
+      "collaborazione",
+      "specializzazione"
+    ],
+    "vecchiaia": [
+      "storie",
+      "pensione",
+      "yoga"
+    ]
+  },
+  "prompts": {
+    "infanzia": [
+      {
+        "word": "peluche",
+        "prompt": "Create a tender vision where stuffed animals spring to life in a soft, welcoming world: velvety textures, pastel colors, and a cocoon of warmth evoke the comfort and companionship that only fabric friends can provide during childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "cinema",
+        "prompt": "Visualize a dreamlike movie theater where every frame becomes a surreal painting: projections of fantastical worlds, interplay of shadows and light, and intricate details evoke the magic of visual storytelling and the wonder of a child's first encounter with film.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "lego",
+        "prompt": "Imagine a universe built from colorful building blocks: each Lego piece combines to form surreal structures, floating castles, and fantastic vehicles, celebrating the creative power and playful logic that define childhood construction.",
+        "live_clip": "childhood_magic"
+      }
+    ],
+    "maturita": [
+      {
+        "word": "partnership",
+        "prompt": "Visualize a scene where partnerships embody alliances and synergy: hands shaking, luminous details, and refined settings narrate the strength of cooperation and mutual trust, pillars of maturity.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "collaborazione",
+        "prompt": "Design an image where collaboration manifests as an interweaving of forces and talents: stylized figures, flowing lines of light, and interconnected settings create a tableau that celebrates teamwork and the fusion of ideas, essential in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "specializzazione",
+        "prompt": "Design a scene that symbolizes specialization as the refined art of knowledge: technical symbols, futuristic laboratories, and sophisticated details combine into an image that narrates the commitment to excellence and the pursuit of advanced skills in adult life.",
+        "live_clip": "adult_refinement"
+      }
+    ],
+    "vecchiaia": [
+      {
+        "word": "storie",
+        "prompt": "Design an image where life stories intertwine into a tapestry of light and memory: antique details, serene faces, and richly symbolic settings create a tableau that celebrates the emotional and cultural heritage of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "pensione",
+        "prompt": "Imagine a serene scene where retirement becomes a moment of rest and reflection: warm lights, tranquil settings, and symbolic details suggesting slowed time evoke the serenity and calm that characterize the golden years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "yoga",
+        "prompt": "Create a serene, meditative scene where yoga becomes a ritual of inner connection: harmonious postures, natural surroundings, and softly lit details convey the peace and mindfulness characteristic of advanced age practice.",
+        "live_clip": "elderly_reflection"
+      }
+    ]
+  }
+}

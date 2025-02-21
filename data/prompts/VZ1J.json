@@ -1,0 +1,58 @@
+{
+  "user_data": {
+    "codice": "VZ1J",
+    "sesso": "M",
+    "eta": "19-60"
+  },
+  "infanzia": [
+    {
+      "word": "palloncini",
+      "prompt": "Imagine a sky dotted with balloons of every shape and color: each one pulses with an ethereal glow, creating an atmosphere of celebration, lightness, and wonder that transports the viewer back to the playful, carefree heart of childhood.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "disegni",
+      "prompt": "Create a scene celebrating the spontaneous art of children's drawings, where vibrant sketches, bold colors, and free-flowing lines combine into a captivating, chaotic composition: every stroke becomes a fragment of a fantastical world born of pure imagination.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "parco",
+      "prompt": "Illustrate an enchanted park where green merges with the sky in a burst of colors and lights: trees whisper secrets, paths invite discoveries, and outdoor games come alive in a dance of shadows and reflections, conveying the joy and carefreeness of youth.",
+      "live_clip": "childhood_magic"
+    }
+  ],
+  "maturita": [
+    {
+      "word": "partnership",
+      "prompt": "Visualize a scene where partnerships embody alliances and synergy: hands shaking, luminous details, and refined settings narrate the strength of cooperation and mutual trust, pillars of maturity.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "famiglia",
+      "prompt": "Depict a family scene where everyday life is enriched with modern symbols and details: an elegant home, moments of sharing, and spaces that narrate history and progress create a visual balance between tradition and innovation typical of adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "strategie",
+      "prompt": "Create a scene where strategies and plans intertwine in a visual choreography: floating diagrams, illuminated pathways, and modern details combine to represent the planning and analytical thinking essential for success in adult life.",
+      "live_clip": "adult_refinement"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "gioia",
+      "prompt": "Create a scene that captures the essence of gioia",
+      "live_clip": "default"
+    },
+    {
+      "word": "età",
+      "prompt": "Create a scene that captures the essence of età",
+      "live_clip": "default"
+    },
+    {
+      "word": "aiuto",
+      "prompt": "Design an image where mutual help becomes a unifying thread of humanity: gentle gestures, reassuring settings, and symbolic details represent the emotional and practical support that narrates the strength of solidarity in old age.",
+      "live_clip": "elderly_reflection"
+    }
+  ]
+}

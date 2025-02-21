@@ -1,0 +1,53 @@
+{
+  "infanzia": [
+    {
+      "word": "torta",
+      "prompt": "Create a festive scene where a richly decorated cake becomes the centerpiece of joy and surprise: layered colors, sparkling icings, and ornamental details merge into an image that celebrates the sweetness and dream of childhood birthdays.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "sport",
+      "prompt": "Design a scene bursting with movement where sports become a festival of energy and vitality: vividly colored fields, athletic gestures, and dynamic motion capture the essence of play, friendly competition, and the sheer joy of physical activity in childhood.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "biscotti",
+      "prompt": "Visualize an image where freshly baked cookies become little masterpieces of taste and imagination: inviting aromas, golden textures, and intricate details reminiscent of secret recipes create a warm and nostalgic atmosphere, symbolizing the simple pleasures of childhood.",
+      "live_clip": "childhood_magic"
+    }
+  ],
+  "maturita": [
+    {
+      "word": "decisioni",
+      "prompt": "Visualize a scene where decisions materialize as crossroads of light: branching paths, symbols of choice, and divided settings narrate the complexity and weight of daily choices, expressing the maturity and judgment capacity of adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "crescita",
+      "prompt": "Visualize growth as a dynamic process in an ever-evolving environment: digital trees, roots of light, and expanding branches tell the story of constant transformation and maturation that defines adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "priorità",
+      "prompt": "Visualize an image where priorities outline as luminous paths in an organized maze: symbolic details, glowing trajectories, and minimalist settings convey the clarity and determination in defining what truly matters in adult life.",
+      "live_clip": "adult_refinement"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "alimentazione",
+      "prompt": "Visualize a scene where nutrition becomes a celebration of health and tradition: well-set tables, warm hues, and rustic details merge to represent the nurturing of the body and the connection with one’s roots, a symbol of the wisdom accumulated over the years.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "valori",
+      "prompt": "Design an image that celebrates values as the foundation of a lifetime: ethical symbols, warm settings, and details interweaving history and the present create a tableau expressing moral strength and inner guidance typical of advanced years.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "gratitudine",
+      "prompt": "Create a scene that captures the essence of gratitudine",
+      "live_clip": "default"
+    }
+  ]
+}

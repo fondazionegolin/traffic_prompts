@@ -1,120 +1,186 @@
 document.addEventListener('DOMContentLoaded', function() {
-    let selectedGender = null;
-    let selectedAge = null;
-    const selectedWords = {
+    let state = {
+        gender: '',
+        age: '',
         infanzia: [],
         maturita: [],
-        vecchiaia: []
+        vecchiaia: [],
+        maxSelectionsPerPhase: 3
     };
 
-    const userCodeSection = document.querySelector('.user-code-section');
-    const userCode = document.querySelector('.code').textContent.trim();
+    // Carica lo stato iniziale dai bottoni già selezionati
+    function loadInitialState() {
+        // Carica genere
+        const selectedGender = document.querySelector('.gender-btn.selected');
+        if (selectedGender) {
+            state.gender = selectedGender.dataset.gender;
+        }
 
-    // Gender selection
-    document.querySelectorAll('.gender-btn').forEach(btn => {
-        btn.addEventListener('click', function() {
-            document.querySelectorAll('.gender-btn').forEach(b => b.classList.remove('selected'));
-            this.classList.add('selected');
-            selectedGender = this.dataset.gender;
-            checkSelections();
-        });
-    });
+        // Carica età
+        const selectedAge = document.querySelector('.age-btn.selected');
+        if (selectedAge) {
+            state.age = selectedAge.dataset.age;
+        }
 
-    // Age selection
-    document.querySelectorAll('.age-btn').forEach(btn => {
-        btn.addEventListener('click', function() {
-            document.querySelectorAll('.age-btn').forEach(b => b.classList.remove('selected'));
-            this.classList.add('selected');
-            selectedAge = this.dataset.age;
-            checkSelections();
-        });
-    });
-
-    // Word selection
-    document.querySelectorAll('.word-btn').forEach(btn => {
-        btn.addEventListener('click', function() {
-            const phase = this.dataset.phase;
-            const word = this.textContent.trim();
-
-            if (this.classList.contains('selected')) {
-                // Deselect word
-                this.classList.remove('selected');
-                selectedWords[phase] = selectedWords[phase].filter(w => w !== word);
-                checkSelections();
-            } else {
-                // Only select if less than 3 words are selected for this phase
-                if (selectedWords[phase].length < 3) {
-                    this.classList.add('selected');
-                    selectedWords[phase].push(word);
-                    checkSelections();
-                }
+        // Carica parole selezionate
+        document.querySelectorAll('.word-btn.selected').forEach(btn => {
+            const phase = btn.dataset.phase;
+            const word = btn.dataset.word;
+            if (phase && word) {
+                if (!state[phase]) state[phase] = [];
+                state[phase].push(word);
             }
         });
+
+        console.log('Stato iniziale caricato:', state);
+        checkCompleteness();
+    }
+
+    function updateHeader(isComplete) {
+        const header = document.getElementById('status-indicator');
+        const waitingMsg = document.querySelector('.waiting-message');
+        const readyMsg = document.querySelector('.ready-message');
+
+        if (isComplete) {
+            header.style.backgroundColor = '#00ff00';
+            header.style.boxShadow = '0 0 15px #00ff00';
+            waitingMsg.style.display = 'none';
+            readyMsg.style.display = 'block';
+        } else {
+            header.style.backgroundColor = '#ff0000';
+            header.style.boxShadow = '0 0 15px #ff0000';
+            waitingMsg.style.display = 'block';
+            readyMsg.style.display = 'none';
+        }
+    }
+
+    function showSuccessOverlay() {
+        const overlay = document.querySelector('.success-overlay');
+        const codeValue = document.querySelector('.code-value').textContent;
+        document.querySelector('.code-value-large').textContent = codeValue;
+        overlay.classList.add('show');
+        
+        // Reset dopo 5 secondi
+        setTimeout(() => {
+            overlay.classList.remove('show');
+            location.reload();
+        }, 5000);
+    }
+
+    function checkCompleteness() {
+        const isComplete = 
+            state.gender !== '' &&
+            state.age !== '' &&
+            state.infanzia.length === 3 &&
+            state.maturita.length === 3 &&
+            state.vecchiaia.length === 3;
+
+        if (isComplete) {
+            saveData().then(() => {
+                showSuccessOverlay();
+            });
+        }
+
+        console.log('Stato corrente:', {
+            gender: state.gender,
+            age: state.age,
+            infanzia: state.infanzia.length + '/3',
+            maturita: state.maturita.length + '/3',
+            vecchiaia: state.vecchiaia.length + '/3',
+            isComplete: isComplete
+        });
+
+        updateHeader(isComplete);
+        return isComplete;
+    }
+
+    // Gestione click sui bottoni del sesso
+    document.querySelectorAll('.gender-btn').forEach(button => {
+        button.addEventListener('click', function() {
+            // Remove selected class from all gender buttons
+            document.querySelectorAll('.gender-btn').forEach(btn => {
+                btn.classList.remove('selected');
+            });
+            
+            // Add selected class to clicked button
+            this.classList.add('selected');
+            
+            // Update state
+            state.gender = this.dataset.gender;
+            
+            checkCompleteness();
+        });
     });
 
-    function saveUserData() {
-        const userData = {
-            codice: userCode,
-            sesso: selectedGender,
-            eta: selectedAge,
-            infanzia: selectedWords.infanzia,
-            maturita: selectedWords.maturita,
-            vecchiaia: selectedWords.vecchiaia,
-            timestamp: new Date().toISOString()
+    // Gestione click sui bottoni dell'età
+    document.querySelectorAll('.age-btn').forEach(button => {
+        button.addEventListener('click', function() {
+            // Remove selected class from all age buttons
+            document.querySelectorAll('.age-btn').forEach(btn => {
+                btn.classList.remove('selected');
+            });
+            
+            // Add selected class to clicked button
+            this.classList.add('selected');
+            
+            // Update state
+            state.age = this.dataset.age;
+            
+            checkCompleteness();
+        });
+    });
+
+    // Gestione click sulle parole
+    document.querySelectorAll('.word-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const phase = btn.dataset.phase;
+            const word = btn.dataset.word;
+
+            if (!phase || !word) return;
+
+            if (btn.classList.contains('selected')) {
+                btn.classList.remove('selected');
+                state[phase] = state[phase].filter(w => w !== word);
+            } else {
+                if (state[phase].length < 3) {
+                    btn.classList.add('selected');
+                    state[phase].push(word);
+                }
+            }
+
+            checkCompleteness();
+        });
+    });
+
+    function saveData() {
+        const data = {
+            codice: document.querySelector('.code-value').textContent,
+            sesso: state.gender,
+            eta: state.age,
+            infanzia: state.infanzia,
+            maturita: state.maturita,
+            vecchiaia: state.vecchiaia
         };
 
-        fetch('/save_data/', {
+        return fetch('/save_data/', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
                 'X-CSRFToken': document.querySelector('[name=csrfmiddlewaretoken]').value
             },
-            body: JSON.stringify(userData)
+            body: JSON.stringify(data)
         })
         .then(response => response.json())
         .then(data => {
-            if (data.success) {
-                setTimeout(() => {
-                    window.location.reload();
-                }, 3000);
-            }
+            console.log('Salvato:', data);
+            return data;
         })
-        .catch(error => console.error('Error:', error));
+        .catch(error => {
+            console.error('Errore:', error);
+            throw error;
+        });
     }
 
-    function checkSelections() {
-        // Check if gender is selected
-        if (!selectedGender) {
-            userCodeSection.classList.remove('status-green');
-            userCodeSection.classList.add('status-red');
-            return;
-        }
-
-        // Check if age is selected
-        if (!selectedAge) {
-            userCodeSection.classList.remove('status-green');
-            userCodeSection.classList.add('status-red');
-            return;
-        }
-
-        // Check if exactly 3 words are selected for each phase
-        const isComplete = 
-            selectedWords.infanzia.length === 3 &&
-            selectedWords.maturita.length === 3 &&
-            selectedWords.vecchiaia.length === 3;
-
-        if (isComplete) {
-            userCodeSection.classList.remove('status-red');
-            userCodeSection.classList.add('status-green');
-            
-            // Save data and reset after successful save
-            saveUserData();
-        } else {
-            userCodeSection.classList.remove('status-green');
-            userCodeSection.classList.add('status-red');
-        }
-    }
-
-    // Initial check
-    checkSelections();
+    // Inizializza lo stato
+    loadInitialState();
 });

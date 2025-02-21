@@ -1,0 +1,78 @@
+{
+  "user_data": {
+    "codice": "IF28",
+    "sesso": "M",
+    "eta": "19-60",
+    "timestamp": "2025-02-21 10:28:09"
+  },
+  "selections": {
+    "infanzia": [
+      "fratelli",
+      "scuola",
+      "avventura"
+    ],
+    "maturita": [
+      "sport",
+      "carriera",
+      "pressione"
+    ],
+    "vecchiaia": [
+      "saggezza",
+      "morte",
+      "passato"
+    ]
+  },
+  "prompts": {
+    "infanzia": [
+      {
+        "word": "fratelli",
+        "prompt": "Depict a moment of shared complicity between siblings in a richly detailed setting: shared games, knowing glances, and affectionate gestures merge into a visual tableau that expresses the strength of sibling bonds, wrapped in warm, reassuring light.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "scuola",
+        "prompt": "Design a scene where school becomes a portal to worlds of knowledge and fantasy: classrooms that expand into imaginative landscapes, desks that tell stories, and blackboards that transform into windows on universes full of adventures, capturing the wonder and curiosity of early years.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "avventura",
+        "prompt": "Design an epic scene where adventure becomes an endless journey: mysterious paths, hidden places, and unexpected details create a dynamic atmosphere filled with discoveries, symbolizing the courage and curiosity that animate a child's heart.",
+        "live_clip": "childhood_magic"
+      }
+    ],
+    "maturita": [
+      {
+        "word": "sport",
+        "prompt": "Imagine a modern sporting environment where movement and passion merge into an explosion of energy: dynamic details, contemporary architectures, and light effects convey the balance between competition, well-being, and dedication typical of mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "carriera",
+        "prompt": "Design a symbolic landscape where a career unfolds in multiple paths: roads of light, transparent screens, and multiple shadows merge to represent the choices and stages of a professional journey full of challenges and achievements, uniting realism with metaphor.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "pressione",
+        "prompt": "Design a scene where pressure manifests as converging forces in a dynamic environment: focused lights, concentrated shadows, and moving details narrate the challenge of maintaining balance in complex situations, typical of mature life.",
+        "live_clip": "adult_refinement"
+      }
+    ],
+    "vecchiaia": [
+      {
+        "word": "saggezza",
+        "prompt": "Imagine a serene environment where wisdom spreads like soft, ancient light: calm faces, ancestral symbols, and intertwining natural details express the value of accumulated knowledge and inner peace typical of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "morte",
+        "prompt": "Create a scene that captures the essence of morte",
+        "live_clip": "default"
+      },
+      {
+        "word": "passato",
+        "prompt": "Create an image where the past reveals itself through evanescent memories: old photographs, soft shadows, and nostalgic settings blend into an atmosphere that tells the beauty and sweetness of what has been, an expression of remembrance in old age.",
+        "live_clip": "elderly_reflection"
+      }
+    ]
+  }
+}

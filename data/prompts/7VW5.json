@@ -1,0 +1,53 @@
+{
+  "infanzia": [
+    {
+      "word": "bicicletta",
+      "prompt": "Visualize a bicycle that becomes a vehicle for exploring endless worlds: roads that transform into rivers of light, landscapes unfolding like paintings, and vibrant energy symbolizing the adventure and discovery of early years.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "circo",
+      "prompt": "Create an atmosphere of an enchanted circus where extravagant tents, suspended acrobats, and imaginary animals blend into a surreal performance: vivid lights, intricate details, and a set design that transports the viewer to a realm of wonder and carefree delight.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "magia",
+      "prompt": "Visualize a scene where magic is present in every detail: sparkling effects, iridescent reflections, and surprising transformations create an environment where the ordinary becomes extraordinary, evoking the wonder and mystery of a child’s imaginative world.",
+      "live_clip": "childhood_magic"
+    }
+  ],
+  "maturita": [
+    {
+      "word": "strategie",
+      "prompt": "Create a scene where strategies and plans intertwine in a visual choreography: floating diagrams, illuminated pathways, and modern details combine to represent the planning and analytical thinking essential for success in adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "sfide",
+      "prompt": "Visualize an environment where challenges transform into opportunities for growth: obstacles, winding paths, and resilient details merge into an image that expresses the determination and courage required to turn every difficulty into a chance, essential in mature life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "responsabilità",
+      "prompt": "Design an image symbolizing responsibility as the foundation of adult life: solid elements, stable architectural details, and warm lights combine to evoke commitment, care, and the seriousness required to manage daily professional and personal tasks.",
+      "live_clip": "adult_refinement"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "nipoti",
+      "prompt": "Create a tender image where the bond between grandparents and grandchildren transforms into a visual story of affection and discovery: illuminated faces, cozy environments, and playful details tell the meeting of experience and youth, typical of old age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "opportunità",
+      "prompt": "Create a scene that captures the essence of opportunità",
+      "live_clip": "default"
+    },
+    {
+      "word": "quiete",
+      "prompt": "Design a scene where quiet becomes a rejuvenating pause in time: silent environments, natural details, and soft light create an atmosphere of profound peace, a symbol of the restoration and serenity of advanced years.",
+      "live_clip": "elderly_reflection"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "infanzia": [
+    {
+      "word": "computer",
+      "prompt": "Imagine a computer that transforms into a window onto digital and fantastical worlds: glowing circuits, screens projecting dreams, and high-tech details intertwine to celebrate the curiosity and discovery that children experience when engaging with technology.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "casa",
+      "prompt": "Create an immersive scene where a simple house transforms, through a child's imagination, into an enchanted refuge: every corner glows with warm light, with walls that tell fairy-tale stories and windows that transmit daydreams. Exquisite details—like playful little creatures and dancing shadows—make this setting a symbol of the safety and magic of childhood.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "nuvole",
+      "prompt": "Visualize clouds transforming into imaginary, fairy-tale shapes: soft, billowy, and rich in subtle hues, they tell stories of dreams and play, transporting the viewer to a realm where imagination reigns supreme.",
+      "live_clip": "childhood_magic"
+    }
+  ],
+  "maturita": [
+    {
+      "word": "responsabilità",
+      "prompt": "Design an image symbolizing responsibility as the foundation of adult life: solid elements, stable architectural details, and warm lights combine to evoke commitment, care, and the seriousness required to manage daily professional and personal tasks.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "risparmi",
+      "prompt": "Visualize a scene where savings accumulate like a precious treasure: secure vaults, streams of light representing resources, and symbolic details narrate the care, attention, and financial planning typical of adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "progetti",
+      "prompt": "Imagine a visualization where projects and ideas take shape: architectural plans, floating diagrams, and luminous details combine in an environment where creativity and organization blend to represent the journey toward adult success.",
+      "live_clip": "adult_refinement"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "comodità",
+      "prompt": "Create a scene that captures the essence of comodità",
+      "live_clip": "default"
+    },
+    {
+      "word": "eredità",
+      "prompt": "Create a scene where legacy manifests as a gift of wisdom and transmitted values: precious objects, familiar symbols, and historically infused settings blend to tell the story of a life lived fully, an expression of love and continuity in old age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "passeggiate",
+      "prompt": "Create a serene scene where quiet walks in a natural landscape merge with the flow of time: shaded paths, botanical details, and soft lights convey the calm and reflection that accompany the mature years.",
+      "live_clip": "elderly_reflection"
+    }
+  ]
+}

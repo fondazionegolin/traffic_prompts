@@ -1,0 +1,78 @@
+{
+  "user_data": {
+    "codice": "S43Z",
+    "sesso": "M",
+    "eta": "0-18",
+    "timestamp": "2025-02-21 09:39:41"
+  },
+  "selections": {
+    "infanzia": [
+      "piscina",
+      "avventura",
+      "cioccolato"
+    ],
+    "maturita": [
+      "realizzazione",
+      "specializzazione",
+      "opportunità"
+    ],
+    "vecchiaia": [
+      "presente",
+      "focolare",
+      "contemplazione"
+    ]
+  },
+  "prompts": {
+    "infanzia": [
+      {
+        "word": "piscina",
+        "prompt": "Depict a dreamlike summer pool scene where crystal-clear water mirrors playful reflections: gentle waves, sunlit sparkles, and subtle details like shimmering splashes create an image of fun and carefreeness that defines childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "avventura",
+        "prompt": "Design an epic scene where adventure becomes an endless journey: mysterious paths, hidden places, and unexpected details create a dynamic atmosphere filled with discoveries, symbolizing the courage and curiosity that animate a child's heart.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "cioccolato",
+        "prompt": "Create an illustration where chocolate blends with fantastical elements: drizzles of velvety cocoa, gleaming reflections, and settings that convey warmth and sweetness, exalting the pleasure and intensity of a taste that embodies the magic of childhood moments.",
+        "live_clip": "childhood_magic"
+      }
+    ],
+    "maturita": [
+      {
+        "word": "realizzazione",
+        "prompt": "Draw a scene in which personal and professional fulfillment transforms into a symbolic landscape: luminous staircases, architectural details, and narrative light touches illustrate the journey of growth, highlighting the triumph of lived experience in adulthood.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "specializzazione",
+        "prompt": "Design a scene that symbolizes specialization as the refined art of knowledge: technical symbols, futuristic laboratories, and sophisticated details combine into an image that narrates the commitment to excellence and the pursuit of advanced skills in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "opportunità",
+        "prompt": "Design a scene that celebrates opportunities as open doors to new horizons: rays of light, floating architectural details, and evolving settings convey the hope and enthusiasm of those who seize the moment in adulthood.",
+        "live_clip": "adult_refinement"
+      }
+    ],
+    "vecchiaia": [
+      {
+        "word": "presente",
+        "prompt": "Design a scene where the present merges with the memory of the past: warm lights, details suggesting continuity, and settings that embrace time express the awareness of the current moment, essential for those who have lived a long life.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "focolare",
+        "prompt": "Create a scene that captures the essence of focolare",
+        "live_clip": "default"
+      },
+      {
+        "word": "contemplazione",
+        "prompt": "Create a serene scene where contemplation becomes an act of love toward life: natural settings, delicate light, and details inviting one to look beyond the ordinary convey the depth and peace typical of old age.",
+        "live_clip": "elderly_reflection"
+      }
+    ]
+  }
+}

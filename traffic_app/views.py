@@ -107,6 +107,9 @@ def save_data(request):
             user_data_filename = f"{timestamp}_{data['codice']}.json"
             user_data_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'user_selections', user_data_filename)
             
+            # Ensure the directory exists
+            os.makedirs(os.path.dirname(user_data_path), exist_ok=True)
+            
             with open(user_data_path, 'w', encoding='utf-8') as f:
                 json.dump(combined_data, f, ensure_ascii=False, indent=2)
             
@@ -114,8 +117,23 @@ def save_data(request):
             prompts_filename = f"{data['codice']}.json"
             prompts_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'prompts', prompts_filename)
             
+            # Ensure the prompts directory exists
+            os.makedirs(os.path.dirname(prompts_path), exist_ok=True)
+            
+            # Save both user data and prompts in the prompts file
+            prompts_data = {
+                "user_data": {
+                    "codice": data.get("codice", ""),
+                    "sesso": data.get("sesso", ""),
+                    "eta": data.get("eta", "")
+                },
+                "infanzia": prompts["infanzia"],
+                "maturita": prompts["maturita"],
+                "vecchiaia": prompts["vecchiaia"]
+            }
+            
             with open(prompts_path, 'w', encoding='utf-8') as f:
-                json.dump(prompts, f, ensure_ascii=False, indent=2)
+                json.dump(prompts_data, f, ensure_ascii=False, indent=2)
             
             return JsonResponse({"status": "success", "message": "Data saved successfully"})
             

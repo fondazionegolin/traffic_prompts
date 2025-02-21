@@ -1,0 +1,78 @@
+{
+  "user_data": {
+    "codice": "WIXX",
+    "sesso": "M",
+    "eta": "18-25",
+    "timestamp": "2025-02-21 10:19:01"
+  },
+  "selections": {
+    "infanzia": [
+      "neve",
+      "gioco",
+      "palloncini"
+    ],
+    "maturita": [
+      "opportunità",
+      "progetti",
+      "problemi"
+    ],
+    "vecchiaia": [
+      "attenzione",
+      "legami",
+      "equilibrio"
+    ]
+  },
+  "prompts": {
+    "infanzia": [
+      {
+        "word": "neve",
+        "prompt": "Create a magical winter vision where snow transforms the world into a pristine kingdom: dancing snowflakes, delicate landscapes, and shimmering details reveal the enchantment and purity of snowy adventures, calling forth memories of wonder from childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "gioco",
+        "prompt": "Create a dreamlike landscape where the concept of play manifests in myriad forms: spaces that transform into fantastic worlds, toys that come to life, and dancing colors that evoke the boundless imagination and exuberant energy of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "palloncini",
+        "prompt": "Imagine a sky dotted with balloons of every shape and color: each one pulses with an ethereal glow, creating an atmosphere of celebration, lightness, and wonder that transports the viewer back to the playful, carefree heart of childhood.",
+        "live_clip": "childhood_magic"
+      }
+    ],
+    "maturita": [
+      {
+        "word": "opportunità",
+        "prompt": "Design a scene that celebrates opportunities as open doors to new horizons: rays of light, floating architectural details, and evolving settings convey the hope and enthusiasm of those who seize the moment in adulthood.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "progetti",
+        "prompt": "Imagine a visualization where projects and ideas take shape: architectural plans, floating diagrams, and luminous details combine in an environment where creativity and organization blend to represent the journey toward adult success.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "problemi",
+        "prompt": "Visualize a scene where problems transform into puzzles to be solved: abstract elements, intricate details, and shifting settings narrate the complexity of daily challenges, inviting reflection and solutions typical of adult maturity.",
+        "live_clip": "adult_refinement"
+      }
+    ],
+    "vecchiaia": [
+      {
+        "word": "attenzione",
+        "prompt": "Create a scene that captures the essence of attenzione",
+        "live_clip": "default"
+      },
+      {
+        "word": "legami",
+        "prompt": "Create a scene that captures the essence of legami",
+        "live_clip": "default"
+      },
+      {
+        "word": "equilibrio",
+        "prompt": "Create a scene that captures the essence of equilibrio",
+        "live_clip": "default"
+      }
+    ]
+  }
+}

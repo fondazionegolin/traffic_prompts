@@ -1,0 +1,53 @@
+{
+  "infanzia": [
+    {
+      "word": "arcobaleno",
+      "prompt": "Create a celestial vision where the rainbow becomes a bridge between fantastical worlds: each band of color is filled with intricate details and radiant light, forming a scene that embodies hope, wonder, and the magic seen in the sky after rain by children.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "mamma",
+      "prompt": "Visualize an emotional portrait where the figure of a mother becomes the center of a tender, protective universe: warm embraces, loving glances, and a space that transforms into a cozy nest, where every detail—from soft toys to gentle pools of light—tells the story of maternal care typical of childhood.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "ballo",
+      "prompt": "Design a scene where dance transforms into a harmony of movements and lights: every step creates ripples of energy, colors blend into visual symphonies, and the setting turns into an enchanted stage that captures the joy and spontaneity of a child's movement.",
+      "live_clip": "childhood_magic"
+    }
+  ],
+  "maturita": [
+    {
+      "word": "urgenze",
+      "prompt": "Create a dynamic scene where urgencies emerge as bursts of light in a rapidly moving environment: symbolic elements, moving details, and settings that transmit the energy and readiness typical of critical situations in adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "feedback",
+      "prompt": "Create a scene where feedback transforms into communicative waves of light: messages, reflections, and interactive details combine to represent the value of listening, growth, and continuous transformation in the professional adult environment.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "emergenze",
+      "prompt": "Design an image capturing the intensity of emergencies: strong contrasts, dramatic details, and rapidly transforming settings represent the challenge and resilience in facing unforeseen situations typical of mature life.",
+      "live_clip": "adult_refinement"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "sicurezza",
+      "prompt": "Create a scene that captures the essence of sicurezza",
+      "live_clip": "default"
+    },
+    {
+      "word": "comunità",
+      "prompt": "Visualize an environment where community manifests as a collective embrace: architectural elements, open spaces, and unifying details bring people together, narrating the value of cooperation and mutual support, fundamental in old age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "famiglia",
+      "prompt": "Design an intimate scene where family gathers in a warm embrace of memories and love: homey settings, details of affectionate gestures, and soft lighting celebrate the continuity of bonds, transmitting the warmth and security typical of old age.",
+      "live_clip": "elderly_reflection"
+    }
+  ]
+}

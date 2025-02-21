@@ -13,17 +13,20 @@
     <div class="aspect-ratio-container">
         <div class="container">
             <div class="user-code-section status-red">
-                <div class="status-message waiting">In attesa di compilazione...</div>
-                <div class="status-message ready">Puoi entrare nel tunnel</div>
-                <div class="code">{{ user_code }}</div>
+                <div id="status-indicator" class="red">
+                    <div class="waiting-message">In attesa di compilazione</div>
+                    <div class="ready-message">Puoi entrare nel tunnel</div>
+                </div>
+                <div class="user-code">
+                    <span class="code-label">Codice utente:</span>
+                    <span class="code-value">{{ user_code }}</span>
+                </div>
                 <div class="demographics">
                     <div class="demographic-group">
                         <span class="label">Sesso:</span>
                         <button class="gender-btn" data-gender="M">M</button>
                         <button class="gender-btn" data-gender="F">F</button>
-                        <button class="gender-btn" data-gender="NB">NB</button>
                     </div>
-                    
                     <div class="demographic-group">
                         <span class="label">Età:</span>
                         <button class="age-btn" data-age="0-18">0-18</button>
@@ -34,31 +37,39 @@
             </div>
 
             <div class="word-sections">
-                <div class="life-phase">
+                <div class="subtitle">Scegli tre parole per ogni età, per te rappresentative</div>
+                
+                <div class="life-phase" data-phase="infanzia">
                     <h3>Infanzia</h3>
                     <div class="word-grid">
                         {% for word in words.infanzia %}
-                        <button class="word-btn" data-phase="infanzia">{{ word }}</button>
+                        <button class="word-btn" data-word="{{ word }}" data-phase="infanzia">{{ word }}</button>
                         {% endfor %}
                     </div>
                 </div>
 
-                <div class="life-phase">
+                <div class="life-phase" data-phase="maturita">
                     <h3>Maturità</h3>
                     <div class="word-grid">
                         {% for word in words.maturita %}
-                        <button class="word-btn" data-phase="maturita">{{ word }}</button>
+                        <button class="word-btn" data-word="{{ word }}" data-phase="maturita">{{ word }}</button>
                         {% endfor %}
                     </div>
                 </div>
 
-                <div class="life-phase">
+                <div class="life-phase" data-phase="vecchiaia">
                     <h3>Vecchiaia</h3>
                     <div class="word-grid">
                         {% for word in words.vecchiaia %}
-                        <button class="word-btn" data-phase="vecchiaia">{{ word }}</button>
+                        <button class="word-btn" data-word="{{ word }}" data-phase="vecchiaia">{{ word }}</button>
                         {% endfor %}
                     </div>
+                </div>
+            </div>
+            <div class="success-overlay">
+                <div class="success-message">
+                    <div class="code-display">CODICE <span class="code-value-large"></span></div>
+                    <div class="enter-message">puoi entrare nel tunnel</div>
                 </div>
             </div>
         </div>

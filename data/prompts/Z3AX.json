@@ -1,0 +1,53 @@
+{
+  "infanzia": [
+    {
+      "word": "aquilone",
+      "prompt": "Create a scene where a kite soars in a blue sky, trailing strings of light and color: the wind, playful movements, and the vast sky become metaphors for freedom and boundless imagination characteristic of childhood.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "pasta",
+      "prompt": "Design an image where pasta becomes an interplay of shapes and colors: intertwining strands, vibrant sauces, and rustic settings blend together to tell a story of flavors, tradition, and the simple pleasure of a shared meal, symbolizing childhood conviviality.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "libri",
+      "prompt": "Design a magical scene where books open to reveal hidden worlds: floating pages, dancing letters, and evocative settings transform reading into a journey through time and space, celebrating the narrative power and imaginative spark of children’s stories.",
+      "live_clip": "childhood_magic"
+    }
+  ],
+  "maturita": [
+    {
+      "word": "studio",
+      "prompt": "Imagine a study environment that blends tradition and innovation: bookshelves laden with classics, bright screens, and modern architectural details integrate into a tableau that celebrates the pursuit of knowledge and the dedication of adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "specializzazione",
+      "prompt": "Design a scene that symbolizes specialization as the refined art of knowledge: technical symbols, futuristic laboratories, and sophisticated details combine into an image that narrates the commitment to excellence and the pursuit of advanced skills in adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "apprendimento",
+      "prompt": "Design a scene that transforms learning into a visual journey of discovery: luminous stairs, interactive details, and evolving settings express the continuous desire to know and improve oneself, a cornerstone of adult growth.",
+      "live_clip": "adult_refinement"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "armonia",
+      "prompt": "Create a scene that captures the essence of armonia",
+      "live_clip": "default"
+    },
+    {
+      "word": "affetti",
+      "prompt": "Create a scene that captures the essence of affetti",
+      "live_clip": "default"
+    },
+    {
+      "word": "infinito",
+      "prompt": "Create a scene that captures the essence of infinito",
+      "live_clip": "default"
+    }
+  ]
+}

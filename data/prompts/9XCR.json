@@ -1,0 +1,53 @@
+{
+  "infanzia": [
+    {
+      "word": "montagna",
+      "prompt": "Design a scene where a mountain becomes the stage for a great childhood exploration: hidden trails, sparkling peaks, and breathtaking landscapes weave together in a richly detailed image of natural challenge and wonder.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "pirati",
+      "prompt": "Create a visual adventure where pirates with golden hearts sail across imaginary seas: enchanted ships, secret maps, and hidden treasures emerge in a setting rich with details and colors, conveying the thrill of exploration and playful mischief characteristic of childhood.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "bambole",
+      "prompt": "Visualize a world where dolls tell secret stories: intricately embroidered dresses, sweet expressions, and detailed settings transform every doll into a unique character, symbolizing the creativity and fantasy that animate childhood games and tales.",
+      "live_clip": "childhood_magic"
+    }
+  ],
+  "maturita": [
+    {
+      "word": "priorità",
+      "prompt": "Visualize an image where priorities outline as luminous paths in an organized maze: symbolic details, glowing trajectories, and minimalist settings convey the clarity and determination in defining what truly matters in adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "scelte",
+      "prompt": "Create an illustration representing choices as infinite paths: luminous ways, symbolic intersections, and narrative details blend to express the uniqueness of each personal and professional journey typical of mature life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "obiettivi",
+      "prompt": "Create a symbolic scene where objectives and milestones emerge as beacons of light along a defined path: arrows of illumination, mapped itineraries, and geometric details narrate the determination and clarity of someone who faces adult life with ambition and vision.",
+      "live_clip": "adult_refinement"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "comfort",
+      "prompt": "Create a scene that captures the essence of comfort",
+      "live_clip": "default"
+    },
+    {
+      "word": "eredità",
+      "prompt": "Create a scene where legacy manifests as a gift of wisdom and transmitted values: precious objects, familiar symbols, and historically infused settings blend to tell the story of a life lived fully, an expression of love and continuity in old age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "insegnamenti",
+      "prompt": "Visualize a scene where teachings become guiding lights: whispered words, ancient books, and historically rich settings blend to transmit the wisdom and advice matured over generations, precious in old age.",
+      "live_clip": "elderly_reflection"
+    }
+  ]
+}
