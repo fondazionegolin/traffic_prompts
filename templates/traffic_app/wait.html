@@ -1,0 +1,22 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attesa - Traffico</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body class="wait-page">
+    <div class="wait-container">
+        <div class="user-code-display">
+            <h1>Codice Utente:</h1>
+            <div class="code-value-large">{{ user_code }}</div>
+        </div>
+        <div class="countdown">
+            <span id="timer">100</span> secondi rimanenti
+        </div>
+    </div>
+    <script src="{% static 'js/wait.js' %}"></script>
+</body>
+</html>

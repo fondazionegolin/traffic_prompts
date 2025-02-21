@@ -382,6 +382,45 @@ input:focus, select:focus {
     opacity: 1;
 }
 
+/* Wait page styles */
+.wait-page {
+    background-color: #ff0000;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.wait-container {
+    text-align: center;
+    padding: 2rem;
+}
+
+.user-code-display {
+    margin-bottom: 2rem;
+}
+
+.user-code-display h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.code-value-large {
+    font-size: 4rem;
+    font-weight: bold;
+    letter-spacing: 0.2em;
+}
+
+.countdown {
+    font-size: 2rem;
+}
+
+#timer {
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
 /* Animazioni */
 @keyframes glow {
     0% { text-shadow: 0 0 5px rgba(224, 224, 255, 0.5); }

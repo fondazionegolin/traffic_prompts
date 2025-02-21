@@ -164,3 +164,8 @@ def get_prompts(request):
         return JsonResponse({'error': 'Invalid JSON format in prompts file'}, status=500)
     except Exception as e:
         return JsonResponse({'error': str(e)}, status=500)
+
+def wait(request, user_code):
+    return render(request, 'traffic_app/wait.html', {
+        'user_code': user_code
+    })

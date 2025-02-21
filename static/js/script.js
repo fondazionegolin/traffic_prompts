@@ -60,10 +60,9 @@ document.addEventListener('DOMContentLoaded', function() {
         document.querySelector('.code-value-large').textContent = codeValue;
         overlay.classList.add('show');
         
-        // Reset dopo 5 secondi
+        // After 5 seconds, redirect to wait page
         setTimeout(() => {
-            overlay.classList.remove('show');
-            location.reload();
+            window.location.href = '/wait/' + codeValue;
         }, 5000);
     }
 

@@ -1,0 +1,26 @@
+{
+  "infanzia": [
+    {
+      "word": "casa",
+      "prompt": "Envision a child wandering through a cozy home that gradually transforms into an enchanted refuge: every corridor glows with a warm, golden light, while crayon drawings taped to the walls come alive in the background. In the living room, a timeworn teddy bear on the armchair stands out as a comforting symbol of safety and youthful imagination.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "mamma",
+      "prompt": "Portray a tender moment where a mother gently embraces her young child in a sunlit kitchen. Framed photographs on the windowsill hint at shared memories, while a softly humming kettle becomes the symbolic centerpiece, representing maternal warmth and the comforting routine of daily life.",
+      "live_clip": "childhood_magic"
+    }
+  ],
+  "maturità": [
+    {
+      "word": "lavoro",
+      "prompt": "Visualize an adult in a sleek, modern office space. Rays of sunlight spill in through tall windows, reflecting off polished desks. A digital planner open on a large touchscreen monitor stands as the symbolic object of productivity and the drive for professional success, signifying the structured bustle of adult work life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "carriera",
+      "prompt": "Depict an urban skyline at sunrise, with an individual standing on a high-rise balcony overlooking the city. Multiple pathways of light extend below, each representing a potential direction. A stack of business cards resting on a table behind them symbolizes the milestones of ambition, growth, and the choices shaping a professional journey.",
+      "live_clip": "adult_refinement"
+    }
+  ]
+}
