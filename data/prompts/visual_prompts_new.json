@@ -1,0 +1,1393 @@
+{
+  "infanzia": [
+    {
+      "word": "casa",
+      "prompt": "Envision a child wandering through a cozy home that gradually transforms into an enchanted refuge: every corridor glows with a warm, golden light, while crayon drawings taped to the walls come alive in the background. In the living room, a timeworn teddy bear on the armchair stands out as a comforting symbol of safety and youthful imagination.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "mamma",
+      "prompt": "Portray a tender moment where a mother gently embraces her young child in a sunlit kitchen. Framed photographs on the windowsill hint at shared memories, while a softly humming kettle becomes the symbolic centerpiece, representing maternal warmth and the comforting routine of daily life.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "papà",
+      "prompt": "Imagine a playful scene in a cluttered garage, where a father shows his child how to use simple tools. Sunlight filters in through a half-open door, highlighting a small, slightly dented toolbox on the floor—its presence symbolizes the guiding support and everyday heroism fathers often embody in a child’s world.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "gioco",
+      "prompt": "Visualize a child and their friends turning a backyard into a realm of boundless fun: makeshift forts, toy instruments, and colored chalk drawings sprawl across the lawn. An old trampoline at the center becomes the key symbolic object, bouncing laughter into the air and showcasing the limitless energy of childhood.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "scuola",
+      "prompt": "Depict a child stepping into a classroom that morphs into an ever-expanding maze of knowledge: walls grow with scribbled notes and drawings, while hanging mobiles of planets and letters gently sway overhead. A giant, illustrated globe near the teacher’s desk stands as a symbol of wonder and curiosity for the wider world.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "parco",
+      "prompt": "Create an enchanted public park where a child dashes between bright, whimsical playground structures. Towering trees whisper secrets in the breeze, and a whimsical water fountain with quirky carvings becomes the symbolic focal point, reflecting the carefree joy of playing outdoors.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "cartoni",
+      "prompt": "Show a child sitting in a living room with animated characters seemingly leaping off the television screen, filling the air with bright colors and playful energy. A vintage projector in the corner, gathering dust, stands as a symbolic nod to the timeless magic of animated storytelling.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "gelato",
+      "prompt": "Paint a scene of summer delight as a child savors a dripping ice cream cone on a sun-baked sidewalk. Nearby, a cheerful ice cream cart with colorful umbrellas draws the eye, symbolizing sweet indulgence and the small joys of childhood on a warm afternoon.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "pallone",
+      "prompt": "Picture a simple courtyard where a child eagerly chases a bouncing ball, the sunlight making each bounce sparkle. A wooden gate half ajar behind them serves as the symbolic object, suggesting open possibilities and adventures that begin with a single kick.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "bicicletta",
+      "prompt": "Envision a child gliding along a tree-lined path on a brightly colored bike, the wheels spinning in a flurry of excitement. An old, well-worn bell attached to the handlebars becomes the key symbol, ringing out the call of exploration and the thrill of newfound freedom.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "nonni",
+      "prompt": "Present a nostalgic living room where grandparents welcome their grandchild with open arms. The ticking of an antique pendulum clock in the background marks the passage of shared histories, acting as a symbolic anchor for generational wisdom and affectionate family bonds.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "amici",
+      "prompt": "Show a small backyard party brimming with laughter as children play tag among strings of colorful paper lanterns. A weathered wooden swing in the corner of the yard symbolizes the strong sense of camaraderie and enduring memories formed through simple, joyful gatherings.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "giocattoli",
+      "prompt": "Portray a child immersed in a fantastic landscape of toys, each seemingly alive with a soft glow. In the middle, a hand-painted wooden train with chipped paint captures the eye—representing nostalgia, discovery, and the limitless imagination that breathes life into childhood objects.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "dolci",
+      "prompt": "Illustrate a table laden with pastel cupcakes, candy jars, and cookies in a bright kitchen. A tall glass cake stand at the center glistens as a symbol of shared treats and the innocent pleasure of sugary delights during childhood.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "maestra",
+      "prompt": "Depict a kind teacher guiding eager children through an array of colorful books scattered on the floor. A vintage world globe on her desk stands as the symbolic object, representing the blend of knowledge and nurturing that sparks children’s lifelong passion for learning.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "asilo",
+      "prompt": "Imagine a bright, pastel-colored preschool room where small children play with giant foam blocks. A cardboard playhouse set in one corner, decorated with crayon doodles, acts as the symbolic shelter of early imagination and safety in this first learning environment.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "favole",
+      "prompt": "Show a child leafing through a massive illustrated storybook, while whimsical forests and mystical creatures spring to life around them. A wooden stand holding the open book becomes the key symbolic element, releasing classic fairy tales into the real world.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "disegni",
+      "prompt": "Paint a scene where a child sprawls on the floor, joyfully sketching vibrant pictures that burst into three-dimensional shapes around them. A large jar overflowing with colored pencils nearby acts as the symbolic source of unstoppable creativity.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "colori",
+      "prompt": "Create a dreamlike room flooded with swirling, ever-shifting hues of paint and light. A simple wooden palette resting on a small table stands out as a tangible symbol, reminding us of a child’s innate capacity for bold, unrestrained expression.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "piscina",
+      "prompt": "Depict a sunny afternoon at a shimmering swimming pool, with a child giggling mid-jump into the turquoise water. A giant inflatable flamingo near the pool ladder becomes the scene’s emblem, reflecting the refreshing thrill and carefree nature of childhood summertime.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "vacanze",
+      "prompt": "Illustrate a beach vacation scene where a group of children construct sandcastles and collect shells under a bright sky. A brightly striped beach umbrella planted in the sand symbolizes the excitement of exploration and boundless fun that marks childhood getaways.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "mare",
+      "prompt": "Show a child running along the shoreline, watching the ocean’s rolling waves. A small starfish perched in the wet sand becomes the core symbolic object, capturing the sense of awe and wonder children feel before the vastness of nature.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "montagna",
+      "prompt": "Envision a child hiking a pine-lined path toward towering peaks, carrying a light backpack. A sturdy wooden walking stick leaning against a rock serves as the symbolic element, reflecting the spirit of adventure and awe found in the natural world.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "zoo",
+      "prompt": "Depict a child peering through binoculars at exotic animals in exhibits that blur into lush, wild habitats. Those very binoculars, slung around the child’s neck, symbolize an earnest curiosity and the thrill of discovering new creatures in childhood.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "circo",
+      "prompt": "Imagine a lively circus tent filled with jugglers, acrobats, and dancing animals. In the foreground, a small clown hat abandoned on a wooden chair acts as the symbolic key: a playful nod to the magic and spectacle that charm a child’s heart.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "festa",
+      "prompt": "Show a children’s party scene brimming with confetti, balloons, and upbeat music. A single, vividly wrapped present on the center table stands out as the symbol of shared joy and the excitement of celebratory gatherings in childhood.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "compleanno",
+      "prompt": "Present a child’s birthday celebration in a living room strewn with rainbow banners and streamers. A tall, multi-layer cake topped with colorful candles sits as the focal symbolic object, signifying the sweet passage of time and life’s special milestones.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "regali",
+      "prompt": "Portray a child eagerly tearing the wrapping paper off a stack of vibrant gift boxes. A large red ribbon that has fallen to the floor becomes the symbolic piece, echoing the anticipation and sense of wonder that unfolds during a moment of unwrapping surprises.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "dinosauro",
+      "prompt": "Show a child exploring a backyard where a handmade papier-mâché dinosaur seems ready to roar, fueled by the child’s imagination. A small plastic fossil toy, half-buried in the grass, represents the unending fascination with prehistoric worlds and fearless curiosity.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "supereroi",
+      "prompt": "Picture a child in a brightly colored cape and mask, standing triumphantly in a bedroom adorned with comic-book posters. A simple plastic shield leaning against the bed symbolizes the bravery and protective instincts that define a child’s heroic daydreams.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "peluche",
+      "prompt": "Envision a child hugging an oversized stuffed animal in a softly lit playroom filled with imaginative drawings on the walls. A small embroidered heart sewn onto the plush creature’s chest becomes the symbol of comfort and unwavering companionship during early years.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "bambole",
+      "prompt": "Depict a child hosting a miniature tea party for a row of dolls, all dressed in delicately stitched outfits. A tiny porcelain teapot, set carefully at the center of the table, stands as the symbol of nurturing play and the precious rites of childhood make-believe.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "lego",
+      "prompt": "Show a child intently building a soaring fantasy castle from colorful plastic bricks scattered across a bedroom floor. A single, glittery gold brick placed on top of a tower represents the limitless creative power and sense of accomplishment in constructing imaginative worlds.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "puzzle",
+      "prompt": "Visualize a child deeply focused on assembling a large jigsaw puzzle on the living room table, the picture coming to life piece by piece. A peculiarly shaped puzzle piece resting prominently in the child’s hand symbolizes both the patience and the thrill of discovery.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "altalena",
+      "prompt": "Depict a child soaring high on a swing tied to an ancient oak tree, legs pumping eagerly in the breeze. The simple wooden seat of the swing, weathered by time, becomes a symbol of freedom, joy, and the feeling of nearly touching the sky.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "scivolo",
+      "prompt": "Show a child gliding down an impossibly long slide in a playground alight with vivid colors. A little red flag perched at the top stands as the symbolic trophy of fun, courage, and the small daily conquests that define early years.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "canzoni",
+      "prompt": "Present a group of children singing in a fragrant flower garden, musical notes floating through the air like colorful ribbons. An old record player off to the side becomes the key object, hinting at the timeless harmony and unity that music brings.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "musica",
+      "prompt": "Illustrate a child’s bedroom filled with toy instruments: mini drums, child-sized guitars, and xylophones that create a playful cacophony. A bright plastic flute lying on the carpet acts as the symbolic piece of early experimentation and expressive freedom.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "fratelli",
+      "prompt": "Paint a view of two siblings chasing each other down a hallway with a tiled floor, laughter echoing off the walls. A shared toy robot on a nearby shelf represents the bond and adventures that siblings craft together each day.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "sorelle",
+      "prompt": "Show two sisters sitting on a bed in a colorfully postered room, whispering secrets and braiding each other’s hair. A homemade beaded necklace hanging on the bedpost stands out as a tender emblem of female camaraderie and shared creativity.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "cane",
+      "prompt": "Imagine a child racing happily across a patch of green grass alongside a playful puppy, both radiating pure energy. A discarded leash lying on the ground becomes the symbol of trust and unfettered exploration that marks their loyal friendship.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "gatto",
+      "prompt": "Depict a child gingerly petting a purring cat curled up on a windowsill flooded with gentle afternoon light. A small saucer of milk on the floor stands as the quiet, symbolic gesture of care that children instinctively show towards their furry companions.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "animali",
+      "prompt": "Show a child fascinated by a modest home ‘zoo’ consisting of hamsters, goldfish, and a chirping parakeet. An open cage door left ajar serves as a symbolic reminder of curiosity, compassion, and the respectful desire to see creatures roam free.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "cartella",
+      "prompt": "Paint a child packing up notebooks and pencils into a bright backpack, the excitement of tomorrow’s lessons palpable in the air. A worn name tag stuck to the side of the bag serves as the symbolic anchor of identity and the fresh start each day brings.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "merenda",
+      "prompt": "Show a child savoring a midday treat on a school bench, surrounded by chatting friends. A cartoon-themed lunchbox in their lap acts as the focal symbol, representing shared tastes, lighthearted conversation, and the mini-celebrations of daily breaks.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "compiti",
+      "prompt": "Illustrate a child studying at a small desk beneath fairy lights, with animated characters peeking out from the textbooks. A whimsical pencil sharpener shaped like an animal sits prominently on the desk, symbolizing the innocent effort of daily learning.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "risate",
+      "prompt": "Depict a group of children bursting into shared laughter in a vibrant playground. A colorful balloon slipping out of one child’s grasp underscores the uncontainable joy and lightness that define the sound of children’s giggles.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "abbracci",
+      "prompt": "Show a child running into the arms of a loved one at the end of the school day, other families reuniting in the background. A bright scarf draped around both of them becomes the symbol of comfort and the warmth of that embracing moment.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "coccole",
+      "prompt": "Present a cozy reading nook where a child curls up in an adult’s lap, lost in a storybook world. A heart-shaped cushion close by serves as the symbolic manifestation of tenderness and the sense of security one only finds in a loving cuddle.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "famiglia",
+      "prompt": "Envision a family portrait around a round table scattered with board games and snapshots. A stained-glass lamp hanging overhead provides a unifying glow, standing as the symbol of shared history and the supportive foundation found in a loving household.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "nonna",
+      "prompt": "Show a child in a warm kitchen, helping their grandmother bake a traditional dessert. An open recipe book with yellowed pages on the counter stands for culinary heritage passed down through generations and the affectionate bond that sweetens every memory.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "nonno",
+      "prompt": "Depict a child watching their grandfather meticulously craft a wooden boat model in a small workshop corner. A well-worn workbench with antique tools becomes the central symbol, tying together legacy, hands-on skills, and the continuity of storytelling across time.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "zii",
+      "prompt": "Imagine a group of uncles playing tag with their nieces and nephews in a flower-filled backyard. A slightly deflated beach ball, reused countless times, becomes the symbol of shared laughter, spontaneity, and the vibrant camaraderie of an extended family.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "cugini",
+      "prompt": "Show a cluttered attic where cousins rummage through old boxes of toys and photograph albums, giggling at past finds. A rusty lantern hanging from a wooden beam stands out as the symbolic beacon of discovered secrets and cherished family lore.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "campeggio",
+      "prompt": "Depict a child settling into a sleeping bag inside a tent under a starry sky, silhouettes of tall pines around. A small compass on a makeshift stool next to the tent becomes the symbol of exploration and the excitement that lies just beyond the tent flap.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "prato",
+      "prompt": "Paint a scene where a child dashes barefoot across a vast, lush lawn scattered with daisies. A colorful kite resting on the grass waits for a breeze, symbolizing the endless potential for simple, joyful adventures in nature.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "fiori",
+      "prompt": "Illustrate a child pausing to smell a handful of freshly picked blossoms in a sunlit garden. A small metal watering can nearby, half full of water, serves as the symbol of nurture and the delicate beauty a child can help blossom.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "farfalle",
+      "prompt": "Show a child chasing a kaleidoscope of butterflies across a sunlit meadow. A butterfly net propped against a tree stump stands as the symbolic object, capturing the attempt to hold onto fleeting beauty and the weightless magic of childhood wonder.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "stelle",
+      "prompt": "Portray a child lying on a blanket under a shimmering night sky, eyes fixed on constellations overhead. A simple toy telescope placed beside them symbolizes curiosity about the cosmos, bridging imagination and limitless possibility.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "luna",
+      "prompt": "Depict a child gazing at a radiant full moon through an old window, the faint glow illuminating the room. A rocking chair facing the window provides the quiet, symbolic seat of reflection and dreamlike stories told under lunar light.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "sole",
+      "prompt": "Paint a child sprinting across a yard at dawn, the soft rays turning everything to gold. A small decorative wristwatch on the child’s arm stands out as the symbol of life’s earliest moments, brimming with promise and morning exuberance.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "pioggia",
+      "prompt": "Show a child gleefully dancing in puddles during a gentle drizzle, wearing brightly colored rain boots. A transparent umbrella left partially opened behind them becomes a symbol of turning a grey day into an unexpected burst of fun.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "neve",
+      "prompt": "Illustrate a child in a pristine white yard, trying to catch snowflakes on their tongue. A pair of red woolen gloves resting on a low wall stands as a symbol of winter’s magic and the chilly delight of a freshly fallen blanket of snow.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "pupazzi",
+      "prompt": "Depict a child carefully arranging stuffed animals on a bookshelf, as if curating a make-believe exhibition. A small wooden music box with a spinning carousel on top becomes the symbolic soundtrack of wonder that animates every plush companion.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "trenino",
+      "prompt": "Envision a room overtaken by toy train tracks weaving around cushions and furniture. A worn metal whistle hanging from the child’s neck represents the imaginative journeys and adventurous spirit that only a young stationmaster can bring to life.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "macchinine",
+      "prompt": "Present a child organizing a high-stakes race between colorful toy cars on a homemade track built from books. A small plastic trophy set at the finish line symbolizes playful competition and the thrill of achieving a triumphant outcome.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "costruzioni",
+      "prompt": "Show a child stacking wooden and plastic blocks into a tower that teeters defiantly against gravity. A toy construction helmet on the floor stands out as the symbolic sign of constructing dreams from the ground up, even at a tender age.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "libri",
+      "prompt": "Imagine a child curled up on the floor of a home library or reading corner, flipping through illustrated stories. A feather-decorated bookmark protruding from a half-finished book acts as the symbol of literary adventures waiting to unfold.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "storie",
+      "prompt": "Paint a living room where a child listens, spellbound, to an adult’s storytelling. The warm glow of a vintage lamp with a patterned shade becomes the symbolic source of these magical narratives, fueling the child’s creative mind.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "fantasia",
+      "prompt": "Depict a child with closed eyes, imagining a swirl of ethereal colors and impossible creatures floating through the air. A small kaleidoscope clutched in their hand stands as the symbolic portal to unbridled creativity and boundless possibility.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "avventura",
+      "prompt": "Picture a child, map in hand, venturing through a backyard jungle dotted with potted plants and makeshift obstacles. A toy compass clipped to the child’s belt symbolizes the courage and relentless curiosity driving them to discover hidden treasures.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "magia",
+      "prompt": "Illustrate a child performing amateur magic tricks in a makeshift stage setting—using an oversized top hat and glittery wand. The wand itself is the clear symbol of believing in the impossible and harnessing wonder in the everyday.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "principesse",
+      "prompt": "Show a child dressed in a flowing princess gown, set against a backdrop of shiny mirrors and sparkling lights. A glittering tiara placed upon a plush cushion stands as the symbolic crowning piece of regal daydreams and the fairytale spirit of youth.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "draghi",
+      "prompt": "Envision a child wrapped in a worn cloak facing off against a cardboard dragon in a suburban driveway. A painted cardboard shield resting on the ground becomes the emblem of fearless imagination, conjuring fire-breathing foes and epic quests.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "cavalieri",
+      "prompt": "Portray a child costumed as a knight, brandishing a wooden sword inside a grand “castle” built from chairs and blankets. That carefully carved wooden sword symbolizes valor and the storybook chivalry that thrives in a child’s playful spirit.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "pirati",
+      "prompt": "Show a child wearing a bandana and wielding a plastic cutlass, commanding a plushie crew on a pirate ship assembled from boxes and blankets. A cheap toy telescope carried by the child stands for charting new worlds and seeking treasured dreams.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "astronauti",
+      "prompt": "Depict a child donning a homemade cardboard spacesuit, exploring a ‘galaxy’ of hanging paper planets. A small rocket model on a nearby shelf becomes the inspiring symbol of cosmic ambition and the sense that no frontier is too distant.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "robot",
+      "prompt": "Visualize a child enthralled by a battery-powered toy robot with glowing eyes, in a bedroom decorated with futuristic decals. A handmade remote control dotted with stickers stands as the symbolic channel through which childhood merges invention and fancy.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "computer",
+      "prompt": "Imagine a child tapping on a colorful toy computer, with images blossoming from the screen and drifting around the room. A comically oversized mouse shaped like a friendly cartoon character is the symbol of bridging playful curiosity and digital exploration.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "tablet",
+      "prompt": "Create a scene of a child scrolling through a tablet brimming with vibrant apps that flicker into reality. A protective tablet case adorned with cartoon animals stands out as the symbol of modern entertainment and the boundary-blurring nature of technology.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "videogiochi",
+      "prompt": "Show a child immersed in a handheld console, with the game characters popping into the real world around them. A personalized controller covered in bright stickers serves as the symbolic representation of merging creativity with interactive play.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "sport",
+      "prompt": "Portray a child dashing across a vividly marked sports field, where different activities overlap in cheerful chaos. A small whistle looped around the child’s neck stands as the emblem of high-energy play, teamwork, and the lively spirit of youth.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "calcio",
+      "prompt": "Depict a child passionately kicking a ball in a lush green yard, chalk lines defining the makeshift field. A slightly worn pair of soccer cleats tossed near the goal line symbolizes devotion, practice, and the universal love of the sport in early years.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "danza",
+      "prompt": "Illustrate a child in a soft pink tutu practicing graceful steps in a brightly mirrored dance studio. A pair of ballet slippers hanging on the barre acts as the timeless symbol of discipline, elegance, and the artistic wonder that captivates children.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "nuoto",
+      "prompt": "Envision a child splashing in a crystal-blue pool with a beaming instructor offering guidance. A vividly patterned swim cap set on the pool’s edge becomes the symbol of confidence and an eagerness to conquer new depths.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "ballo",
+      "prompt": "Show a lively backyard party where children spontaneously break into dance under bright garlands of lights. A portable speaker pumping out cheerful tunes is the symbolic anchor of these carefree movements and collective celebration.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "canto",
+      "prompt": "Present a child belting out a tune into a toy karaoke microphone, musical notes swirling around. A mini speaker with flashing LED lights stands out as the symbol of pure self-expression and the confidence that resonates with each melody.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "teatro",
+      "prompt": "Depict a child performing on a cardboard stage, complete with handmade curtains and simple puppets. A theatrical mask set aside on a small stool is the symbolic artifact of transformation and the imaginative worlds children create through play.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "cinema",
+      "prompt": "Show a child in a dim living room, eyes fixed on a large TV screen playing an animated film. An overflowing bucket of popcorn perched in their lap serves as the symbol of wide-eyed amazement and escapism found in movies from a young age.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "pizza",
+      "prompt": "Illustrate a child gleefully helping an adult spread tomato sauce over a round pizza dough in a rustic kitchen. A wooden rolling pin dusted with flour stands as the symbol of culinary creativity and the shared fun of making favorite family meals.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "pasta",
+      "prompt": "Portray a child pretending to be a mini chef, surrounded by various shapes of uncooked pasta. A shiny copper pot resting on the stove is the symbolic centerpiece of cherished mealtime traditions and early gastronomic curiosity.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "gelato",
+      "prompt": "Show a child enjoying a decadent ice cream cone while leaning against a brightly painted ice cream stand. Drips cascade down their hand, and the colorful menu board next to them stands as the symbol of carefree, summer-tinted childhood memories.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "cioccolato",
+      "prompt": "Depict a child devouring a chocolate bar with a blissful expression, melted chocolate smudged around their mouth. A steaming mug of hot cocoa on a nearby table becomes the symbol of comforting sweetness that saturates cozy childhood moments.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "caramelle",
+      "prompt": "Present a child gazing in awe at a candy shop window overflowing with lollipops, gummies, and bright wrappers. A crinkly paper bag with a fun design, half-filled with colorful treats, stands out as the tangible emblem of childhood’s endless flavor adventures.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "biscotti",
+      "prompt": "Visualize a child helping to bake freshly shaped cookies, their aroma wafting through a cozy kitchen. A decorated tin canister on the counter, waiting to store the treats, serves as a symbol of warmth, homey traditions, and sweet intergenerational bonding.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "torta",
+      "prompt": "Illustrate a child diligently icing a homemade cake in a sunlit kitchen. A colorful silicone spatula with whimsical patterns stands as the focal symbol of creative efforts and the shared joy that transforms the simplest dessert into a grand accomplishment.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "palloncini",
+      "prompt": "Picture a dreamy sky filled with balloons of all shapes and hues, released by excited children. Among them, one particularly large balloon shaped like a smiling animal remains tethered to a child’s hand, symbolizing the celebration and elevated imaginings of youth.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "bolle",
+      "prompt": "Show a child blowing massive soap bubbles that capture the sunlight, shimmering with every hue of the rainbow. A small plastic container labeled with bright cartoons resting in the grass symbolizes the lightness of joy that bursts in playful, fleeting moments.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "aquilone",
+      "prompt": "Depict a child sprinting against the wind, trying to launch a vividly patterned kite into the open sky. A spool of string gripped tightly in their hands stands as the symbolic link between earthbound limitations and the exhilarating promise of flight.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "spiaggia",
+      "prompt": "Envision a sun-drenched shore where a child explores tide pools and collects seashells along the water’s edge. A bright red bucket brimming with sand emerges as the symbol of spontaneity, building ephemeral castles of possibility in the sand.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "conchiglie",
+      "prompt": "Show a child hunched over in concentration, picking up shells of varied shapes and patterns on a tranquil beach. One notably large shell held up to the child’s ear stands as the symbol of connection to the sea and the gentle hush of natural harmony.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "sabbia",
+      "prompt": "Paint a child’s hands shaping rivers and hills in the sand, forging entire mini landscapes around them. A set of bright plastic molds scattered nearby symbolizes the unleashed imagination and endless potential for creative exploration at the water’s edge.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "castelli",
+      "prompt": "Depict a child diligently crafting towers, bridges, and ramparts from damp sand, decorated with shells. A tiny handmade flag perched on the highest tower anchors the scene as the symbol of triumphant creativity and the ephemeral majesty of a child’s beach kingdom.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "arcobaleno",
+      "prompt": "Imagine a child, after a light rain, marveling at a vivid arc of colors across the sky. A small sketchbook and crayons, where the child has tried to replicate those dazzling stripes, stands as the symbol of hope and the impulse to capture beauty.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "nuvole",
+      "prompt": "Visualize a child reclining in tall grass, watching clouds morph into playful shapes overhead. A disposable camera on the ground, waiting to snap pictures, represents the desire to preserve these fleeting moments of imaginative discovery.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "aereo",
+      "prompt": "Show a child at an airport observation deck, transfixed by a plane lifting into the sky. A paper airplane clutched in their hand serves as the symbol of aspirations to soar beyond the horizon, echoing the wonder that flight inspires.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "treno",
+      "prompt": "Portray a child at a bustling station, eyes wide in anticipation as a long train rumbles to a stop. A crumpled ticket with childlike doodles near the child’s feet symbolizes the promise of new destinations and the excitement of travel.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "nave",
+      "prompt": "Imagine a child gazing from a dock at a distant cruise ship gliding across the horizon. A small model sailboat resting on the weathered boards stands as the symbol of grand adventures, beckoning the child to set sail for unknown wonders.",
+      "live_clip": "childhood_magic"
+    }
+  ],
+  "maturità": [
+    {
+      "word": "lavoro",
+      "prompt": "Visualize an adult in a sleek, modern office space. Rays of sunlight spill in through tall windows, reflecting off polished desks. A digital planner open on a large touchscreen monitor stands as the symbolic object of productivity and the drive for professional success, signifying the structured bustle of adult work life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "carriera",
+      "prompt": "Depict an urban skyline at sunrise, with an individual standing on a high-rise balcony overlooking the city. Multiple pathways of light extend below, each representing a potential direction. A stack of business cards resting on a table behind them symbolizes the milestones of ambition, growth, and the choices shaping a professional journey.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "famiglia",
+      "prompt": "Show a domestic scene of an adult returning home to warm embraces in a softly lit living room. Children’s drawings on the fridge and a calendar crowded with notes highlight evolving responsibilities. A central dining table, set with plates and a vase of fresh flowers, becomes the core symbol of connection and unity in mature family life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "casa",
+      "prompt": "Present an elegant, contemporary home exterior at twilight, lights glowing through large windows. A small, flourishing potted plant at the doorstep stands as the symbol of both personal growth and stability—reflecting the sense of belonging and rootedness adulthood often strives to achieve.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "mutuo",
+      "prompt": "Paint a scene that weaves contractual documents and the architectural sketch of a house into a bridge between dreams and tangible reality. A pen with a sleek design, placed next to the thick papers, stands out as the symbol of commitment and hope, denoting the responsibility of investing in a future home.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "auto",
+      "prompt": "Imagine a bustling city street where an adult sits confidently behind the wheel of a modern car. Reflections of neon signs glide across the polished hood, conveying freedom of movement and independence. A key fob with a subtle logo on the center console stands as the symbolic object of autonomy and personal progress.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "viaggi",
+      "prompt": "Visualize an adult in a stylish loft, packing suitcases with meticulously chosen outfits. Maps, postcards, and souvenirs spill across a coffee table, symbolizing diverse cultures and experiences. A weathered passport perched on top of the suitcase stands as the beacon of exploration and open-mindedness characteristic of adult adventure.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "relazioni",
+      "prompt": "Show a sophisticated lounge illuminated by soft, ambient light, where an adult sits in comfortable conversation with a close companion. Floating orbs of gentle light swirl around them, signifying emotional connections. A sleek phone on the table, gently vibrating with a new message, becomes the symbolic portal bridging personal closeness and modern communication.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "amicizie",
+      "prompt": "Depict a group of adults gathered in a contemporary rooftop setting, toasting with glasses that clink against a panoramic city backdrop. Interwoven lines of luminescence between them hint at mutual support and shared experiences. A single Polaroid snapshot on a lounge chair underscores the treasured nature of adult friendships that endure through changing times.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "sport",
+      "prompt": "Envision a modern fitness club with large windows, where an adult trains with focus and energy on cutting-edge equipment. Bright LED screens display health stats, emphasizing discipline and progress. A sleek water bottle with motivational text stands as the symbolic object, reflecting the blend of ambition and self-care found in adult athletic pursuits.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "salute",
+      "prompt": "Illustrate a calm, minimalist living space filled with lush green plants and a yoga mat neatly rolled in one corner. An adult stands by the window, taking a moment for deep breathing. A small aromatherapy diffuser emitting a gentle mist becomes the key symbol of holistic well-being, representing both mindful calm and physical self-care in adulthood.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "benessere",
+      "prompt": "Show a serene scene of an adult meditating near an indoor fountain, sunlight filtering through translucent curtains. Soft music notes or swirling light shapes personify balance and mental harmony. A candle with a subtle, earthy scent placed beside the water feature embodies the overall harmony and nurtured spirit of adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "fitness",
+      "prompt": "Visualize an adult in a sleek gym, mid-workout, surrounded by digital interfaces tracking steps and heart rate. Neon highlights and glass walls reflect determination and modernity. A futuristic-looking smartwatch on the wrist is the symbolic anchor, signifying disciplined commitment and the drive for physical excellence.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "alimentazione",
+      "prompt": "Paint a refined kitchen where an adult carefully prepares a colorful, balanced meal with fresh ingredients. Open cookbooks, recipe apps, and a display of spices line the counters. A simple bowl of ripe avocados sits as the emblem of quality and consciousness, embodying deliberate choices that fuel a healthy lifestyle.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "stress",
+      "prompt": "Show a bustling urban environment where an adult, carrying a briefcase, navigates crowded sidewalks. Pulses of contrasting dark and bright light highlight the pressures of daily life. A half-open planner with urgent to-do lists stands as the symbol of mental load, reflecting the tension and the quest to maintain balance in a frenetic routine.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "tempo",
+      "prompt": "Depict an abstract collage of clock faces and shifting, translucent calendars, all layered behind an adult who moves forward with determined grace. A slender wristwatch with a luminous dial is the central object, standing for the precious and fleeting nature of every adult moment.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "agenda",
+      "prompt": "Imagine an elegant office desk featuring both a digital calendar on a tablet and a stylish leather-bound planner. Pages adorned with color-coded notes pop with importance. A pen with an engraved name rests atop the planner as the symbol of organization and the art of juggling responsibilities with poise.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "riunioni",
+      "prompt": "Show a modern conference room enclosed by glass walls where professionals confer around a sleek table. Projected slides appear on a large screen, underscoring collaboration. A strategically placed speakerphone stands out, symbolizing the synergy and communicative clarity essential in adult teamwork.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "progetti",
+      "prompt": "Depict an office brimming with dynamic mind maps, sketches, and model prototypes pinned to walls. An adult confidently leads a discussion, gesturing toward the plans. A glowing holographic chart in the center of the room symbolizes the tangible shape that creative effort and teamwork can take.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "obiettivi",
+      "prompt": "Visualize a futuristic corridor lined with illuminated arrows guiding forward. An adult stands at the start, focused on the bright path. A bold neon sign overhead that reads ‘NEXT MILESTONE’ becomes the symbolic marker, epitomizing determination and the clarity required to achieve personal aspirations.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "successo",
+      "prompt": "Imagine a panorama of glass skyscrapers glimmering in the early morning sun, with an adult standing on a balcony surveying the city below. A golden trophy with minimalistic lines sits on a table in the foreground, encapsulating victory and the fulfillment of ambition in adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "realizzazione",
+      "prompt": "Show an elegant staircase bathed in soft, uplifting light, where an adult pauses mid-step in triumphant contemplation. Subtle engravings on each step hint at past efforts and progress. A gleaming metal plaque on the banister, engraved with their name, becomes the key symbol of personal and professional fulfillment.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "crescita",
+      "prompt": "Depict a digital tree with glowing circuit-like branches, each leaf representing a skill or experience gained through time. An adult stands nearby, hands outstretched as new leaves flourish. The tree itself is the symbol of ever-evolving maturity, embodying the continuous journey of adult development.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "sviluppo",
+      "prompt": "Visualize an adult walking through a corridor of shifting architecture—walls transform from old brick to sleek glass panels, symbolizing evolution. Lines of light representing learning and self-improvement dance along the floor. A tablet in hand, with open educational apps, serves as the beacon of progress and challenge in modern adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "formazione",
+      "prompt": "Illustrate a contemporary workshop setting with futuristic desks and interactive screens, where an adult eagerly absorbs new information. Floating holographic icons around them represent fields of expertise. An open digital textbook at the center stands as the symbol of commitment to ongoing education in adulthood.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "studio",
+      "prompt": "Show a tranquil study lined with both traditional books and glowing e-readers. An adult sits at a sleek wooden desk, poring over pages. A glowing desk lamp with adjustable brightness stands out, representing focus, the pursuit of knowledge, and the bridge between established wisdom and modern technology.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "master",
+      "prompt": "Depict a prestigious academic setting with modern architecture overlapping older, classical pillars. An adult holds a diploma folder with a discreet emblem, stepping away from a podium. The ornate lectern behind them is the core symbol, marking the culmination of advanced specialization and intellectual refinement.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "università",
+      "prompt": "Imagine a sprawling campus merging old ivy-covered buildings with futuristic glass halls. Students and adults cross paths in open courtyards. A path lined with digital monitors leading to an ancient library door stands out, symbolizing the melding of tradition and forward-facing education at this stage of life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "specializzazione",
+      "prompt": "Show a modern research lab with transparent walls, where an adult meticulously examines data on floating screens. Complex formulas and diagrams hover around. A microscope with a sleek design on a central station serves as the icon of deep expertise and the dedication required to master complex fields.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "competenze",
+      "prompt": "Envision an open floor plan office filled with interactive screens and dynamic charts. Each display highlights different competencies, from negotiation to coding. A luminous cube in an adult’s hand stands as the symbolic aggregator of their multifaceted abilities, glowing brighter with each skill acquired.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "skills",
+      "prompt": "Paint a scene in which an adult navigates a 3D interface of floating skill icons—linguistic fluency, technical prowess, leadership, all orbiting in a stable pattern. A stylized digital ring the adult wears, lighting up as they master each new talent, stands as the emblem of ongoing self-improvement.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "tecnologia",
+      "prompt": "Show a vast, futuristic cityscape at night, shimmering with neon lines and connected by a digital network. An adult stands on a high platform, looking out at the swirl of flying data streams. A sleek smartphone or wearable device in their hand symbolizes the pivotal role of tech in everyday adult scenarios.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "innovazione",
+      "prompt": "Visualize an advanced laboratory with walls that morph and adapt in real-time. An adult tests a prototype that emits pulses of color, signifying creativity and boundary-pushing ideas. A bold, neon-lit sign reading ‘Prototype Lab’ becomes the symbol of the curiosity and courage driving modern breakthroughs.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "digitale",
+      "prompt": "Depict a borderless virtual realm where streams of binary code flow like rivers through stylized cityscapes. An adult wearing subtle AR glasses navigates data-laden corridors. A semitransparent holographic panel with real-time updates stands out as the symbol of living in an era where online and offline continually merge.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "social",
+      "prompt": "Imagine a glowing web of connectivity stretching across a nighttime skyline, with an adult checking notifications on multiple devices. Soft orbs of light track each interaction. A distinct glowing node in the network, representing the adult’s profile, stands as the emblem of modern relationships rooted in digital presence.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "network",
+      "prompt": "Show a sophisticated lounge where professionals mingle. Thin, luminous threads link individuals, each intersection illustrating a shared skill or acquaintance. A subtle business card with an embedded chip becomes the central symbol, capturing the power of collective influence in the contemporary workplace.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "comunicazione",
+      "prompt": "Present a swirling collage of speech bubbles, video call screens, and color-coded text messages, all encircling an adult who deftly navigates them. A microphone and headset resting on a sleek table stands as the symbol of bridging distances and forging clarity in today’s interconnected adult reality.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "team",
+      "prompt": "Depict a dynamic, open-space office where a small group huddles around a digital whiteboard, brainstorming solutions. Their synergy is illustrated by arcs of light that pass from one person to another. A large table with interlocked puzzle pieces at the center symbolizes collective effort, combining unique talents into unity.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "leadership",
+      "prompt": "Envision a confident figure guiding a group discussion in a glass-walled boardroom overlooking a bustling metropolis. Rays of sunlight highlight the leader’s stance. A subtle staff or baton placed on the conference table becomes the motif, representing the blend of authority and inspiration characteristic of effective adult leadership.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "responsabilità",
+      "prompt": "Illustrate a foundation of sturdy pillars supporting a broad platform, where an adult stands evaluating multiple tasks—represented by floating icons. A ledger or checklist near the adult anchors the scene, symbolizing the gravity of commitments, both personal and professional, that define adult accountability.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "decisioni",
+      "prompt": "Imagine a crossroads at sunset, each path illuminated with a distinct color. An adult contemplates each route, measured determination in their gaze. A classic signpost in the center, with arrows pointing in every direction, becomes the symbol of choice-making and the weight such decisions hold in adulthood.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "scelte",
+      "prompt": "Depict a high-tech control room where an adult selects from multiple illuminated panels, each leading to a different scenario. A single large button labeled ‘Proceed’ glows more brightly than the rest, highlighting the moment of commitment. This console stands as the powerful icon of the unique paths we forge in mature life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "investimenti",
+      "prompt": "Show a conceptual garden where coins, stock graphs, and budding plants intertwine, capturing the essence of strategic finance. An adult waters these plants with a sleek silver watering can, representing foresight. The can itself is the symbol of nurturing financial growth and sowing seeds for a stable future.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "risparmi",
+      "prompt": "Imagine a clear safe or vault, filled not just with currency but also with tiny, glowing tokens representing time and security. An adult stands guard, carefully evaluating what goes in. The vault door, slightly ajar, is the symbol of disciplined prudence and the dedication required to build a reliable cushion over time.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "finanze",
+      "prompt": "Present a minimalist office desk with tidy stacks of ledgers and a computer screen displaying transparent financial charts. An adult’s reflection in the monitor merges their face with the data, symbolizing accountability and clarity. The well-organized desk is the central motif of responsible, methodical economic management.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "budget",
+      "prompt": "Show a layered spreadsheet floating in midair, each row flickering between personal and professional expenses. An adult organizes these rows with a sense of measured calm. A colorful pie chart in the foreground serves as the emblem of strategic resource allocation in everyday adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "spese",
+      "prompt": "Depict a busy city center where every billboard or sign ironically shows receipts and price tags. An adult navigates this environment with careful attention, smartphone in hand. A digital wallet app displayed on their screen becomes the symbol of day-to-day financial awareness and the efforts to manage life’s constant outflows.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "entrate",
+      "prompt": "Visualize a graph curving upward with each segment lit in gold, superimposed against an adult’s poised silhouette. Illuminated arrows indicate growth and potential. A subtle piggy bank with a modern design stands at the foot of the graph, symbolizing the vitality and sustaining power of consistent earnings.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "bollette",
+      "prompt": "Illustrate a kitchen table in the early morning light, scattered with paper statements and a laptop. An adult methodically checks figures while sipping coffee. A personalized stamp or organizer binder on the table acts as the emblem of day-to-day adult obligations and the structured approach needed to keep them under control.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "tasse",
+      "prompt": "Show a stylized administrative setting, with large columns of numbers hovering overhead like a digital mosaic. An adult carefully reviews forms at a polished desk. A neat array of reference documents, highlighted by a glowing official seal, underscores civic duty and financial propriety in adulthood.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "assicurazione",
+      "prompt": "Depict a house, a car, and a small group of people, each enveloped by a translucent protective shield. The adult stands in the center, holding a policy folder. This slightly glowing folder becomes the object of security and assurance that keeps unexpected troubles at bay in mature life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "pensione",
+      "prompt": "Portray a tranquil scene of an adult watching a mellow sunset over an open horizon, reminiscent of a calm future. A lounge chair and a light blanket on a patio frame the mood of relaxation earned after years of dedication. A small clock set aside on a table underscores the symbolic shift from work-driven schedules to reflective ease.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "previdenza",
+      "prompt": "Show an adult meeting with a financial advisor in a bright, modern office. Diagrams of timelines and projected growth appear on a digital screen. A small seedling in a clear pot next to the charts represents the foresight and steady nurturing required for long-term security in adulthood.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "futuro",
+      "prompt": "Envision a panoramic vantage point where an adult gazes at city lights and distant vistas merging into a star-filled sky. Shimmering lines connect the present to the beyond. A digital blueprint floating in the air next to them becomes the icon of hope, planning, and the limitlessness that adulthood dares to dream of.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "presente",
+      "prompt": "Depict an adult in a softly lit living room, fully engaged in conversation, a half-finished mug of tea at hand. Strokes of warm light highlight the simple domestic background. A small sticky note reading ‘Be Here Now’ is the symbolic cue: a reminder that living in the moment is key to peace and authenticity in adulthood.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "passato",
+      "prompt": "Illustrate an adult sorting through an old trunk full of photographs, letters, and keepsakes. Fading sepia tones contrast with the modern setting. A weathered diary perched on top of the trunk stands as the symbolic container of personal history, evoking both nostalgia and the lessons gleaned from it.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "memoria",
+      "prompt": "Show an adult reflected in a large mirror, behind which float layered images of earlier life stages. Warm-edged pictures of places and people swirl softly. A vintage photo album open on a side table becomes the emblem of recollection, bridging personal heritage and continuous self-awareness.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "esperienza",
+      "prompt": "Depict a timeline-like gallery of different snapshots from an adult’s life, each glowing with accumulated wisdom. An adult stands calmly at the center, acknowledging the array of images. A small case of souvenirs or mementos on the floor is the symbol of resilience and the stories that shape them.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "saggezza",
+      "prompt": "Visualize a tranquil study filled with books and subtle modern accents, where an adult contemplates quietly. Warm light halos an open volume of classic literature. The shelving, blending old texts with new, forms the symbolic backbone of knowledge gleaned over time, evoking maturity and reflection.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "maturità",
+      "prompt": "Show a poised adult in a softly lit space, balancing a modern tablet on one hand and a handwritten notebook on the other. Abstract lines swirl around them, merging experience, awareness, and innovation. A smooth stone set on a desk is the symbol of stability that emerges from a lifetime of learning.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "equilibrio",
+      "prompt": "Illustrate a dance of lights and shadows across an airy room where natural elements, like potted plants and stones, meet sleek furnishings. An adult practices a gentle yoga pose in the center. A suspended mobile of carefully weighted objects becomes the symbol of finding equilibrium amidst life’s demands.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "stabilità",
+      "prompt": "Portray a solid architectural structure under a serene sky, with an adult standing on a broad, reliable foundation. Subtle details in the bricks show life experiences etched into them. A sturdy pillar at the corner of the structure represents the deep sense of security adulthood can provide.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "cambiamento",
+      "prompt": "Depict a vibrant scene where an adult stands at the edge of a swirling vortex of color, symbolizing transformation. Leaves fall from one side but blossom on the other. A chameleon perched on a nearby branch becomes the key emblem, capturing the adaptability required to embrace life’s evolution.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "sfide",
+      "prompt": "Imagine an adult confronting a winding path of stepping stones across a rushing river. Each stone is etched with an obstacle or test. A faint rainbow forms in the mist, highlighting the resilience gained through these trials. The crossing itself stands as the symbolic gateway to overcoming adversity.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "opportunità",
+      "prompt": "Show a corridor lined with doors, each glowing a different hue. An adult moves forward, eyes alight with anticipation. A single door at the far end radiates especially brightly—this luminous threshold is the symbol of hope and the readiness to seize favorable moments in life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "rischi",
+      "prompt": "Visualize an adult poised at the edge of a dramatic cliff overlooking a vast landscape, the wind capturing stray papers from a briefcase. A hang glider or parachute resting by their feet is the emblem of nerve and possibility, emphasizing that stepping into the unknown can yield profound rewards.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "problemi",
+      "prompt": "Depict an intricate puzzle-like maze in a futuristic setting, where an adult methodically slides panels to form coherent pathways. The labyrinth’s complexity is underscored by shifting lights. A single highlighted puzzle piece in their hand symbolizes that each issue can be solved with keen insight and persistence.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "soluzioni",
+      "prompt": "Show a set of locked doors in a modern corridor, each with a distinct puzzle. An adult tries one of the keys from a shimmering ring. When the correct lock clicks open, a brilliant beam of light spills out, symbolizing that with creativity and perseverance, the path forward becomes clear.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "strategie",
+      "prompt": "Illustrate an adult laying out a detailed plan on a large digital board, with arrows and diagrams that glow in response to touch. Soft ambient lines link each step. A stylus pen resting at the edge is the emblem of deliberate action and the critical thinking behind successful adult endeavors.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "pianificazione",
+      "prompt": "Envision an adult in a sleek workspace surrounded by calendars, flowcharts, and post-it reminders. Rays of clarity shine on a master schedule pinned to the wall. A compass reinterpreted with months and tasks instead of cardinal points becomes the object that signifies goal-oriented direction.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "organizzazione",
+      "prompt": "Show a minimalist room with everything neatly arranged—folders labeled, cables tucked away, tasks color-coded. An adult updates a digital to-do list on a tablet. A symmetrical filing cabinet with gliding drawers becomes the central symbol, reflecting the elegance and efficiency of a well-orchestrated life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "gestione",
+      "prompt": "Depict an adult coordinating a flurry of responsibilities in a matrix-like space, each area representing a different domain (finance, home, career). Strands of colored light connect them all. A sleek clipboard with multiple checkmarks stands as the icon of orchestrating tasks and guiding them to completion.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "controllo",
+      "prompt": "Visualize an adult at a futuristic command console, adjusting dials that influence various life aspects—health, finances, relationships. Precise meters highlight equilibrium. A prominent lever labeled ‘Balance’ stands out, capturing the essence of mastery and assurance in navigating mature life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "qualità",
+      "prompt": "Show an adult curating a finely organized shelf of items, each representing a different facet of life—work achievements, personal mementos, wellness tools. Soft lighting emphasizes the polished surfaces. A magnifying glass lying near these objects acts as the symbol of careful assessment and devotion to excellence.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "eccellenza",
+      "prompt": "Imagine a pristine exhibition space where trophies, certificates, and symbolic achievements float gently. An adult stands admiring them, a subtle glow in their expression. One elegantly designed trophy at the forefront captures the essence of having reached a pinnacle of skill and dedication.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "performance",
+      "prompt": "Depict a spotlight illuminating an adult delivering a flawless presentation on a futuristic stage. Performance metrics swirl as holograms behind them. A neatly pinned microphone on their collar is the emblem of confidence and the recognition gleaned from stepping up to challenges in adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "risultati",
+      "prompt": "Show a set of ascending bars in a minimalistic graph, each bar shimmering in a gradient of success. An adult stands at the final, tallest bar, calmly acknowledging the climb. A luminous laurel wreath suspended above the top bar is the symbol of well-earned achievements and personal growth.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "feedback",
+      "prompt": "Illustrate a modern workspace where comments and reviews float like speech bubbles around an adult. Some glow softly with praise, others tinted with constructive critique. A stylized open mailbox on the table stands as the symbol of receptivity, underscoring the importance of communication in refining adult pursuits.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "valutazione",
+      "prompt": "Depict an adult reviewing metrics on a transparent board, each piece of data reflecting thorough assessment of a project. A balanced scale icon glows in one corner, representing fairness and the critical eye essential to progress in the professional sphere.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "miglioramento",
+      "prompt": "Envision a winding set of stairs bathed in gentle upward light, each step labeled with a personal or professional lesson. An adult ascends these steps, a focused look on their face. A guiding rail with motivational words etched along its length becomes the symbol of constant self-betterment in adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "innovazione",
+      "prompt": "Show a bustling think-tank or incubator space, filled with prototype gadgets and visionary sketches. An adult holds a newly conceptualized device that emits ribbons of glowing energy. A wall behind them showcasing bold, transformative ideas stands as the symbol of creative leaps that define progress.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "creatività",
+      "prompt": "Depict an explosion of colorful paint strokes and digital lines swirling around an adult who’s sketching or painting. Abstract shapes form and re-form in the air, illustrating endless invention. A palette or digital stylus that changes hue with each touch embodies the free-flowing brilliance of adult ingenuity.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "idee",
+      "prompt": "Show a luminous constellation of lightbulbs, each containing a unique spark of inspiration, orbiting around an adult deep in thought. A notepad with energetic scribbles resting on their knee acts as the anchor, capturing eureka moments before they fade.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "progetti",
+      "prompt": "Paint a futuristic office brimming with collaborative pods and interactive screens. An adult leads a small team engaged in a design sprint. A large holographic blueprint at the center of the room stands as the symbol of turning conceptual sparks into structured initiatives that shape adult ambitions.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "collaborazione",
+      "prompt": "Visualize multiple hands reaching into a central sphere of glowing energy, each hand representing different skills and backgrounds. An adult’s hand is prominent, connecting them all. The shared sphere encapsulates synergy—fusing ideas into a coherent force that pushes boundaries in adult team endeavors.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "partnership",
+      "prompt": "Illustrate two adults shaking hands in a modern open-concept workspace, bright windows revealing a bustling city. Subtle arcs of light linking their extended arms represent mutual trust. A sealed contract or MOU on a table behind them stands out, symbolizing formal alliance and the birth of collective aims.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "network",
+      "prompt": "Depict a vast digital grid connecting professionals across different hubs. An adult in the foreground interacts with a node glowing more intensely than others, signifying a newly forged relationship. Pulsing lines connect them to distant points, embodying the dynamic complexity of adult networking.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "contatti",
+      "prompt": "Show a sleek phone interface with meticulously organized circles representing various groups—colleagues, mentors, clients. Each contact is a point of light, and an adult’s hand hovers over it, selecting who to reach out to next. A digital ‘Rolodex’ icon is the central motif, bridging personal interactions in professional adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "relazioni",
+      "prompt": "Imagine an adult in a softly lit lounge, forging or strengthening bonds with a close circle. Threads of light connect them in subtle arcs, some stronger, some newly formed. A central coffee table displaying shared tokens—like souvenirs or a group selfie—becomes the symbol of depth and trust in mature interpersonal connections.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "negoziazione",
+      "prompt": "Depict a professional setting where two parties sit across a glass table, exchanging calm, measured dialogue. An adult listens intently, hands resting on a portfolio of proposals. A balanced scale icon softly illuminated on the table represents fairness, compromise, and the quest for equitable solutions.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "mediazione",
+      "prompt": "Show an adult guiding opposing sides toward harmony in a circular meeting space with gentle lighting. A subtle arch bridge in the background stands as the symbol of bridging differences, uniting viewpoints, and the art of seeking common ground in adult conflicts.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "conflitti",
+      "prompt": "Paint a scene where tension crackles between individuals in a stark, dual-toned environment. An adult tries to calm the storm, stepping between them. A well-worn gavel on a small table near them becomes the icon of resolution, emphasizing structured dialogue as a path to peace in mature disputes.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "stress",
+      "prompt": "Imagine an adult immersed in swirling energies of bright reds and swirling grays, symbolizing inner tension. They lean against a desk loaded with open files, phone messages, and sticky notes. A stress ball, partly squeezed in their hand, stands out as the tangible relief strategy in a world that demands resilience.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "pressione",
+      "prompt": "Show an adult in a stark environment where walls visibly contract with each new responsibility that arises. Beads of sweat reflect determination rather than defeat. A robust stopwatch ticking louder by the second epitomizes the unyielding push of deadlines and expectations in mature life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "deadline",
+      "prompt": "Visualize an adult racing through an office corridor illuminated by countdown timers on each door. The ticking intensifies as they progress. A large digital clock at the corridor’s end glows in urgent red, capturing the sense of finality and the adrenaline fueling timely achievements.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "tempo",
+      "prompt": "Depict a multi-layered hourglass with modern, geometric contours. The adult stands to one side, contemplating the trickling grains—each grain holding a glimmer of past or future. The hourglass is the central image, embodying the priceless, continuous nature of life’s moments in adulthood.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "priorità",
+      "prompt": "Show an adult in a digital command center, sorting tasks of different urgency on multiple floating panels. Each panel is a distinct color, highlighting significance. An archway reading ‘What Matters Most’ stands behind them, symbolizing the clarity needed to navigate the mosaic of adult obligations.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "urgenze",
+      "prompt": "Illustrate a busy call center environment, with red flashing lights denoting urgent requests. An adult jumps between calls with unwavering composure. A bright signboard saying ‘Handle with Care’ becomes the symbolic anchor—reminding us that in adulthood, some demands call for instant, calm action.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "emergenze",
+      "prompt": "Visualize an adult responding to a critical situation in a control room filled with siren-like lights. Monitors display crisis updates, and each beep amplifies the tension. A sealed emergency kit on a shelf stands as the tangible manifestation of readiness and decisive problem-solving, hallmark traits of mature stability.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "crisi",
+      "prompt": "Show a fracturing environment—a splitting background revealing both darkness and a beam of light. An adult stands at the dividing line, calmly deciding which way to act. Jagged edges morph into smoother lines beyond them, symbolizing that crises can be turning points toward renewal and growth.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "opportunità",
+      "prompt": "Depict a futuristic hallway lined with door-like portals, each glowing with intrigue. An adult stands at one portal, an adventurous gleam in their eyes, about to step through. The portal frames a bright horizon, signaling the readiness to embrace what lies beyond familiar boundaries in the adult sphere.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "sfide",
+      "prompt": "Present a dynamic environment of mountainous obstacles and swirling wind, each peak labeled with an obstacle. An adult, harnessed for safety, climbs steadily. A faint rainbow arcs overhead, accentuating resilience. The climb itself symbolizes the unstoppable pursuit of triumph, typical of adult perseverance.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "obiettivi",
+      "prompt": "Show a panoramic perspective of layered achievements, each shaped like a shining milestone along a winding path. An adult moves toward the farthest marker, eyes fixed on it. A subtle sign reading ‘Journey Continues’ stands as the symbol of ambition fueling ongoing adult progress.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "traguardi",
+      "prompt": "Envision a sequence of archways in a luminous corridor, each archway marked with a personal or career achievement. An adult passes under them, pausing to reflect on each success. A small, decorative plaque at the base of every arch underscores the significance of these markers in maturity’s journey.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "successi",
+      "prompt": "Paint a celebratory moment of an adult raising a toast in an elegant gathering as confetti softly falls. Glowing outlines of previous hurdles line the walls like trophies. The glint of a champagne glass in hand becomes the symbol of accomplishments and the satisfaction wrought by dedication over time.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "fallimenti",
+      "prompt": "Show an adult sitting in a contemplative pose amidst crumbled papers and broken symbols of earlier attempts. Subdued lighting accentuates reflection rather than despair. A faintly glowing phoenix emblem in the background signifies learning, resilience, and the transformation that follows defeat in adult life.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "lezioni",
+      "prompt": "Depict a swirling collage of moments—some triumphant, some challenging—around an adult whose expression is thoughtful yet hopeful. An old journal titled ‘Reflections’ on a small table stands as the icon of gleaning insight from the past, fueling wiser tomorrows.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "apprendimento",
+      "prompt": "Envision a corridor lined with doorways leading to small vignettes of knowledge—each lit in a distinct hue. An adult moves through, collecting pieces of luminous text. A spiral staircase at the end, also glowing, signifies continuous ascent toward wisdom, a hallmark of mature ambition.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "crescita",
+      "prompt": "Show a branching structure that morphs from mechanical to organic, each segment displaying new leaves of potential. An adult gently nurtures the lower branches, indicating conscious self-improvement. The living, metallic trunk is the anchor symbol, exemplifying unstoppable evolution in adulthood.",
+      "live_clip": "adult_refinement"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "ricordi",
+      "prompt": "Paint an intimate sitting room where an elderly figure sifts through faded photographs spread across a low table. Soft beams of afternoon light highlight each smiling face in the pictures. A vintage music box playing a gentle tune is the symbolic centerpiece, evoking the tender power of recollection and longing.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "saggezza",
+      "prompt": "Imagine a peaceful study where an older individual leans back in a cushioned armchair, reading philosophical texts. Shelves filled with well-worn volumes and artifacts from decades past frame the scene. A soft-glowing lamp with a stained-glass shade stands as the emblem of the guiding light that wisdom provides late in life.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "esperienza",
+      "prompt": "Depict a cozy den adorned with mementos—certificates, travel souvenirs, and trinkets from different eras. An older person sits quietly, recounting stories to a younger listener. A battered leather journal on the coffee table holds the symbol of lived encounters, resilience, and the layered texture of a long life.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "tradizione",
+      "prompt": "Present a warm interior reminiscent of simpler times—wooden beams and handwoven tapestries adorning the walls. An older adult passes down an heirloom or shares a ritual with family. A worn family cookbook open on a rustic table stands as the symbol of cultural continuity and the legacy that defines one’s roots.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "famiglia",
+      "prompt": "Show a multigenerational gathering in a softly lit dining room, with an older individual at the head of the table. Laughter fills the air. A large photo collage displayed on a mantel is the emblem of shared history, reminding everyone of the affectionate bonds that hold them together.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "nipoti",
+      "prompt": "Depict an older adult reading to a grandchild in a comfortable armchair near a window. Illuminated dust motes dance in the beam of sunlight. A gently rocking cradle or a small toy chest in the background stands as the symbol of the affectionate link between past wisdom and youthful wonder.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "pensione",
+      "prompt": "Illustrate a serene porch scene where an elderly individual rests in a rocking chair, gazing at a calm sunset. Warm hues splash across the horizon. A small side table with a cup of tea and an open novel embodies the tranquil reward earned after years of dedication and work.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "tempo",
+      "prompt": "Visualize a quiet parlor where clocks of different shapes and sizes each mark a unique pace, as an older person contemplates them. Faded daylight streams through lace curtains. A single hourglass on the mantel, its sand gently flowing, stands out as the poignant symbol of how each moment in later life holds deeper meaning.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "hobby",
+      "prompt": "Show an older adult immersed in their pastime—painstakingly painting miniature figurines or tending to a bonsai. Afternoon sun bathes the workspace in a gentle glow. A handcrafted wooden box storing special materials serves as the symbolic container of joy and a gentle sense of purpose sustained over the years.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "giardinaggio",
+      "prompt": "Envision an elderly figure carefully pruning blooms in a sun-dappled garden. Wisteria vines or rosebushes bloom, each petal reflecting years of care. A traditional watering can with a slightly dented spout underscores the quiet devotion and cyclical renewal central to this stage of life.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "lettura",
+      "prompt": "Depict an older person peacefully seated in a well-worn armchair by a window, absorbed in a thick novel. Soft, natural light falls onto the pages. A small pair of reading glasses with a gold-rimmed chain becomes the poignant symbol of accumulated knowledge and reflective moments found in books.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "passeggiate",
+      "prompt": "Illustrate a leisurely outdoor setting—perhaps a quiet park path strewn with fallen leaves—where an elderly person strolls, a gentle smile on their face. A wooden walking cane with intricate carvings serves as the scene’s symbol, supporting both body and the nostalgia-laden steps of older age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "riposo",
+      "prompt": "Visualize a small bedroom filled with warm, filtered light, where an elderly individual naps under a handmade quilt. Curtains sway gently in a soft breeze. A beloved cushioned chair near the bed becomes the symbolic anchor of comfort and rejuvenation that comes with a well-earned respite.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "relax",
+      "prompt": "Show an older person soaking in a moment of peace on a porch swing, eyes closed, breathing in fresh air. The echo of wind chimes underscores the calm. A small footstool covered in a quilted fabric acts as the visual metaphor for serenity and the gentle pace of life in the later years.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "salute",
+      "prompt": "Paint a softly lit medical clinic where an older adult consults with a friendly doctor, who gestures reassuringly toward a test result. Lush indoor plants by the window convey holistic well-being. A stethoscope resting on a nearby counter is the symbol of care and the watchful preservation of vitality in advanced age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "medicine",
+      "prompt": "Picture a tidy kitchen counter lined with neatly labeled medicine bottles, each carefully arranged by dose and time. An older adult sorts them with a calm, methodical air. A simple pill organizer with color-coded compartments stands as the object signifying diligence, routine, and the supportive structure that allows comfort in older adulthood.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "visite",
+      "prompt": "Show an elderly individual in a bright examination room, calmly discussing results with attentive medical staff. Subtle monitors display stable vitals, while a gentle overhead light softens the atmosphere. A well-handled medical file folder on the table is the symbolic record of care and vigilance that ensures peace of mind.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "dottore",
+      "prompt": "Envision a serene clinic setting where an older adult and a compassionate physician exchange friendly smiles. Diagrams of body systems adorn the walls. A stethoscope looped over a white coat is the central emblem, representing guidance, empathy, and the proactive approach to health in later life.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "check-ups",
+      "prompt": "Design a scene where medical check-ups become part of a cherished routine in older adulthood: vintage and modern tools line a softly lit examination table, while an elderly figure calmly reviews test results with care and acceptance. A precisely placed stethoscope, resting atop a folded white coat, symbolizes the ongoing commitment to health and reassurance.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "prevenzione",
+      "prompt": "Visualize an environment where prevention evolves into the practice of gentle, mindful self-care: simple, comforting spaces and subtle protective symbols merge to convey the innate wisdom of daily health checks. A small pillbox with carefully sorted tablets stands as a testament to preparation and vigilance, preserving vitality through the later years.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "cura",
+      "prompt": "Create an intimate image that frames care as a loving daily act: soft, homey settings glow in the background, while an elderly person tends to a personal routine—perhaps massaging hands with lotion or brewing an herbal remedy. A gently burning candle flickers on a nearby table, symbolizing warmth, safety, and the compassion that pervades these moments.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "benessere",
+      "prompt": "Depict a serene open-air patio, gently accented by greenery and calm sunlight, where an older adult sips tea and reads a favorite book. A plush chair with comfortable cushions anchors the scene, encapsulating the harmonious blend of physical rest and mental tranquility emblematic of well-being in old age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "alimentazione",
+      "prompt": "Imagine a modest yet inviting kitchen in soft morning light, with an elderly person thoughtfully selecting fresh produce from a woven basket. A wooden cutting board, lovingly worn from years of use, becomes the symbolic heart of nutritious meal preparation—a reminder of how caring for the body enriches later life.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "dieta",
+      "prompt": "Visualize a simple but refined dining scene where balanced meals reflect accumulated wisdom: an older adult thoughtfully arranges fruits and grains on a beautifully set table. A neatly kept food journal lying open at one corner is the symbol of conscious, deliberate nourishment that underscores self-respect at this stage of life.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "ginnastica dolce",
+      "prompt": "Show an elder performing gentle stretches or mild calisthenics in a sun-dappled courtyard. Soft music notes flow in the background, and pastel-colored exercise bands rest on a wooden bench. The bench itself becomes the emblem of ongoing vitality, bridging physical well-being and mindful routine in old age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "yoga",
+      "prompt": "Picture a tranquil setting—a mat spread in a peaceful garden—where an elderly figure holds a calm, balanced pose. Tall trees filter the sunlight, dancing across the grass. A small singing bowl by the mat serves as the symbol of meditative focus, emphasizing the fusion of gentle physical practice and deeper spiritual introspection in advanced years.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "meditazione",
+      "prompt": "Compose a scene where an older adult sits cross-legged on a cushion near softly flickering candles, eyes closed in quiet contemplation. Wispy incense smoke coils in the air, while a set of smooth, rounded stones on the floor become the symbolic anchor of inner equilibrium and peaceful reflection.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "spiritualità",
+      "prompt": "Envision a light-filled space where an elderly person contemplates sacred objects—perhaps prayer beads or a simple altar. Soft beams of sunshine illuminate stained-glass reflections that dance across the walls. A single lit votive candle stands out as the universal symbol of faith and transcendent connection in late life.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "fede",
+      "prompt": "Present an older figure kneeling or seated in a humble place of worship, quietly immersed in prayerful moments. Golden rays of light cascade through a high window, highlighting a worn prayer book or rosary in their hands. That token of devotion becomes the spiritual bond bridging human fragility and divine hope.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "preghiera",
+      "prompt": "Show a meditative corner framed by gentle drapes, where an older adult holds onto a small candle or symbolic object of devotion. The warm glow envelops them, reflecting on softly colored walls. A single cushion on the floor takes central stage as the symbol of intimate communion and introspective depth that prayers bring.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "riflessioni",
+      "prompt": "Render a cozy den with an old mirror softly catching the day’s last light. An elderly figure stands beside it, gazing not only at their present reflection but also glimpses of past images superimposed. A small trunk of personal letters or diaries in the corner symbolizes the profound introspection that shapes these twilight years.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "contemplazione",
+      "prompt": "Depict a scenic veranda overlooking a tranquil lake at dusk, where an older person sits in quiet wonder. The muted pink and lavender sky wraps the setting in calm. A gently ticking clock on a nearby table, next to an old family photo, becomes the emblem of mindful introspection connecting memories and the present.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "pace",
+      "prompt": "Imagine a softly lit room where an older adult sleeps contentedly in an armchair, the hush of evening enveloping them. Light from a single lamp casts a warm halo. A slowly spinning music box playing a lullaby stands out as a tender symbol of abiding calm and the quiet grace that accompanies advanced age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "serenità",
+      "prompt": "Conjure a tranquil setting by a pond, where an elderly figure feeds gentle koi fish under the glow of a late afternoon sun. Willows sway overhead. A small wooden footbridge arching over the water stands as a symbolic representation of transcendent composure, bridging the hush of nature with the poise of a peaceful spirit.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "tranquillità",
+      "prompt": "Show a simple yet graceful living space bathed in soft neutrals, where an older person waters a single potted orchid near a window. Crisp, minimal lines emphasize a sense of openness. The orchid itself, carefully nurtured, becomes the living metaphor for sustained calm and gentleness in later life.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "silenzio",
+      "prompt": "Paint a still library corner with shelves of old, whispering books. An elderly figure gently traces a finger along the spines, choosing one. A plush armchair close by, set under a reading lamp’s low glow, embodies the restful sanctuary that quiet moments offer in old age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "silenzio (ripetuto)",
+      "prompt": "Portray a peaceful interior lit by a single, calm beam of sunlight, dust particles drifting lazily. An older adult sits in a rocking chair, embraced by the hush. A gently closed wooden door at the back symbolizes the deliberate retreat from the world, reminding us how silence speaks volumes in later years.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "solitudine",
+      "prompt": "Display a minimalistic bedroom with pastel walls and a large window revealing an early morning sky. An elderly person stands quietly, gazing outside, the faint outline of distant hills or rooftops in view. A softly folded shawl on the bed is the symbol of reflective solitude—bearing both comfort and self-awareness.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "compagnia",
+      "prompt": "Illustrate a calm living area where two seniors chat warmly over hot tea, hands occasionally touching in camaraderie. Gentle laughter fills the background. A knitted blanket shared across both laps serves as the tangible token of emotional closeness and mutual caring in the later stages of life.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "amicizie",
+      "prompt": "Render a sun-washed patio with a small table set for coffee or tea, where a few older friends converse, exchanging stories of the past. Photos from shared trips or events lie scattered across the tabletop. These pictures become the symbolic links to a lifetime of bonds and cherished alliances.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "incontri",
+      "prompt": "Paint a scene at a tranquil community center: an older adult greets a new visitor with a handshake or gentle smile. The airy room holds chairs arranged in a circle and board games on a corner shelf. A vase of fresh flowers at the center symbolizes the blossoming warmth that each human interaction brings, even in advanced years.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "socialità",
+      "prompt": "Show a modest hall where a small group of seniors engage in light activities—like painting or listening to music. Soft overhead lighting imparts a welcoming ambiance. A bulletin board filled with communal notices stands as the symbol of shared interests and the supportive tapestry of social life in older age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "comunità",
+      "prompt": "Depict a comfortable communal garden with raised flower beds, benches, and a backdrop of laughter. Older neighbors chat as they tend to plants, the fragrance of blooming life swirling around. A weathered watering can resting near the bench highlights the cultivated sense of belonging and mutual assistance characteristic of later years.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "volontariato",
+      "prompt": "Visualize an older adult at a local charity event, joyfully helping organize clothes or prepare meals. Subtle warm light illuminates the scene, reflecting genuine compassion. A sign reading ‘Together We Care’ becomes the unifying motif, capturing the altruism that remains vital even in advanced age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "aiuto",
+      "prompt": "Portray a moment where an older individual offers assistance to someone—perhaps a guiding arm across a busy walkway. The environment gently contrasts modern bustle with the calm, experienced presence of the elder. A supportive cane leaning against a wall stands for the reciprocity of care: we help one another in life’s journeys.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "sostegno",
+      "prompt": "Show a bright living room where adult children or caregivers arrange cushions and adjust blankets for an older adult who smiles gratefully. Rays of sunshine filter onto a small side table holding a family photo. This table resonates as a symbolic pillar of familial love, ensuring comfort and security in later life.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "solidarietà",
+      "prompt": "Picture interlinked hands of diverse ages forming a gentle chain around an older person, all encompassed by a warm glow. The subdued background underscores the sense of unity. A simple crocheted shawl wrapping their shoulders embodies the empathy and shared kindness that define social bonds in old age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "generosità",
+      "prompt": "Design a cozy communal space where an elderly figure offers homemade sweets or crafts to neighbors. Soft fairy lights strung overhead highlight the giving spirit. A basket filled with thoughtful tokens—freshly baked bread or small crocheted blankets—stands as the symbol of heartfelt sharing, enriched by decades of life experience.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "condivisione",
+      "prompt": "Depict a warmly lit dining area where an older host serves a special dish to invited friends, each guest contributing a homemade item to the table. A large centerpiece dish, perhaps a heritage recipe passed down, represents the synergy of collectively cherished traditions and communal joy.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "racconti",
+      "prompt": "Envision an intimate corner where an older adult recounts vivid tales to a younger family member, both illuminated by a soft lamp. Stacks of handwritten journals and photograph albums line a low bookshelf. A well-loved rocking chair cradles the elder, representing the gentle back-and-forth rhythm of shared experiences.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "favole",
+      "prompt": "Illustrate a tapestry or quilt embroidered with scenes of a life well-lived—travel spots, family milestones, personal triumphs. An older person traces the stitches, explaining each depiction to a curious visitor. The vibrant needlework itself is the symbol of memory-laden narratives, a mosaic of laughter and tears that form a personal legacy.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "aneddoti",
+      "prompt": "Show a sunny patio where an elderly friend group shares cups of tea and fond memories. Soft laughter fills the air. An antique tape recorder on the table quietly captures their voices, representing the precious snapshot of fleeting stories: slices of life that deserve to be preserved and relived.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "passato",
+      "prompt": "Compose a dreamy scene where old black-and-white photos float gently above an elderly individual who stands reminiscently in a dimly lit attic. A single dusty trunk at their feet stands as the vessel of preserved yesteryears, bridging the intangible realm of nostalgia and the reality of the present.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "presente",
+      "prompt": "Display a living room set in soft, natural daylight, where an older adult sits contentedly, crocheting or reading. A simple clock on a nearby mantel shows a midday hour, reinforcing that right now—a calm moment of ordinary joy—matters profoundly. This clock is the anchor of mindful presence and acceptance.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "futuro",
+      "prompt": "Envision a broad horizon bathed in late-afternoon sunshine, as an older person stands on a wooden deck gazing at distant hills. Blossoming wildflowers near the railing hint at life persisting in cycles. A small wind chime overhead, catching the breeze, resonates with gentle hope and the quiet anticipation that remains alive even with time’s passage.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "eredità",
+      "prompt": "Picture a study where an older individual leafs through a handcrafted family tree or scrapbook. Shelves display cherished items—an old wedding photograph, children’s drawings, a college diploma. A quill pen resting on an open notebook embodies the gift of knowledge, tradition, and love each generation hands down to the next.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "valori",
+      "prompt": "Show an older mentor figure carefully teaching a younger family member how to repair or create something meaningful—perhaps woodworking or knitting. Rays of soft light highlight their hands at work. A worn family crest or motto etched into a nearby surface symbolizes the ethical compass gleaned through decades of life experience.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "insegnamenti",
+      "prompt": "Depict a moment where an older person points to a passage in a treasured, timeworn book—be it scripture or literature—while a younger listener nods in awe. A graceful antique clock on the mantel underscores the endurance of wisdom through changing eras, bridging knowledge from one generation to the next.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "consigli",
+      "prompt": "Paint a tender scenario of an elder quietly counseling a loved one over a table scattered with letters and tokens of past experiences—postcards, an old ring, a grandmother’s cameo. A gently flickering lamp overhead becomes the beacon of guidance, offering perspective gained only through the fullness of years.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "esperienza (duplicato)",
+      "prompt": "Design a heartfelt collage representing a life’s journey: photos of personal milestones, small souvenirs from travels, and keepsakes pinned like map points. An older adult lovingly arranges these items into a coherent tapestry. A gentle glow frames the collage, embodying the resonant depth of decades of memories and growth.",
+      "live_clip": "elderly_reflection"
+    }
+  ]
+}
