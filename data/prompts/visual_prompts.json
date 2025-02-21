@@ -1,0 +1,1398 @@
+{
+    "infanzia": [
+      {
+        "word": "casa",
+        "prompt": "Create an immersive scene where a simple house transforms, through a child's imagination, into an enchanted refuge: every corner glows with warm light, with walls that tell fairy-tale stories and windows that transmit daydreams. Exquisite details—like playful little creatures and dancing shadows—make this setting a symbol of the safety and magic of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "mamma",
+        "prompt": "Visualize an emotional portrait where the figure of a mother becomes the center of a tender, protective universe: warm embraces, loving glances, and a space that transforms into a cozy nest, where every detail—from soft toys to gentle pools of light—tells the story of maternal care typical of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "papà",
+        "prompt": "Imagine a vibrant and reassuring scene where the figure of a father stands as an everyday hero in a child's world: a richly detailed environment in which playful tools, smiles, and affectionate gestures blend with symbols of strength and protection, conveying the sense of security and unconditional love.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "gioco",
+        "prompt": "Create a dreamlike landscape where the concept of play manifests in myriad forms: spaces that transform into fantastic worlds, toys that come to life, and dancing colors that evoke the boundless imagination and exuberant energy of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "scuola",
+        "prompt": "Design a scene where school becomes a portal to worlds of knowledge and fantasy: classrooms that expand into imaginative landscapes, desks that tell stories, and blackboards that transform into windows on universes full of adventures, capturing the wonder and curiosity of early years.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "parco",
+        "prompt": "Illustrate an enchanted park where green merges with the sky in a burst of colors and lights: trees whisper secrets, paths invite discoveries, and outdoor games come alive in a dance of shadows and reflections, conveying the joy and carefreeness of youth.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "cartoni",
+        "prompt": "Depict a scene where cartoons are not merely images on a screen, but vibrant worlds bursting forth, transforming the surroundings into a kaleidoscope of shapes and colors that evoke the fantasy and wonder typical of a child's dreams.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "gelato",
+        "prompt": "Create a summery, carefree vision where ice cream becomes a symbol of sweetness and joy: creamy textures, pastel colors, and sunlit reflections blend into a composition that exalts the freshness and magic of simple childhood moments.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "pallone",
+        "prompt": "Imagine a ball floating in a sky of changing hues, carrying the lightness and joy of play: every reflection and movement tells the story of outdoor fun and the sense of freedom that characterizes childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "bicicletta",
+        "prompt": "Visualize a bicycle that becomes a vehicle for exploring endless worlds: roads that transform into rivers of light, landscapes unfolding like paintings, and vibrant energy symbolizing the adventure and discovery of early years.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "nonni",
+        "prompt": "Create an intimate, nostalgic atmosphere where grandparents embody wisdom and affection: a living room filled with memories, photographs that tell past stories, and details that evoke the warmth of an old embrace, all bathed in soft, welcoming light.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "amici",
+        "prompt": "Depict a spontaneous scene of friends enjoying a celebration where bonds and complicity manifest in laughter, games, and small adventures: vivid colors, affectionate gestures, and transforming environments swirl together in a whirlwind of emotions and discoveries.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "giocattoli",
+        "prompt": "Design a scene where every toy becomes the protagonist of a magical adventure: intricate details, realistic textures, and an atmosphere suspended between reality and fantasy revive the charm and exploratory energy of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "dolci",
+        "prompt": "Imagine a banquet of sweets that transforms into a kaleidoscope of flavors and colors: every candy, cookie, and cake becomes a small masterpiece, rich in delightful details and bathed in soft light that expresses the sweetness and innocence of childhood memories.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "maestra",
+        "prompt": "Create an evocative image in which the teacher becomes a gentle guide in a world of knowledge and fantasy: a classroom transforms into an enchanted realm, filled with flying books, animated blackboards, and smiles that light the path of learning.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "asilo",
+        "prompt": "Depict a preschool as a magical place of first discoveries, where colorful spaces, interactive games, and small details—like murals that come alive and secret nooks—tell the story of joy, curiosity, and the safe environment designed to nurture imagination.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "favole",
+        "prompt": "Visualize a narrative landscape where fairy tales become reality: floating castles, fantastic creatures, and dreamlike settings weave together in a richly detailed visual tale that transports the viewer into the magical realm of timeless stories.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "disegni",
+        "prompt": "Create a scene celebrating the spontaneous art of children's drawings, where vibrant sketches, bold colors, and free-flowing lines combine into a captivating, chaotic composition: every stroke becomes a fragment of a fantastical world born of pure imagination.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "colori",
+        "prompt": "Imagine an explosion of colors transforming every surface into a living artwork: pastel hues and brilliant accents dance in harmony, evoking the dynamism, joy, and endless variety of emotions typical of early childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "piscina",
+        "prompt": "Depict a dreamlike summer pool scene where crystal-clear water mirrors playful reflections: gentle waves, sunlit sparkles, and subtle details like shimmering splashes create an image of fun and carefreeness that defines childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "vacanze",
+        "prompt": "Create a festive vision of childhood vacations, where exotic landscapes and richly detailed settings merge into an imaginary journey: bright blue skies, impromptu games, and moments of pure joy capture the free-spirited adventure of early life.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "mare",
+        "prompt": "Imagine the sea as an immense fantasy scene, where dancing waves under a warm sun reflect stories of adventures and carefree play: the entire composition is imbued with vivid colors and details that convey the freedom of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "montagna",
+        "prompt": "Design a scene where a mountain becomes the stage for a great childhood exploration: hidden trails, sparkling peaks, and breathtaking landscapes weave together in a richly detailed image of natural challenge and wonder.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "zoo",
+        "prompt": "Visualize a zoo where animals are not just on display but become active characters in a fantastic adventure: each animal—from the common to the exotic—is reimagined with surreal colors and animated by light and shadow, evoking the thrill of discovery inherent in childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "circo",
+        "prompt": "Create an atmosphere of an enchanted circus where extravagant tents, suspended acrobats, and imaginary animals blend into a surreal performance: vivid lights, intricate details, and a set design that transports the viewer to a realm of wonder and carefree delight.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "festa",
+        "prompt": "Depict a childhood party bursting with colors, music, and joy: sparkling decorations, soap bubbles, and moments of pure euphoria come together in a festive scene rich in details that celebrate the enthusiasm and spontaneity of childhood fun.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "compleanno",
+        "prompt": "Imagine a dreamlike birthday celebration where every candle, balloon, and cake transforms into a symbol of happiness and growth: the scene is enriched by playful lighting, festive details, and a warm atmosphere embodying the love and joy of this special childhood moment.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "regali",
+        "prompt": "Create a scene filled with wonder where sparkling gifts appear as portals to fantastical worlds: colorful packages, floating ribbons, and hidden little secrets in every detail convey the magic of anticipation and discovery typical of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "dinosauro",
+        "prompt": "Visualize a dinosaur that becomes a playful companion in a prehistoric, fantastical world: realistic textures blend with imaginative elements to create a creature that embodies adventure, wonder, and the bravery of young explorers.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "supereroi",
+        "prompt": "Design an epic scene where childhood superheroes come to life: dazzling costumes, dynamic powers, and vibrant settings create an atmosphere of heroism and fantasy, where every detail conveys strength and protection typical of a child's dream.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "peluche",
+        "prompt": "Create a tender vision where stuffed animals spring to life in a soft, welcoming world: velvety textures, pastel colors, and a cocoon of warmth evoke the comfort and companionship that only fabric friends can provide during childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "bambole",
+        "prompt": "Visualize a world where dolls tell secret stories: intricately embroidered dresses, sweet expressions, and detailed settings transform every doll into a unique character, symbolizing the creativity and fantasy that animate childhood games and tales.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "lego",
+        "prompt": "Imagine a universe built from colorful building blocks: each Lego piece combines to form surreal structures, floating castles, and fantastic vehicles, celebrating the creative power and playful logic that define childhood construction.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "puzzle",
+        "prompt": "Create a scene where a giant puzzle comes to life, with pieces floating and coming together to reveal a dreamlike image: every fragment is filled with intricate details and symbols of discovery, representing the process of learning and wonder typical of early years.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "altalena",
+        "prompt": "Visualize a swing suspended in a pastel sky where each movement generates ripples of light and joy: every arc evokes the sensation of flying and embracing freedom, a symbol of the carefreeness and delight of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "scivolo",
+        "prompt": "Design a scene where a slide becomes a pathway descending between dream and reality: luminous curves, shimmering surfaces, and a richly detailed setting transform a simple act of fun into a magical, timeless experience.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "canzoni",
+        "prompt": "Create a visual-soundscape where songs materialize into waves of color and light: floating musical notes, dancing instruments, and a vibrant atmosphere pay homage to the music that accompanies and transforms the most carefree moments of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "musica",
+        "prompt": "Imagine a scene where music becomes a visual language: instruments that animate, notes that turn into luminous trails, and an environment where every sound is translated into a playful interplay of colors and forms, capturing the enchanting power of music for children.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "fratelli",
+        "prompt": "Depict a moment of shared complicity between siblings in a richly detailed setting: shared games, knowing glances, and affectionate gestures merge into a visual tableau that expresses the strength of sibling bonds, wrapped in warm, reassuring light.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "sorelle",
+        "prompt": "Create an intimate and vibrant scene where sisters exchange secrets and smiles in an enchanted setting: delicate colors, natural elements, and poetic details pay tribute to the tender complicity and love that characterize sisterly relationships in childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "cane",
+        "prompt": "Visualize a dog that becomes a faithful companion in an imaginative adventure: every fur detail, glance, and movement is enriched with elements that transform the animal figure into a symbol of loyalty, joy, and spontaneity inherent in the world of children.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "gatto",
+        "prompt": "Design a scene where a cat—agile and mysterious—transforms into a magical friend: sparkling eyes, fluid movements, and surreal settings combine to create an atmosphere of mystery and tenderness that embodies the independence and wonder of youth.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "animali",
+        "prompt": "Create a visual mosaic where a variety of animals come together in a harmonious choreography: each creature, from the common to the exotic, is depicted with realistic details and touches of fantasy, evoking the richness of nature and the curiosity characteristic of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "cartella",
+        "prompt": "Imagine a school folder that opens like a magical book: documents, drawings, and secrets animate in a dance of colors and lights, transporting the viewer into a world where the ordinary becomes extraordinary and every detail tells a story of youthful adventures.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "merenda",
+        "prompt": "Visualize a childhood snack transformed into an enchanted banquet: fruits, treats, and drinks glow with vivid colors, while small details—like edible flowers and playful decorations—turn this moment into a celebration of joy and sharing.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "compiti",
+        "prompt": "Create a surreal scene where school assignments come to life: pages that write themselves, pencils drawing stories, and floating symbols transform daily work into a magical ritual of discovery and creativity.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "risate",
+        "prompt": "Design an illustration where laughter manifests as sparkling, radiant waves filling the air with warm colors and fluid shapes, conveying the pure joy and contagious energy typical of carefree childhood moments.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "abbracci",
+        "prompt": "Create a touching image where a hug becomes a universal language of comfort and love: figures merge in a whirlwind of light, pastel colors, and intimate details that celebrate human warmth and the security of childhood bonds.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "coccole",
+        "prompt": "Visualize a scene where cuddles materialize in a soft, tender atmosphere: plush textures, warm glows, and tiny sparks of affection create an environment that conveys the comfort and reassurance of physical closeness during early years.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "famiglia",
+        "prompt": "Create a visual portrait of a family in a setting that exudes love and togetherness: each member is portrayed warmly in an environment rich with symbols of belonging and shared memories, where every detail—from smiles to common objects—tells a story of unity and childhood joy.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "nonna",
+        "prompt": "Draw an intimate scene in which the figure of a grandmother epitomizes wisdom and sweetness: her embrace is wrapped in soft light, and the surroundings glow with memories, old photographs, and little secrets that speak of an ancient, comforting love.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "nonno",
+        "prompt": "Depict a grandfather in a setting filled with nostalgic and welcoming details: every wrinkle and gesture tells stories of times gone by, all immersed in warm, enveloping light that conveys the wisdom and love typical of paternal figures in childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "zii",
+        "prompt": "Imagine a lively scene where uncles and aunts become co-adventurers in extraordinary escapades: playful details, familiar settings, and touches of surrealism transform a simple family gathering into a world full of surprises and affection typical of extended family bonds in childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "cugini",
+        "prompt": "Create an illustration where cousins share a moment of carefree complicity: smiles, games, and little secrets intertwine in a richly detailed, colorful environment that celebrates the energy and joy of family reunions during childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "campeggio",
+        "prompt": "Visualize an enchanted camping scene where nature takes center stage: glowing tents, dancing campfires, and magical forests create an adventurous and serene atmosphere that captures the spirit of exploration and wonder typical of childhood vacations.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "prato",
+        "prompt": "Design a scene where a meadow transforms into a carpet of dreams: shimmering grass, scattered flowers, and impromptu games create a vibrant landscape that embodies the freedom and beauty of outdoor moments during childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "fiori",
+        "prompt": "Create a poetic vision in which flowers burst forth in a riot of colors and intricate details: petals appear hand-painted, lights dance among buds, and a delicate atmosphere evokes the fragility and wonder of nature as seen through a child's eyes.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "farfalle",
+        "prompt": "Design an ethereal scene where butterflies flutter in a sky dotted with light: each wingbeat leaves a trail of golden dust, creating a magical setting symbolizing transformation, freedom, and the lightness typical of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "stelle",
+        "prompt": "Visualize a starry night where each star tells a little story: twinkling lights, imaginary constellations, and reflections that transform the darkness into an ocean of wonder evoke the infinite and dreamlike quality of a child's imagination.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "luna",
+        "prompt": "Create a nocturnal scene where the moon becomes the emblem of childhood magic: an argent disc illuminates a fantastical landscape with soft shadows, dreamy reflections, and exquisite details that turn the night into a tale of dreams and secrets.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "sole",
+        "prompt": "Imagine a sunrise exploding with light and warmth, where the sun transforms everything into gold: luminous rays, vibrant reflections, and an atmosphere of rebirth capture the joy and vitality of the very first moments of life.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "pioggia",
+        "prompt": "Design a scene where rain falls like sparkling droplets of life: each drop transforms into a mini rainbow, surfaces reflect the dancing clouds, and a refreshing ambiance evokes the charm and renewal of rainy day play in childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "neve",
+        "prompt": "Create a magical winter vision where snow transforms the world into a pristine kingdom: dancing snowflakes, delicate landscapes, and shimmering details reveal the enchantment and purity of snowy adventures, calling forth memories of wonder from childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "pupazzi",
+        "prompt": "Imagine a scene where stuffed toys come alive on a stage of dreams: soft fabrics, lively expressions, and a magical setting transform these playmates into keepers of secrets and stories, symbols of the fantasy and affection of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "trenino",
+        "prompt": "Design a world where a toy train connects reality and imagination: gleaming tracks, cars filled with tiny treasures, and landscapes flowing like in a dream create a dynamic narrative that captures the energy and curiosity of young explorers.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "macchinine",
+        "prompt": "Visualize a wild race of toy cars on an imaginary circuit: vivid colors, glossy surfaces, and dynamic motion effects capture the speed and enthusiasm of play, transporting the viewer into a world of inventive and carefree childhood fun.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "costruzioni",
+        "prompt": "Create a scene where blocks and constructions transform into a fantastical architectural landscape: geometric forms, vibrant colors, and ever-changing compositions symbolize the creative power and ingenuity of childhood building games.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "libri",
+        "prompt": "Design a magical scene where books open to reveal hidden worlds: floating pages, dancing letters, and evocative settings transform reading into a journey through time and space, celebrating the narrative power and imaginative spark of children’s stories.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "storie",
+        "prompt": "Create a visual landscape where stories materialize as luminous threads connecting characters, settings, and memories: every tale intertwines into a richly detailed narrative tapestry that conveys the ineffable magic of storytelling in childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "fantasia",
+        "prompt": "Imagine a universe with no limits where fantasy reigns: fluid shapes, iridescent colors, and surreal settings combine to create a world where the possible and impossible blend, embodying the free and creative spirit of childhood dreams.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "avventura",
+        "prompt": "Design an epic scene where adventure becomes an endless journey: mysterious paths, hidden places, and unexpected details create a dynamic atmosphere filled with discoveries, symbolizing the courage and curiosity that animate a child's heart.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "magia",
+        "prompt": "Visualize a scene where magic is present in every detail: sparkling effects, iridescent reflections, and surprising transformations create an environment where the ordinary becomes extraordinary, evoking the wonder and mystery of a child’s imaginative world.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "principesse",
+        "prompt": "Create a fairy-tale vision where princesses and enchanted kingdoms intertwine: lavish dresses, floating castles, and richly detailed romantic settings form a tableau of elegance and dreamlike fantasy, expressing the idealism and wonder that define childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "draghi",
+        "prompt": "Imagine majestic yet friendly dragons populating a fantastical world: iridescent scales, enchanted flames, and epic landscapes blend to bring these creatures to life, conveying the thrill and wonder of legendary adventures in childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "cavalieri",
+        "prompt": "Design a chivalric scene set in an enchanted kingdom: shimmering armors, gleaming swords, and magical castles merge into a visual narrative evoking courage, honor, and the heroic fantasy typical of children’s fairy tales.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "pirati",
+        "prompt": "Create a visual adventure where pirates with golden hearts sail across imaginary seas: enchanted ships, secret maps, and hidden treasures emerge in a setting rich with details and colors, conveying the thrill of exploration and playful mischief characteristic of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "astronauti",
+        "prompt": "Visualize a futuristic, dreamlike scene where little astronauts explore enchanted galaxies: constellations, luminous spacecraft, and stellar landscapes merge into a vision of wonder and discovery, symbolizing the limitless curiosity of children.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "robot",
+        "prompt": "Create a futuristic and playful scene where friendly robots populate an imaginary world: sleek metallic lines, neon lights, and technological textures blend with fantastical elements, embodying the meeting point between innovation and creative play in childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "computer",
+        "prompt": "Imagine a computer that transforms into a window onto digital and fantastical worlds: glowing circuits, screens projecting dreams, and high-tech details intertwine to celebrate the curiosity and discovery that children experience when engaging with technology.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "tablet",
+        "prompt": "Create a scene where a tablet becomes an interactive portal to fantastical realms: animated images, floating interfaces, and modern details blend with a dreamy art style, turning an everyday device into a playful companion for adventures typical of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "videogiochi",
+        "prompt": "Visualize a digital universe where video games transform into immersive, colorful experiences: virtual worlds, vivid avatars, and richly detailed settings create a dynamic narrative, symbolizing the passion and creativity that children bring to interactive play.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "sport",
+        "prompt": "Design a scene bursting with movement where sports become a festival of energy and vitality: vividly colored fields, athletic gestures, and dynamic motion capture the essence of play, friendly competition, and the sheer joy of physical activity in childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "calcio",
+        "prompt": "Imagine a soccer field transforming into a stage of emotions and vibrant colors: every shot, dribble, and smile blends into a dynamic choreography, celebrating the genuine passion and playful fun of childhood sports.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "danza",
+        "prompt": "Create a scene where dance becomes a universal language: fluid movements, interplay of light and shadow, and dreamlike settings come together to convey the joy, grace, and spontaneity of movement art in the early years.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "nuoto",
+        "prompt": "Visualize an image where swimming becomes an almost surreal experience: crystalline waters, dancing light reflections, and detailed splashes create a scene in which fluid movement conveys the freshness and freedom of carefree pool days.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "ballo",
+        "prompt": "Design a scene where dance transforms into a harmony of movements and lights: every step creates ripples of energy, colors blend into visual symphonies, and the setting turns into an enchanted stage that captures the joy and spontaneity of a child's movement.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "canto",
+        "prompt": "Create an illustration where singing translates into waves of light and color: notes float in the air, settings come alive with music, and poetic details turn every melody into a celebration of the innocence and beauty of early life.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "teatro",
+        "prompt": "Imagine a theater where curtains open to reveal fairy-tale scenes: characters come to life, dramatic lights and scenic details create a magical atmosphere that expresses the narrative power and overwhelming imagination typical of children.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "cinema",
+        "prompt": "Visualize a dreamlike movie theater where every frame becomes a surreal painting: projections of fantastical worlds, interplay of shadows and light, and intricate details evoke the magic of visual storytelling and the wonder of a child's first encounter with film.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "pizza",
+        "prompt": "Create a convivial scene where a steaming pizza transforms into a culinary work of art: every slice is enriched with vibrant colors, textures, and details that celebrate the joy of sharing and the pleasure of a small feast typical of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "pasta",
+        "prompt": "Design an image where pasta becomes an interplay of shapes and colors: intertwining strands, vibrant sauces, and rustic settings blend together to tell a story of flavors, tradition, and the simple pleasure of a shared meal, symbolizing childhood conviviality.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "gelato",
+        "prompt": "Visualize a summery scene where ice cream appears in irresistible forms: creamy textures, light reflections, and vivid depictions of flavors transform the dessert into a symbol of freshness, carefreeness, and pure joy, evoking the sweetest childhood memories.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "cioccolato",
+        "prompt": "Create an illustration where chocolate blends with fantastical elements: drizzles of velvety cocoa, gleaming reflections, and settings that convey warmth and sweetness, exalting the pleasure and intensity of a taste that embodies the magic of childhood moments.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "caramelle",
+        "prompt": "Design a scene where candies and sweets transform into tiny treasures: vivid colors, unusual shapes, and a vibrant energy create a world where sweetness becomes a full sensory experience, recalling the carefreeness and joy of playful moments.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "biscotti",
+        "prompt": "Visualize an image where freshly baked cookies become little masterpieces of taste and imagination: inviting aromas, golden textures, and intricate details reminiscent of secret recipes create a warm and nostalgic atmosphere, symbolizing the simple pleasures of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "torta",
+        "prompt": "Create a festive scene where a richly decorated cake becomes the centerpiece of joy and surprise: layered colors, sparkling icings, and ornamental details merge into an image that celebrates the sweetness and dream of childhood birthdays.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "palloncini",
+        "prompt": "Imagine a sky dotted with balloons of every shape and color: each one pulses with an ethereal glow, creating an atmosphere of celebration, lightness, and wonder that transports the viewer back to the playful, carefree heart of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "bolle",
+        "prompt": "Visualize a world made of soap bubbles reflecting rainbows and dreams: every iridescent bubble captures light and energy, symbolizing the fragility and magic of fleeting childhood moments.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "aquilone",
+        "prompt": "Create a scene where a kite soars in a blue sky, trailing strings of light and color: the wind, playful movements, and the vast sky become metaphors for freedom and boundless imagination characteristic of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "spiaggia",
+        "prompt": "Design a seaside landscape where the beach becomes a realm of golden sand, gentle waves caressing the shore, and details that evoke games and discoveries: a bright, lively setting encapsulates the carefreeness of days spent at the sea during childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "conchiglie",
+        "prompt": "Visualize seashells emerging from the sand like tiny marine treasures: delicate textures, luminous reflections, and an atmosphere of discovery transform each shell into a symbol of natural beauty and the secret charm of the sea, in perfect harmony with childhood play.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "sabbia",
+        "prompt": "Create a scene where sand transforms into a living fabric: footprints, castles, and games intertwine in a dynamic landscape, with granular details, playful light and shadows, and an atmosphere that celebrates the creative, unbridled essence of childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "castelli",
+        "prompt": "Design a world where sandcastles take on fairy-tale, surreal forms: sparkling towers, rainbow bridges, and intricate details convey the magic and imagination with which children shape their dreams on the beach.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "arcobaleno",
+        "prompt": "Create a celestial vision where the rainbow becomes a bridge between fantastical worlds: each band of color is filled with intricate details and radiant light, forming a scene that embodies hope, wonder, and the magic seen in the sky after rain by children.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "nuvole",
+        "prompt": "Visualize clouds transforming into imaginary, fairy-tale shapes: soft, billowy, and rich in subtle hues, they tell stories of dreams and play, transporting the viewer to a realm where imagination reigns supreme.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "aereo",
+        "prompt": "Imagine an airplane that, rather than simply flying, reveals fantastical worlds through its windows: engines that emit sparks of light and surreal details transform the journey into a dreamlike adventure, a symbol of discovery and childhood wonder.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "treno",
+        "prompt": "Design a train that races along glowing tracks, traversing dreamlike landscapes: every carriage holds secrets and stories, and the surroundings transform into a dynamic, fascinating tableau evoking the thrill of imaginative journeys during childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "nave",
+        "prompt": "Create a scene where a ship transforms into an enchanted vessel: colorful sails, shimmering water reflections, and surreal details combine to narrate a story of adventures and discoveries, symbolizing the infinite horizon and the magic of childhood dreams.",
+        "live_clip": "childhood_magic"
+      }
+    ],
+    "maturita": [
+      {
+        "word": "lavoro",
+        "prompt": "Create a multi-layered scene symbolizing the complex world of work: a contemporary office transforms into an environment where digital elements, productivity symbols, and luminous reflections tell the ongoing quest for success and achievement, blending modern details with touches of emotional symbolism.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "carriera",
+        "prompt": "Design a symbolic landscape where a career unfolds in multiple paths: roads of light, transparent screens, and multiple shadows merge to represent the choices and stages of a professional journey full of challenges and achievements, uniting realism with metaphor.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "famiglia",
+        "prompt": "Depict a family scene where everyday life is enriched with modern symbols and details: an elegant home, moments of sharing, and spaces that narrate history and progress create a visual balance between tradition and innovation typical of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "casa",
+        "prompt": "Imagine a house that reflects the stability and evolution of adult life: modern architecture and refined details blend with touches of domestic warmth, creating an environment that communicates security, success, and a strong sense of belonging.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "mutuo",
+        "prompt": "Create a symbolic scene where the concept of a mortgage transforms into a bridge between dreams and reality: contracts, numbers, and elegant architectures combine to evoke the journey of investment and security typical of maturity, with details suggesting commitment and hope.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "auto",
+        "prompt": "Design a dynamic scene in which the car becomes a symbol of mobility and independence: fluid lines, modern reflections, and an urban landscape that transforms into a kaleidoscope of opportunities reflect the power and freedom of choice characteristic of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "viaggi",
+        "prompt": "Design an image where travel transforms into a multisensory experience: maps unfurl, suitcases open onto exotic scenarios, and architectural details from diverse cultures intertwine to express the thirst for discovery and open-mindedness of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "relazioni",
+        "prompt": "Create a visual narrative where relationships manifest through flowing connections of light and floating symbols: stylized figures, fine lines, and elegant settings convey the complexity and beauty of mature interpersonal bonds.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "amicizie",
+        "prompt": "Design a scene where friendships transform into luminous networks of connections: faces, gestures, and both urban and natural settings merge into a dynamic tableau that celebrates the support, sharing, and personal growth of adult relationships.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "sport",
+        "prompt": "Imagine a modern sporting environment where movement and passion merge into an explosion of energy: dynamic details, contemporary architectures, and light effects convey the balance between competition, well-being, and dedication typical of mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "salute",
+        "prompt": "Create a scene evoking physical and mental well-being: minimalist settings, touches of green, and details that recall mindfulness practices blend into an image that communicates care, balance, and the importance of health in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "benessere",
+        "prompt": "Design an illustration that merges natural and modern elements to represent holistic well-being: soft lights, delicate textures, and symbols of balance intertwine in a scene that celebrates the nurturing of body and mind in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "fitness",
+        "prompt": "Design a dynamic environment where fitness becomes a symphony of movement and technology: modern structures, details of high-tech equipment, and ever-changing backgrounds express the energy, discipline, and desire for physical progress characteristic of maturity.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "alimentazione",
+        "prompt": "Create a richly detailed scene celebrating the art of healthy eating: gourmet dishes, natural ingredients, and refined settings merge into an image that conveys care, balance, and the pursuit of quality in everyday adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "stress",
+        "prompt": "Design a visual representation of stress as a transforming force: contrasts of light and shadow, complex urban settings, and abstract symbols merge to evoke the tensions and challenges of adult life, as well as the inner strength to overcome them.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "tempo",
+        "prompt": "Design a scene symbolizing time as a continuous, multilayered flow: suspended clocks, subtle gradients of light, and transforming environments narrate the preciousness of every moment, expressing the awareness and balance typical of maturity.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "agenda",
+        "prompt": "Visualize an agenda that comes to life: digital and paper pages unfold in a stream of commitments and projects, illuminated by modern light that expresses order, planning, and the complexity of daily adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "riunioni",
+        "prompt": "Create a scene that captures the atmosphere of strategic meetings: modern boardrooms, glass tables, and digital screens integrate into a context of collaboration and decision-making, with details that express the importance of communication and synergy in the adult workplace.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "progetti",
+        "prompt": "Imagine a visualization where projects and ideas take shape: architectural plans, floating diagrams, and luminous details combine in an environment where creativity and organization blend to represent the journey toward adult success.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "obiettivi",
+        "prompt": "Create a symbolic scene where objectives and milestones emerge as beacons of light along a defined path: arrows of illumination, mapped itineraries, and geometric details narrate the determination and clarity of someone who faces adult life with ambition and vision.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "successo",
+        "prompt": "Design an image that embodies success through modern symbols: translucent buildings, golden reflections, and pathway details that light up express the satisfaction, commitment, and personal evolution typical of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "realizzazione",
+        "prompt": "Draw a scene in which personal and professional fulfillment transforms into a symbolic landscape: luminous staircases, architectural details, and narrative light touches illustrate the journey of growth, highlighting the triumph of lived experience in adulthood.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "crescita",
+        "prompt": "Visualize growth as a dynamic process in an ever-evolving environment: digital trees, roots of light, and expanding branches tell the story of constant transformation and maturation that defines adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "sviluppo",
+        "prompt": "Create a scene in which personal development manifests as a flow of modern elements: gradients of light, intersecting lines, and shifting settings represent the journey of self-improvement and creative challenges in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "formazione",
+        "prompt": "Design an image that celebrates lifelong learning: digital books, modern desks, and interactive spaces come together in a visual narrative that expresses the commitment to education and professional evolution typical of maturity.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "studio",
+        "prompt": "Imagine a study environment that blends tradition and innovation: bookshelves laden with classics, bright screens, and modern architectural details integrate into a tableau that celebrates the pursuit of knowledge and the dedication of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "master",
+        "prompt": "Create a symbolic scene where a master’s program transforms into a pathway of specialization: sophisticated details, university settings reimagined in a futuristic key, and touches of elegance narrate the pursuit of excellence and refinement typical of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "università",
+        "prompt": "Visualize a university campus merging with dreamlike elements: classical and modern architectures, corridors that transform into streams of knowledge, and luminous details evoke intellectual growth and the challenges of the educational journey in adulthood.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "specializzazione",
+        "prompt": "Design a scene that symbolizes specialization as the refined art of knowledge: technical symbols, futuristic laboratories, and sophisticated details combine into an image that narrates the commitment to excellence and the pursuit of advanced skills in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "competenze",
+        "prompt": "Create an image where skills materialize as layers of light and knowledge: digital icons, interactive graphs, and modern settings intertwine to illustrate the continuous acquisition of abilities and personal progress typical of adulthood.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "skills",
+        "prompt": "Design a scene where skills become luminous symbols of expertise: digital tools, interactive elements, and stylized settings narrate the mastery of diverse competencies and the ongoing need for self-updating that defines adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "tecnologia",
+        "prompt": "Imagine a futuristic landscape where technology shapes reality: circuits, floating screens, and digital details merge in an environment rich with energy and innovation, symbolizing the connection between progress and daily adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "innovazione",
+        "prompt": "Create a scene where innovation translates into surprising visual metamorphoses: fluid architectural structures, neon lights, and continuously changing elements evoke the challenge and creativity that drive personal and professional progress in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "digitale",
+        "prompt": "Visualize a world where the digital realm comes to life in every detail: streams of data, transparent interfaces, and high-tech environments integrate into an image that expresses modernity and the constant transformation typical of adult reality.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "social",
+        "prompt": "Design a scene that embodies social connection in the contemporary world: networks of light, symbols of communication, and settings blending the virtual with the real create a dynamic and sophisticated tableau representing the bonds and interactions of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "network",
+        "prompt": "Create an image where the network transforms into an intertwined web of luminous connections: fluid lines, digital nodes, and stylized environments illustrate the power of relationships and integration within the modern professional landscape.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "comunicazione",
+        "prompt": "Design a scene that celebrates communication as both art and science: sound waves, luminous messages, and interactive details merge in an environment where every word and gesture becomes a symbol of exchange and connection, typical of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "team",
+        "prompt": "Visualize a team at work in a collaborative, dynamic setting: figures working in synergy, modern environments, and interactive details narrate the strength of collaboration and the sharing of common goals in the adult realm.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "leadership",
+        "prompt": "Create a symbolic scene where leadership manifests as a guiding light: central figures, directional symbols, and settings that evoke power and inspiration illustrate the wisdom and determination of those who lead in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "responsabilità",
+        "prompt": "Design an image symbolizing responsibility as the foundation of adult life: solid elements, stable architectural details, and warm lights combine to evoke commitment, care, and the seriousness required to manage daily professional and personal tasks.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "decisioni",
+        "prompt": "Visualize a scene where decisions materialize as crossroads of light: branching paths, symbols of choice, and divided settings narrate the complexity and weight of daily choices, expressing the maturity and judgment capacity of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "scelte",
+        "prompt": "Create an illustration representing choices as infinite paths: luminous ways, symbolic intersections, and narrative details blend to express the uniqueness of each personal and professional journey typical of mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "investimenti",
+        "prompt": "Design a scene symbolizing investments as seeds that sprout in a fertile ground of opportunity: financial elements, growing graphs, and modern settings merge into an image that conveys foresight, commitment, and vision in building the future.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "risparmi",
+        "prompt": "Visualize a scene where savings accumulate like a precious treasure: secure vaults, streams of light representing resources, and symbolic details narrate the care, attention, and financial planning typical of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "finanze",
+        "prompt": "Create an image that transforms the world of finance into a landscape of precision and beauty: numbers, graphs, and modern environments blend to represent order, transparency, and the complexity of the economic system managed responsibly in adulthood.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "budget",
+        "prompt": "Design a scene where the budget becomes a life document transformed into visual art: calculations, diagrams, and luminous surfaces interweave to express the art of planning and organizing resources in a balanced and innovative manner.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "spese",
+        "prompt": "Imagine a visual representation where daily expenses transform into dynamic details: flows of money, urban settings, and modern symbols narrate the complexity of financial management with an aesthetic and functional touch typical of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "entrate",
+        "prompt": "Create a scene representing income as orderly, luminous streams: rising graphs, pulsating lights, and modern details combine to convey the vitality and growth capacity in the journey of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "bollette",
+        "prompt": "Design an image where bills transform into everyday elements of a visual composition: numerical details, transparent textures, and settings that narrate the realistic portrait of home management and economic commitments, with a minimalist design touch.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "tasse",
+        "prompt": "Visualize a symbolic scene where taxes form an orderly, regulating mechanism: geometric structures, data flows, and modern settings illustrate the indispensable role of civic and financial responsibility in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "assicurazione",
+        "prompt": "Create an image that transforms the concept of insurance into a symbol of protection and stability: luminous shields, transparent structures, and architectural details blend to convey security and preventive care typical of maturity.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "pensione",
+        "prompt": "Design a scene where retirement reveals itself as a horizon of serenity and reflection: sunset hues, tranquil settings, and details suggesting accumulated time and rest illustrate the milestone of a life of work, evoking balance and gratitude.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "previdenza",
+        "prompt": "Visualize an environment symbolizing long-term planning as an investment in the future: interwoven graphs, protective elements, and modern details combine to express the importance of foresight and security, central to adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "futuro",
+        "prompt": "Create a visionary scene where the future unfolds as a panorama of infinite possibilities: luminous horizons, dynamic perspectives, and futuristic details intertwine to evoke hope, determination, and the continuous journey of those who look ahead in adulthood.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "presente",
+        "prompt": "Design an image that celebrates the present as the only tangible moment: contrasts of light, details of everyday life, and contemporary settings merge to convey the awareness and beauty of the lived instant, a key element of mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "passato",
+        "prompt": "Visualize a setting that collects the past into a mosaic of memories and details: old photographs, weathered textures, and shadows merging with modern light narrate personal and professional history, an indispensable element for adult wisdom.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "memoria",
+        "prompt": "Create an evocative scene where memory becomes a living archive: recollections, symbolic elements, and nostalgic details blend with modern aspects, forming an emotional landscape that celebrates the value of experience and reflection in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "esperienza",
+        "prompt": "Design an image that transforms experience into a rich visual narrative: layers of details, luminous pathways, and evolving settings illustrate the complexity and depth of lived moments, symbolizing maturity and personal growth.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "saggezza",
+        "prompt": "Design a scene that embodies wisdom through ancient and modern symbols: open books, soft lights, and refined textures blend to represent the value of accumulated knowledge and the inner serenity characteristic of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "maturità",
+        "prompt": "Create an illustration where maturity manifests as the perfect balance between experience, awareness, and innovation: elegant details, sophisticated settings, and symbolic touches narrate the journey of personal and professional growth in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "equilibrio",
+        "prompt": "Visualize a scene where balance transforms into a dance of light and shadow: natural elements and architectural details harmonize in a tableau that expresses the constant quest for stability and harmony typical of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "stabilità",
+        "prompt": "Design an image symbolizing stability as the foundation of life: solid structures, reassuring textures, and modern environments create a context of security and continuity, expressing the deep roots of maturity.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "cambiamento",
+        "prompt": "Create a scene where change manifests as transformation and renewal: color gradients, evolving elements, and dynamic details narrate the ability to adapt and grow, a central theme in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "sfide",
+        "prompt": "Visualize an environment where challenges transform into opportunities for growth: obstacles, winding paths, and resilient details merge into an image that expresses the determination and courage required to turn every difficulty into a chance, essential in mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "opportunità",
+        "prompt": "Design a scene that celebrates opportunities as open doors to new horizons: rays of light, floating architectural details, and evolving settings convey the hope and enthusiasm of those who seize the moment in adulthood.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "rischi",
+        "prompt": "Create an image that represents risks as bold paths in a landscape of light and shadow: dynamic contrasts, symbols of uncertainty, and intense details convey the challenge and determination needed to face the unknown in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "problemi",
+        "prompt": "Visualize a scene where problems transform into puzzles to be solved: abstract elements, intricate details, and shifting settings narrate the complexity of daily challenges, inviting reflection and solutions typical of adult maturity.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "soluzioni",
+        "prompt": "Design an image where solutions manifest as luminous keys opening doors: symbolic details, contrasting light, and evolving settings express the creativity and ingenuity required to overcome the challenges of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "strategie",
+        "prompt": "Create a scene where strategies and plans intertwine in a visual choreography: floating diagrams, illuminated pathways, and modern details combine to represent the planning and analytical thinking essential for success in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "pianificazione",
+        "prompt": "Visualize an environment where planning becomes an art form: calendars, maps, and guiding lines merge in an orderly, luminous composition, symbolizing the organizational capacity and long-term vision typical of mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "organizzazione",
+        "prompt": "Design a scene where organization translates into perfect geometries and ordered flows of light: structural elements, minimalist details, and sophisticated settings communicate the precision and harmony necessary to manage daily challenges in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "gestione",
+        "prompt": "Create an image representing management as the art of balance: symbolic elements, modern environments, and narrative flow details unite to express the capacity to direct, control, and transform challenges into opportunities in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "controllo",
+        "prompt": "Visualize a scene where control becomes a symphony of order and detail: measuring instruments, lines of force, and harmoniously structured settings express the mastery and security needed to navigate the complexities of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "qualità",
+        "prompt": "Design an image that elevates quality as both an aesthetic and functional value: refined surfaces, luminous details, and elegant settings convey the sense of excellence and care characteristic of conscious choices in mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "eccellenza",
+        "prompt": "Create a symbolic scene where excellence manifests through perfect forms and sublime touches of light: design elements, sophisticated environments, and precious details narrate the continuous pursuit of perfection and the satisfaction of achieved goals in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "performance",
+        "prompt": "Visualize a dynamic scene where performance transforms into an exhibition of talent and precision: dramatic lights, fluid movements, and high-tech details blend into an image that expresses success, challenge, and recognition of daily effort in the professional adult realm.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "risultati",
+        "prompt": "Design an image where results materialize as luminous fruits of a job well done: ascending graphs, symbolic milestones, and elegant settings convey the satisfaction and personal fulfillment that come from dedication and commitment typical of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "feedback",
+        "prompt": "Create a scene where feedback transforms into communicative waves of light: messages, reflections, and interactive details combine to represent the value of listening, growth, and continuous transformation in the professional adult environment.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "valutazione",
+        "prompt": "Visualize an environment where evaluation becomes a visual process: scales, luminous indicators, and symbolic details narrate the critical analysis and quest for perfection, fundamental elements for progress in mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "miglioramento",
+        "prompt": "Design a scene where improvement manifests as an upward journey: steps of light, progressively refined details, and evolving settings express the constant commitment to personal and professional evolution characteristic of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "innovazione",
+        "prompt": "Create an image where innovation appears through surprising transformations: high-tech elements, evolving structures, and futuristic details blend into a vision that celebrates the courage to change and reinvent oneself, typical of mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "creatività",
+        "prompt": "Design a scene where creativity becomes a cascade of visual ideas: brushstrokes of light, unexpected shapes, and settings that defy traditional logic create an image rich in imagination, symbolizing the ability to innovate and reinvent oneself in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "idee",
+        "prompt": "Visualize an environment where ideas materialize as sparks of inspiration: flashes of light, symbolic connections, and interactive details combine to tell the power of creative thought and innovative vision in the mature sphere.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "progetti",
+        "prompt": "Create a scene where future projects emerge as luminous maps: pathways, indicators, and evolving settings express the planning and realization of ambitious goals, reflecting the determination and strategic vision typical of adulthood.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "collaborazione",
+        "prompt": "Design an image where collaboration manifests as an interweaving of forces and talents: stylized figures, flowing lines of light, and interconnected settings create a tableau that celebrates teamwork and the fusion of ideas, essential in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "partnership",
+        "prompt": "Visualize a scene where partnerships embody alliances and synergy: hands shaking, luminous details, and refined settings narrate the strength of cooperation and mutual trust, pillars of maturity.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "network",
+        "prompt": "Create an image where the network transforms into a complex web of connections: intertwined lines, glowing nodes, and modern settings illustrate the vastness and effectiveness of professional relationships, representing the dynamic nature of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "contatti",
+        "prompt": "Design a scene that celebrates contacts as meeting points for ideas and opportunities: communication symbols, urban settings, and interactive details blend to convey the importance of human and professional connections in adulthood.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "relazioni",
+        "prompt": "Create a scene where interpersonal relationships materialize as strands of light connecting people: intense details, refined settings, and symbols of emotional exchange narrate the value of authentic bonds and deep communication in mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "negoziazione",
+        "prompt": "Visualize a scene where negotiation becomes a visual art: contrasts, symbols of agreement, and structured settings intertwine to represent the quest for balance and fairness, essential in adult interactions.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "mediazione",
+        "prompt": "Design an image where mediation transforms into a luminous bridge between differing positions: fluid elements, interactive details, and unifying settings represent the ability to find shared solutions in the complexity of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "conflitti",
+        "prompt": "Create a scene where conflicts manifest as tensions of light and shadow: strong contrasts, dynamic details, and divided settings illustrate the challenge and complexity of relationships, inviting a creative resolution typical of maturity.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "stress",
+        "prompt": "Visualize an environment where stress transforms into energetic waves: vibrating lines, abstract details, and settings that communicate tension and release create a tableau expressing daily pressures and resilience in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "pressione",
+        "prompt": "Design a scene where pressure manifests as converging forces in a dynamic environment: focused lights, concentrated shadows, and moving details narrate the challenge of maintaining balance in complex situations, typical of mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "deadline",
+        "prompt": "Create an image symbolizing deadlines as clocks of light in a high-tension setting: chronometric details, rapidly moving lines, and modern environments convey the urgency and determination required to meet commitments in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "tempo",
+        "prompt": "Design a scene where time transforms into a continuous, multi-layered flow: clocks, shifting sands, and evolving settings represent the preciousness of every moment, in a balance that only maturity can fully appreciate.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "priorità",
+        "prompt": "Visualize an image where priorities outline as luminous paths in an organized maze: symbolic details, glowing trajectories, and minimalist settings convey the clarity and determination in defining what truly matters in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "urgenze",
+        "prompt": "Create a dynamic scene where urgencies emerge as bursts of light in a rapidly moving environment: symbolic elements, moving details, and settings that transmit the energy and readiness typical of critical situations in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "emergenze",
+        "prompt": "Design an image capturing the intensity of emergencies: strong contrasts, dramatic details, and rapidly transforming settings represent the challenge and resilience in facing unforeseen situations typical of mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "crisi",
+        "prompt": "Visualize a scene where crisis becomes a moment of transformation: elements disintegrating and then reassembling, interplay of light and shadow, and settings that suggest rebirth represent the ability to overcome and learn from life’s difficulties.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "opportunità",
+        "prompt": "Create an image where opportunities open like luminous gateways in an evolving landscape: glowing details, growth symbols, and inviting settings express hope and a forward-looking vision, even in the midst of maturity.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "sfide",
+        "prompt": "Design a scene where challenges transform into springboards for growth: obstacles, illuminated pathways, and dynamic details merge to narrate resilience, courage, and the ability to turn every difficulty into an opportunity, essential in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "obiettivi",
+        "prompt": "Visualize an environment where goals emerge as shining targets along a well-defined path: precise details, symbols of success, and modern settings convey the determination and clarity needed to achieve important milestones in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "traguardi",
+        "prompt": "Create a celebratory scene where each milestone transforms into a beacon of light and satisfaction: celebratory details, elegant settings, and symbolic touches narrate a journey full of successes and lessons, distinct markers of maturity.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "successi",
+        "prompt": "Design an image that conveys the euphoria of success: elements growing, golden reflections, and settings that celebrate both small and large triumphs, symbols of hard work and perseverance typical of adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "fallimenti",
+        "prompt": "Visualize a scene where failures transform into valuable lessons: fading details, subtle contrasts, and settings that narrate resilience and the ability to rise again after each fall, expressing the wisdom and maturity gained with experience.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "lezioni",
+        "prompt": "Create an image where life lessons manifest as fragments of light and memory: open books, ancient symbols, and modern details blend to tell the wisdom acquired and the capacity to learn from one’s journey, key elements in maturity.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "apprendimento",
+        "prompt": "Design a scene that transforms learning into a visual journey of discovery: luminous stairs, interactive details, and evolving settings express the continuous desire to know and improve oneself, a cornerstone of adult growth.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "crescita",
+        "prompt": "Visualize a scene where personal growth manifests through an ever-expanding landscape: branches stretching, intensifying lights, and evolving settings narrate the unstoppable process of self-improvement and transformation typical of adulthood.",
+        "live_clip": "adult_refinement"
+      }
+    ],
+    "vecchiaia": [
+      {
+        "word": "ricordi",
+        "prompt": "Create an intimately evocative scene where memories materialize as translucent layers of light: old photographs, objects rich in history, and settings fading into sepia tones tell the past with tenderness, expressing nostalgia and the beauty of memory in old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "saggezza",
+        "prompt": "Imagine a serene environment where wisdom spreads like soft, ancient light: calm faces, ancestral symbols, and intertwining natural details express the value of accumulated knowledge and inner peace typical of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "esperienza",
+        "prompt": "Design a scene where experience becomes a living archive: symbolic objects, richly historic settings, and delicate lighting tell the story of a life lived, transforming every detail into a message of resilience and teaching, typical of mature years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "tradizione",
+        "prompt": "Create an image where tradition manifests through iconic elements: period costumes, familiar domestic settings, and cultural symbols blend to evoke a sense of continuity and belonging that characterizes old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "famiglia",
+        "prompt": "Design an intimate scene where family gathers in a warm embrace of memories and love: homey settings, details of affectionate gestures, and soft lighting celebrate the continuity of bonds, transmitting the warmth and security typical of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "nipoti",
+        "prompt": "Create a tender image where the bond between grandparents and grandchildren transforms into a visual story of affection and discovery: illuminated faces, cozy environments, and playful details tell the meeting of experience and youth, typical of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "pensione",
+        "prompt": "Imagine a serene scene where retirement becomes a moment of rest and reflection: warm lights, tranquil settings, and symbolic details suggesting slowed time evoke the serenity and calm that characterize the golden years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "tempo",
+        "prompt": "Design a surreal scene where time merges into a continuous, soft flow: suspended clocks, gentle reflections, and settings showing the passage of seasons create an atmosphere of eternity and contemplation, typical of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "hobby",
+        "prompt": "Create an intimate image where hobbies transform into rituals of joy and creativity: homey settings, crafted tools, and delicate details illustrate the passion and pleasure of dedicating oneself to simple delights, an expression of serenity in old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "giardinaggio",
+        "prompt": "Design a scene where gardening becomes a dance between nature and memory: blooming flowers, attentive hands, and luminous details tell the story of care and passion for nurturing life, a symbol of continuity and renewal typical of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "lettura",
+        "prompt": "Visualize a reading nook immersed in warm, gentle light: ancient books, yellowed pages, and delicate details create an atmosphere of peace and reflection, where every word becomes a bridge to the past and accumulated wisdom.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "passeggiate",
+        "prompt": "Create a serene scene where quiet walks in a natural landscape merge with the flow of time: shaded paths, botanical details, and soft lights convey the calm and reflection that accompany the mature years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "riposo",
+        "prompt": "Design an intimate image where rest becomes an embrace of soft light: cozy settings, plush pillows and delicate textures convey calm and security, symbols of the tranquility and recovery typical of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "relax",
+        "prompt": "Visualize a relaxing scene where every element invites one to unwind: gentle lights, welcoming environments, and natural details combine to create an oasis of peace and serenity, reflecting the wisdom and well-being that mark the later years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "salute",
+        "prompt": "Create an image that conveys health care as a holistic journey of well-being: symbols of care, luminous environments, and natural details merge to narrate the importance of preserving body and mind in old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "medicine",
+        "prompt": "Design a scene where medicines appear as luminous elixirs: bottles, vintage labels, and delicate details integrate into an image that expresses hope and support typical of care in advanced age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "visite",
+        "prompt": "Visualize a healthcare environment with a human touch, where every visit transforms into a moment of care and attention: reassuring details, soft lighting, and settings that convey warmth and professionalism necessary for elderly care.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "dottore",
+        "prompt": "Create an image representing the doctor as a guide and guardian of health: clinical settings transformed by soft, reassuring light, with symbols of competence and human warmth evoke trust and care typical of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "controlli",
+        "prompt": "Design a scene where medical check-ups become part of a ritual of attentive care: both antique and modern instruments, precise details, and delicate settings express the need to monitor health with gentle consistency in old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "prevenzione",
+        "prompt": "Visualize an image where prevention transforms into the art of everyday care: protective symbols, reassuring environments, and luminous details narrate the wisdom of taking care of oneself, an expression of responsibility and experience in later years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "cura",
+        "prompt": "Create an intimate scene where care becomes an act of love: gentle hands, delicate environments, and details that convey empathy and attention blend to represent the support and tenderness that characterize old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "benessere",
+        "prompt": "Design an image that expresses well-being as a harmony between body and spirit: natural settings, warm light, and details that evoke practices of meditation and personal care create an atmosphere of peace and satisfaction typical of the golden years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "alimentazione",
+        "prompt": "Visualize a scene where nutrition becomes a celebration of health and tradition: well-set tables, warm hues, and rustic details merge to represent the nurturing of the body and the connection with one’s roots, a symbol of the wisdom accumulated over the years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "dieta",
+        "prompt": "Create an image where diet transforms into a ritual of balance and care: natural ingredients, harmonious compositions, and serene settings illustrate the journey of well-being and the awareness acquired over time.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "movimento",
+        "prompt": "Design a scene where gentle, rhythmic movement becomes an ode to vitality: leisurely walks, light exercises, and fluid details combine to convey the importance of staying active and connected to life, even in advanced age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "ginnastica",
+        "prompt": "Visualize an environment where light gymnastics transforms into a dance of health: fluid movements, softly designed equipment, and welcoming settings narrate the care of the body and the pursuit of balance typical of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "yoga",
+        "prompt": "Create a serene, meditative scene where yoga becomes a ritual of inner connection: harmonious postures, natural surroundings, and softly lit details convey the peace and mindfulness characteristic of advanced age practice.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "meditazione",
+        "prompt": "Design an image that conveys meditation as an inner journey: minimalist settings, balance symbols, and ethereal details blend to evoke calm, reflection, and the pursuit of inner peace typical of mature years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "spiritualità",
+        "prompt": "Visualize a scene where spirituality manifests through ancient symbols and celestial light: ethereal environments, prayerful details, and delicate textures tell the story of the search for meaning and the connection with the infinite, an expression of wisdom in old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "fede",
+        "prompt": "Create an intimate image where faith transforms into luminous energy: sacred symbols, tranquil settings, and details evoking ancient rituals merge to convey hope and inner strength that accompany the journey of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "preghiera",
+        "prompt": "Design a scene where prayer becomes a moment of deep connection: soft lights, spiritual settings, and symbolic details create an atmosphere of peace and reflection, typical of the inner devotion in old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "riflessione",
+        "prompt": "Visualize an environment where reflection becomes a mirror of the soul: glossy surfaces, gentle shadows, and details that tell past stories blend into an image expressing the profound awareness typical of advanced years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "contemplazione",
+        "prompt": "Create a serene scene where contemplation becomes an act of love toward life: natural settings, delicate light, and details inviting one to look beyond the ordinary convey the depth and peace typical of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "pace",
+        "prompt": "Design an image that embodies peace as an all-encompassing state of mind: soft environments, luminous details, and soothing textures blend to create an atmosphere of serenity and welcome, a symbol of the calm and wisdom of later years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "serenità",
+        "prompt": "Visualize a scene where serenity transforms into a landscape of gentle light and harmony: natural details, soft shadows, and settings that invite calm narrate the inner quiet and the wisdom that only time can bestow.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "tranquillità",
+        "prompt": "Create an image where tranquility becomes an embracing visual pause: minimalist settings, soft lights, and details blending in harmonious color gradients convey the deep quiet and relaxation characteristic of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "quiete",
+        "prompt": "Design a scene where quiet becomes a rejuvenating pause in time: silent environments, natural details, and soft light create an atmosphere of profound peace, a symbol of the restoration and serenity of advanced years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "silenzio",
+        "prompt": "Visualize an environment where silence becomes a visual language: empty spaces, delicate shadows, and details that speak to the importance of the unspoken merge into a meditative image, expressing the depth and peace typical of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "solitudine",
+        "prompt": "Create a scene where solitude transforms into a moment of introspection and beauty: minimalist settings, soft lights, and symbolic details express the strength and dignity of spending time with oneself, characteristic of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "compagnia",
+        "prompt": "Design an image celebrating companionship as the gift of closeness: embracing figures, warm environments, and intimate details create an atmosphere of sharing and affection, fundamental for the serenity of later years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "amicizie",
+        "prompt": "Visualize a scene where enduring friendships manifest as luminous bonds: serene faces, welcoming settings, and details that tell shared stories express the value of long-lasting human connections, typical of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "incontri",
+        "prompt": "Create an image where every encounter becomes a chapter of a lived story: richly evocative settings, soft light, and details intertwining faces and narratives express the warmth and depth of relationships in old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "socialità",
+        "prompt": "Design a scene where sociability transforms into a tapestry of shared stories: familiar settings, illuminated faces, and details of affectionate exchanges create a tableau that celebrates community life, a symbol of the joy and sharing of advanced years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "comunità",
+        "prompt": "Visualize an environment where community manifests as a collective embrace: architectural elements, open spaces, and unifying details bring people together, narrating the value of cooperation and mutual support, fundamental in old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "volontariato",
+        "prompt": "Create a scene where volunteering transforms into a shared act of love: supportive environments, outstretched hands, and details expressing empathy and generosity tell the beauty of giving and receiving, typical of the wisdom of advanced years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "aiuto",
+        "prompt": "Design an image where mutual help becomes a unifying thread of humanity: gentle gestures, reassuring settings, and symbolic details represent the emotional and practical support that narrates the strength of solidarity in old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "sostegno",
+        "prompt": "Visualize a scene where support manifests as the pillar of a shared life: soft architectures, symbolic embraces, and luminous details create an atmosphere of security and affection, expressing the power of human bonds in later years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "solidarietà",
+        "prompt": "Create an image where solidarity transforms into an interlacing of hands and hearts: warm settings, enveloping lights, and unifying details narrate the strength of caring for one another, a symbol of sharing and mutual support typical of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "generosità",
+        "prompt": "Design a scene where generosity becomes a visual gesture of abundance and light: donated objects, warm environments, and details speaking of open hearts convey the beauty of giving, characteristic of the wisdom of advanced years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "condivisione",
+        "prompt": "Visualize an environment where sharing transforms into a continuous flow of light and warmth: set tables, narrated stories, and details symbolizing mutual gifts create a tableau of harmony and unity, an expression of the joy that accompanies old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "racconto",
+        "prompt": "Create a scene where storytelling becomes a bridge between generations: old diaries, whispered words, and historically infused settings blend into an image that transmits the value of lovingly passed-down tales.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "storie",
+        "prompt": "Design an image where life stories intertwine into a tapestry of light and memory: antique details, serene faces, and richly symbolic settings create a tableau that celebrates the emotional and cultural heritage of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "aneddoti",
+        "prompt": "Visualize a scene where anecdotes transform into little lights of memory: symbolic objects, intimate details, and cozy settings tell the funny and significant moments that make a life uniquely lived with passion.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "passato",
+        "prompt": "Create an image where the past reveals itself through evanescent memories: old photographs, soft shadows, and nostalgic settings blend into an atmosphere that tells the beauty and sweetness of what has been, an expression of remembrance in old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "presente",
+        "prompt": "Design a scene where the present merges with the memory of the past: warm lights, details suggesting continuity, and settings that embrace time express the awareness of the current moment, essential for those who have lived a long life.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "futuro",
+        "prompt": "Visualize an environment where the future appears as a distant, serene horizon: subtle light gradients, open paths, and details that speak of hope and continuity create a tableau that, even in the quiet of advanced years, keeps the flame of anticipation alive.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "eredità",
+        "prompt": "Create a scene where legacy manifests as a gift of wisdom and transmitted values: precious objects, familiar symbols, and historically infused settings blend to tell the story of a life lived fully, an expression of love and continuity in old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "valori",
+        "prompt": "Design an image that celebrates values as the foundation of a lifetime: ethical symbols, warm settings, and details interweaving history and the present create a tableau expressing moral strength and inner guidance typical of advanced years.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "insegnamenti",
+        "prompt": "Visualize a scene where teachings become guiding lights: whispered words, ancient books, and historically rich settings blend to transmit the wisdom and advice matured over generations, precious in old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "consigli",
+        "prompt": "Create an intimate image where advice manifests as wise pointers along life's journey: guiding symbols, cozy settings, and details reflecting lived experiences combine to evoke the support and closeness typical of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "esperienza",
+        "prompt": "Design a scene where experience transforms into a mosaic of precious moments: photographs, meaningful objects, and settings marked by the passage of time create an image rich in significance and memory, expressing the wealth of a life well lived.",
+        "live_clip": "elderly_reflection"
+      }
+    ]
+  }

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Traffic Light Interface</title>
+    {% load static %}
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    {% csrf_token %}
+    <div class="aspect-ratio-container">
+        <div class="container">
+            <div class="user-code-section status-red">
+                <div class="status-message waiting">In attesa di compilazione...</div>
+                <div class="status-message ready">Puoi entrare nel tunnel</div>
+                <div class="code">{{ user_code }}</div>
+                <div class="demographics">
+                    <div class="demographic-group">
+                        <span class="label">Sesso:</span>
+                        <button class="gender-btn" data-gender="M">M</button>
+                        <button class="gender-btn" data-gender="F">F</button>
+                        <button class="gender-btn" data-gender="NB">NB</button>
+                    </div>
+                    
+                    <div class="demographic-group">
+                        <span class="label">Età:</span>
+                        <button class="age-btn" data-age="0-18">0-18</button>
+                        <button class="age-btn" data-age="19-60">19-60</button>
+                        <button class="age-btn" data-age="61-100">61-100</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="word-sections">
+                <div class="life-phase">
+                    <h3>Infanzia</h3>
+                    <div class="word-grid">
+                        {% for word in words.infanzia %}
+                        <button class="word-btn" data-phase="infanzia">{{ word }}</button>
+                        {% endfor %}
+                    </div>
+                </div>
+
+                <div class="life-phase">
+                    <h3>Maturità</h3>
+                    <div class="word-grid">
+                        {% for word in words.maturita %}
+                        <button class="word-btn" data-phase="maturita">{{ word }}</button>
+                        {% endfor %}
+                    </div>
+                </div>
+
+                <div class="life-phase">
+                    <h3>Vecchiaia</h3>
+                    <div class="word-grid">
+                        {% for word in words.vecchiaia %}
+                        <button class="word-btn" data-phase="vecchiaia">{{ word }}</button>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{% static 'js/script.js' %}"></script>
+</body>
+</html>

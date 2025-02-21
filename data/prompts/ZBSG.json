@@ -1,0 +1,53 @@
+{
+  "infanzia": [
+    {
+      "word": "libri",
+      "prompt": "Design a magical scene where books open to reveal hidden worlds: floating pages, dancing letters, and evocative settings transform reading into a journey through time and space, celebrating the narrative power and imaginative spark of children’s stories.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "zii",
+      "prompt": "Imagine a lively scene where uncles and aunts become co-adventurers in extraordinary escapades: playful details, familiar settings, and touches of surrealism transform a simple family gathering into a world full of surprises and affection typical of extended family bonds in childhood.",
+      "live_clip": "childhood_magic"
+    },
+    {
+      "word": "magia",
+      "prompt": "Visualize a scene where magic is present in every detail: sparkling effects, iridescent reflections, and surprising transformations create an environment where the ordinary becomes extraordinary, evoking the wonder and mystery of a child’s imaginative world.",
+      "live_clip": "childhood_magic"
+    }
+  ],
+  "maturita": [
+    {
+      "word": "bollette",
+      "prompt": "Design an image where bills transform into everyday elements of a visual composition: numerical details, transparent textures, and settings that narrate the realistic portrait of home management and economic commitments, with a minimalist design touch.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "tempo",
+      "prompt": "Design a scene symbolizing time as a continuous, multilayered flow: suspended clocks, subtle gradients of light, and transforming environments narrate the preciousness of every moment, expressing the awareness and balance typical of maturity.",
+      "live_clip": "adult_refinement"
+    },
+    {
+      "word": "famiglia",
+      "prompt": "Depict a family scene where everyday life is enriched with modern symbols and details: an elegant home, moments of sharing, and spaces that narrate history and progress create a visual balance between tradition and innovation typical of adult life.",
+      "live_clip": "adult_refinement"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "problemi",
+      "prompt": "Create a scene that captures the essence of problemi",
+      "live_clip": "default"
+    },
+    {
+      "word": "tempo",
+      "prompt": "Design a surreal scene where time merges into a continuous, soft flow: suspended clocks, gentle reflections, and settings showing the passage of seasons create an atmosphere of eternity and contemplation, typical of old age.",
+      "live_clip": "elderly_reflection"
+    },
+    {
+      "word": "riflessione",
+      "prompt": "Visualize an environment where reflection becomes a mirror of the soul: glossy surfaces, gentle shadows, and details that tell past stories blend into an image expressing the profound awareness typical of advanced years.",
+      "live_clip": "elderly_reflection"
+    }
+  ]
+}

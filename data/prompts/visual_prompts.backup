@@ -1,0 +1,83 @@
+{
+    "infanzia": [
+        {
+            "word": "casa",
+            "prompt": "Create an enchanting scene where a child's imagination transforms their home into a magical castle at twilight. The house's windows glow with warm, golden light, while fantastical elements emerge: flowering vines spiral up the walls in impossible colors, the roof tiles shimmer like dragon scales, and the garden hosts a family of friendly glowing creatures. The style should blend photorealism with Studio Ghibli's whimsical touch, emphasizing the intersection between the real and the magical. Capture the moment when ordinary architectural elements morph into extraordinary features - a chimney becoming a crystal tower, the front door transforming into an ornate portal with swirling patterns. Include delicate details like floating lights resembling fireflies and subtle rainbow reflections in the windows.",
+            "live_clip": "magical_whimsical"
+        },
+        {
+            "word": "mamma",
+            "prompt": "Envision an ethereal portrait of a mother and child sharing an intimate moment in a sun-dappled reading nook. The morning light filters through a stained-glass window, casting prismatic patterns across their intertwined figures. The mother's protective embrace forms a natural heart shape, while her flowing dress seems to merge with the surrounding cushions and blankets in a seamless tapestry of soft textures. Floating dust motes create a constellation-like effect around them, and the books scattered nearby have wisps of golden stories emerging from their pages. The scene should evoke Renaissance masterpieces in composition while maintaining a contemporary, magical realist aesthetic. Include subtle details like a reflection in a mirror showing their figures surrounded by a gentle aura, and perhaps a family of paper cranes coming to life on a nearby shelf.",
+            "live_clip": "tender_intimate"
+        },
+        {
+            "word": "gioco",
+            "prompt": "Capture a mesmerizing scene of children playing in an enchanted playground at the precise moment between day and night. Their movements leave trails of starlight and aurora-like ribbons in the air, while their laughter materializes as floating bubbles containing miniature worlds. The playground equipment takes on magical properties: the swings arc through clouds that paint the riders in rainbow hues, the slide becomes a cascade of liquid moonlight, and the sandbox harbors tiny glowing constellations. Incorporate elements of surrealism with floating toys that orbit the children like playful planets, and perhaps a tree whose leaves transform into butterflies where the children's joy reaches them. The style should blend hyperrealistic textures with fantastical light effects, creating a dream-like atmosphere that captures the boundless imagination of childhood play.",
+            "live_clip": "joyful_magical"
+        },
+        {
+            "word": "scuola",
+            "prompt": "Design a fantastical first day of school scene where reality merges with imagination. The classroom doorway becomes a magnificent portal, its frame adorned with living vines of golden equations and blooming letters. Inside, books float like friendly birds, their pages fluttering with moving illustrations. The alphabet on the wall comes alive, each letter glowing with its own personality and casting shadows that tell stories. Mathematical symbols dance through the air like musical notes, forming complex patterns that cast colorful shadows. The teacher's desk sits atop a small hill of knowledge that grows grass made of paper, while a globe nearby slowly spins, occasionally releasing miniature clouds that rain gentle lights. Include intricate details like a window that shows different historical periods with each passing cloud, and tiny constellations of academic symbols twinkling in forgotten corners.",
+            "live_clip": "wonder_learning"
+        },
+        {
+            "word": "parco",
+            "prompt": "Illustrate a breathtaking park scene at the magical hour when day dreams seep into reality. Towering trees wear crowns of golden sunlight, their leaves occasionally transforming into flights of origami birds. The grass ripples with waves of rainbow dew, and each step children take sends up a spray of luminescent spores that form miniature galaxies. Traditional playground equipment takes on mythical qualities: the carousel horses come alive with flowing manes of stardust, while the swing set appears to be suspended from aurora ribbons that dance in an unfelt breeze. Hidden in the landscape, incorporate whimsical details like flowers that chime when children laugh nearby, puddles that reflect impossible landscapes, and benches that seem to be growing from crystalline trees. The entire scene should be rendered in a style that marries hyperrealistic textures with ethereal lighting effects, creating an atmosphere of enchanted reality.",
+            "live_clip": "enchanted_nature"
+        }
+    ],
+    "maturita": [
+        {
+            "word": "lavoro",
+            "prompt": "Create a multilayered scene of professional achievement where reality interweaves with symbolic elements. The central figure stands in a modern office space that defies conventional architecture - walls flow like liquid glass, revealing multiple timelines of their career journey simultaneously. Digital displays float like transparent lotus flowers, each petal showing different aspects of their work. Their workspace transforms into a metaphorical garden where ideas grow as crystalline structures, and project timelines manifest as streams of light that flow through the air like rivers of possibility. Include subtle details like a coffee cup that spirals infinite fractal patterns of productivity, and a desk that appears to be carved from solidified time itself, with clock faces embedded in its surface that each tell a different story of success. The lighting should suggest both dawn and dusk, representing the balance between ambition and achievement.",
+            "live_clip": "professional_dynamic"
+        },
+        {
+            "word": "carriera",
+            "prompt": "Envision a powerful metaphorical landscape where a professional stands at the convergence of multiple career paths, each materializing as a distinct road made of different elements - one of floating digital code, another of organic growth, and others of pure light or crystalline structures. The figure's shadow splits into multiple versions of themselves at different career stages, each casting a different colored light that tells its own story. Above, a celestial map of opportunities unfolds like a living infographic, with constellations forming and reforming to show different potential futures. The scene should include intricate details like a briefcase that opens to reveal a miniature cityscape of achievements, and business cards that transform into butterflies carrying messages of future possibilities. The style should blend corporate sleekness with organic growth, suggesting both technological advancement and personal development.",
+            "live_clip": "ambitious_visionary"
+        },
+        {
+            "word": "famiglia",
+            "prompt": "Capture an intimate family scene in a kitchen that transcends ordinary reality. As parent and teenager cook together, their movements create symphonic trails of light, ingredients float in choreographed patterns, and shared recipes materialize as glowing text in the steam of cooking pots. The kitchen itself seems alive - tiles shift like a kaleidoscope reflecting family memories, while copper pots mirror not just faces but emotions, capturing the complex dynamics of parent-child relationships. Incorporate magical realist elements like a family tree growing from the windowsill, its branches bearing fruit that contains crystallized moments of family history, and spices that release aromatic visible notes of music when added to dishes. The lighting should suggest both the warmth of tradition and the spark of new discoveries, creating an atmosphere that celebrates the evolution of family bonds.",
+            "live_clip": "family_harmony"
+        },
+        {
+            "word": "viaggi",
+            "prompt": "Design a spectacular scene where a mature traveler stands at the threshold of multiple worlds. The foreground shows them on a cliff edge, but instead of a single horizon, the view fractures into a kaleidoscope of destinations - each segment showing a different landscape, culture, or time of day. Their backpack appears to be woven from maps that occasionally shift and reform, while their footprints leave behind small portals showing glimpses of past adventures. The air around them is filled with floating compass needles that point to different dreams rather than cardinal directions, and their travel journal floats nearby, its pages releasing origami birds that carry snippets of travel memories. Include intricate details like cloud formations that mimic famous world landmarks, and a walking stick that appears to be made from compressed time itself, marked with rings of different cultures and experiences.",
+            "live_clip": "adventurous_worldly"
+        },
+        {
+            "word": "benessere",
+            "prompt": "Illustrate a transcendent scene of holistic wellness where a person in their prime practices mindful movement in a space that responds to their energy. As they flow through yoga poses, their movements create ripples in reality - each gesture leaving trails of golden light that form sacred geometry patterns. The room itself seems to breathe with them, its walls transitioning between states of matter like water, light, and crystal. Plants in the space grow in impossible ways, their leaves capturing and releasing pure light with each breath the person takes. Include ethereal details like chakra points manifesting as small galaxies around their body, and meditation cushions that appear to float on pools of liquid consciousness. The lighting should suggest both internal and external illumination, with subtle auroras of well-being emanating from the figure and interacting with the environment in harmonious ways.",
+            "live_clip": "serene_balanced"
+        }
+    ],
+    "vecchiaia": [
+        {
+            "word": "ricordi",
+            "prompt": "Create a profound scene where an elderly person's memories materialize in the space around them like a living museum of time. As they hold an old photograph, memories emerge as translucent layers of reality - each one a fully formed scene suspended in mid-air like sheets of stained glass catching different periods of light. Their armchair sits in the center of this temporal gallery, with each memory connected to them by threads of golden light. Some memories appear more vivid, rendered in rich colors and sharp detail, while others fade into sepia tones or impressionistic brushstrokes. Include intricate details like small objects in the room that cast shadows of their past selves, a mirror that reflects different ages of the person simultaneously, and a clock whose hands paint small scenes from the past with each tick. The atmosphere should blend nostalgia with wonder, suggesting both the bittersweetness of time passed and the magic of preservation through memory.",
+            "live_clip": "nostalgic_reflective"
+        },
+        {
+            "word": "saggezza",
+            "prompt": "Envision a mystical scene of intergenerational wisdom sharing, where an elderly mentor's stories physically transform the space around them and their young listeners. As they speak, their words materialize as luminous symbols and ancient runes that float gently in the air, occasionally forming into small scenes or transforming into spirit animals that represent different life lessons. The mentor's chair appears to be growing from the roots of an ancient tree of knowledge, its branches extending through time itself, bearing fruits of wisdom that glow with inner light. The young listeners are surrounded by subtle auras that shift color as they absorb new understanding, while the space between generations is filled with floating books whose pages turn by themselves, releasing butterflies made of living text. Include elaborate details like a tea set that shows different phases of life in its steam, and windows that reveal different historical epochs with each passing cloud.",
+            "live_clip": "wise_mystical"
+        },
+        {
+            "word": "nipoti",
+            "prompt": "Illustrate a magical moment between grandparent and grandchild reading together, where their shared imagination transforms reality. The book in their lap becomes a portal, its pages releasing three-dimensional stories that swirl around them like a galaxy of tales. The grandparent's reading chair grows into a majestic storytelling throne, with carved details that animate and react to each plot twist. As they read, their combined wonder manifests as a dome of aurora-like lights above them, within which characters from different stories interact and play. Include sophisticated details like bookmarks that transform into flying carpets, carrying miniature versions of their shared memories, and a reading lamp that casts shadows of future adventures on the walls. The room's corners soften and blur, suggesting the boundaries between reality and imagination dissolving in the warmth of their connection.",
+            "live_clip": "tender_magical"
+        },
+        {
+            "word": "giardinaggio",
+            "prompt": "Design an enchanted garden scene where an elderly gardener's lifetime of care manifests as visible magic. Their touch leaves trails of golden light on plants, and each plant they tend reveals its complete life cycle in translucent layers, from seed to full bloom. The garden itself seems to respond to their presence - flowers turn like solar panels to face them, while vines gently reach out to offer tools or support. The soil beneath their feet ripples with visible nutrients that flow like bioluminescent streams, and their shadow creates temporary zones of accelerated growth, showing glimpses of future blooms. Include intricate details like a watering can that pours liquid rainbows, garden gloves that leave behind traces of healing energy on whatever they touch, and insects made of living stained glass that help pollinate the most magical blooms. The entire scene should be suffused with a light that suggests both dawn and dusk, representing the cyclical nature of growth and care.",
+            "live_clip": "nurturing_magical"
+        },
+        {
+            "word": "tempo",
+            "prompt": "Create a surreal and contemplative scene where an elderly person's relationship with time becomes visually manifest. Their rocking chair appears to float at the intersection of multiple temporal planes, each moving at a different speed. The window beside them shows all four seasons simultaneously in distinct quadrants, while the room itself ages and rejuvenates in gentle waves radiating from their peaceful figure. Their pocket watch opens to release mechanical butterflies that leave trails of clock faces in the air, each showing a significant moment from their life. Include sophisticated details like a calendar whose pages turn by themselves, releasing dates that transform into birds of memory, and a mirror that shows not just reflections but echoes of past selves, all connected by threads of golden time. The lighting should suggest the eternal nature of the present moment, with soft rays that seem to pause mid-beam, creating a space where past, present, and future coexist in harmonious balance.",
+            "live_clip": "contemplative_timeless"
+        }
+    ]
+}

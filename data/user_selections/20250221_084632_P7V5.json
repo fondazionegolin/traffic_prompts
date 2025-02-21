@@ -1,0 +1,78 @@
+{
+  "user_data": {
+    "codice": "P7V5",
+    "sesso": "M",
+    "eta": "0-18",
+    "timestamp": "2025-02-21 08:46:32"
+  },
+  "selections": {
+    "infanzia": [
+      "coccole",
+      "treno",
+      "tablet"
+    ],
+    "maturita": [
+      "memoria",
+      "pianificazione",
+      "controllo"
+    ],
+    "vecchiaia": [
+      "silenzio",
+      "soluzioni",
+      "stabilità"
+    ]
+  },
+  "prompts": {
+    "infanzia": [
+      {
+        "word": "coccole",
+        "prompt": "Visualize a scene where cuddles materialize in a soft, tender atmosphere: plush textures, warm glows, and tiny sparks of affection create an environment that conveys the comfort and reassurance of physical closeness during early years.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "treno",
+        "prompt": "Design a train that races along glowing tracks, traversing dreamlike landscapes: every carriage holds secrets and stories, and the surroundings transform into a dynamic, fascinating tableau evoking the thrill of imaginative journeys during childhood.",
+        "live_clip": "childhood_magic"
+      },
+      {
+        "word": "tablet",
+        "prompt": "Create a scene where a tablet becomes an interactive portal to fantastical realms: animated images, floating interfaces, and modern details blend with a dreamy art style, turning an everyday device into a playful companion for adventures typical of childhood.",
+        "live_clip": "childhood_magic"
+      }
+    ],
+    "maturita": [
+      {
+        "word": "memoria",
+        "prompt": "Create an evocative scene where memory becomes a living archive: recollections, symbolic elements, and nostalgic details blend with modern aspects, forming an emotional landscape that celebrates the value of experience and reflection in adult life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "pianificazione",
+        "prompt": "Visualize an environment where planning becomes an art form: calendars, maps, and guiding lines merge in an orderly, luminous composition, symbolizing the organizational capacity and long-term vision typical of mature life.",
+        "live_clip": "adult_refinement"
+      },
+      {
+        "word": "controllo",
+        "prompt": "Visualize a scene where control becomes a symphony of order and detail: measuring instruments, lines of force, and harmoniously structured settings express the mastery and security needed to navigate the complexities of adult life.",
+        "live_clip": "adult_refinement"
+      }
+    ],
+    "vecchiaia": [
+      {
+        "word": "silenzio",
+        "prompt": "Visualize an environment where silence becomes a visual language: empty spaces, delicate shadows, and details that speak to the importance of the unspoken merge into a meditative image, expressing the depth and peace typical of old age.",
+        "live_clip": "elderly_reflection"
+      },
+      {
+        "word": "soluzioni",
+        "prompt": "Create a scene that captures the essence of soluzioni",
+        "live_clip": "default"
+      },
+      {
+        "word": "stabilità",
+        "prompt": "Create a scene that captures the essence of stabilità",
+        "live_clip": "default"
+      }
+    ]
+  }
+}

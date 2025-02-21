@@ -1,0 +1,53 @@
+{
+  "infanzia": [
+    {
+      "word": "pizza",
+      "prompt": "Create a scene that captures the essence of pizza",
+      "live_clip": "default"
+    },
+    {
+      "word": "storie",
+      "prompt": "Create a scene that captures the essence of storie",
+      "live_clip": "default"
+    },
+    {
+      "word": "nuoto",
+      "prompt": "Create a scene that captures the essence of nuoto",
+      "live_clip": "default"
+    }
+  ],
+  "maturita": [
+    {
+      "word": "opportunità",
+      "prompt": "Create a scene that captures the essence of opportunità",
+      "live_clip": "default"
+    },
+    {
+      "word": "viaggi",
+      "prompt": "Design a spectacular scene where a mature traveler stands at the threshold of multiple worlds. The foreground shows them on a cliff edge, but instead of a single horizon, the view fractures into a kaleidoscope of destinations - each segment showing a different landscape, culture, or time of day. Their backpack appears to be woven from maps that occasionally shift and reform, while their footprints leave behind small portals showing glimpses of past adventures. The air around them is filled with floating compass needles that point to different dreams rather than cardinal directions, and their travel journal floats nearby, its pages releasing origami birds that carry snippets of travel memories. Include intricate details like cloud formations that mimic famous world landmarks, and a walking stick that appears to be made from compressed time itself, marked with rings of different cultures and experiences.",
+      "live_clip": "adventurous_worldly"
+    },
+    {
+      "word": "relazioni",
+      "prompt": "Create a scene that captures the essence of relazioni",
+      "live_clip": "default"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "meditazione",
+      "prompt": "Create a scene that captures the essence of meditazione",
+      "live_clip": "default"
+    },
+    {
+      "word": "passeggiate",
+      "prompt": "Create a scene that captures the essence of passeggiate",
+      "live_clip": "default"
+    },
+    {
+      "word": "focolare",
+      "prompt": "Create a scene that captures the essence of focolare",
+      "live_clip": "default"
+    }
+  ]
+}

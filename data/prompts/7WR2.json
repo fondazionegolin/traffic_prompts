@@ -1,0 +1,53 @@
+{
+  "infanzia": [
+    {
+      "word": "famiglia",
+      "prompt": "Visualize a scene involving famiglia that captures the essence of infanzia.",
+      "live_clip": "default"
+    },
+    {
+      "word": "canzoni",
+      "prompt": "Visualize a scene involving canzoni that captures the essence of infanzia.",
+      "live_clip": "default"
+    },
+    {
+      "word": "ballo",
+      "prompt": "Visualize a scene involving ballo that captures the essence of infanzia.",
+      "live_clip": "default"
+    }
+  ],
+  "maturita": [
+    {
+      "word": "decisioni",
+      "prompt": "Visualize a scene involving decisioni that captures the essence of maturita.",
+      "live_clip": "default"
+    },
+    {
+      "word": "apprendimento",
+      "prompt": "Visualize a scene involving apprendimento that captures the essence of maturita.",
+      "live_clip": "default"
+    },
+    {
+      "word": "skills",
+      "prompt": "Visualize a scene involving skills that captures the essence of maturita.",
+      "live_clip": "default"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "infinito",
+      "prompt": "Visualize a scene involving infinito that captures the essence of vecchiaia.",
+      "live_clip": "default"
+    },
+    {
+      "word": "sfide",
+      "prompt": "Visualize a scene involving sfide that captures the essence of vecchiaia.",
+      "live_clip": "default"
+    },
+    {
+      "word": "controlli",
+      "prompt": "Visualize a scene involving controlli that captures the essence of vecchiaia.",
+      "live_clip": "default"
+    }
+  ]
+}

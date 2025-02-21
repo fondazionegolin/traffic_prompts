@@ -1,0 +1,53 @@
+{
+  "infanzia": [
+    {
+      "word": "pioggia",
+      "prompt": "Visualize a scene involving pioggia that captures the essence of infanzia.",
+      "live_clip": "default"
+    },
+    {
+      "word": "nonna",
+      "prompt": "Visualize a scene involving nonna that captures the essence of infanzia.",
+      "live_clip": "default"
+    },
+    {
+      "word": "gatto",
+      "prompt": "Visualize a scene involving gatto that captures the essence of infanzia.",
+      "live_clip": "default"
+    }
+  ],
+  "maturita": [
+    {
+      "word": "bollette",
+      "prompt": "Visualize a scene involving bollette that captures the essence of maturita.",
+      "live_clip": "default"
+    },
+    {
+      "word": "deadline",
+      "prompt": "Visualize a scene involving deadline that captures the essence of maturita.",
+      "live_clip": "default"
+    },
+    {
+      "word": "emergenze",
+      "prompt": "Visualize a scene involving emergenze that captures the essence of maturita.",
+      "live_clip": "default"
+    }
+  ],
+  "vecchiaia": [
+    {
+      "word": "movimento",
+      "prompt": "Visualize a scene involving movimento that captures the essence of vecchiaia.",
+      "live_clip": "default"
+    },
+    {
+      "word": "famiglia",
+      "prompt": "Visualize a scene involving famiglia that captures the essence of vecchiaia.",
+      "live_clip": "default"
+    },
+    {
+      "word": "armonia",
+      "prompt": "Visualize a scene involving armonia that captures the essence of vecchiaia.",
+      "live_clip": "default"
+    }
+  ]
+}
